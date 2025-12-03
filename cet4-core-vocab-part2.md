@@ -1,0 +1,492 @@
+# CET-4 核心词汇（第2批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+- 例句尽量贴近四级语境，简洁易懂
+
+- background - 背景 — The background of the study is explained in the introduction. 研究的背景在引言中说明。
+- backup - 备份；后备 — Remember to make a backup of your files. 记得备份你的文件。
+- bacteria - 细菌 — Some bacteria are harmless to humans. 有些细菌对人类无害。
+- bad - 坏的；不好的 — The weather is bad today. 今天的天气不好。
+- badly - 严重地；糟糕地 — He was badly injured in the accident. 他在事故中受了重伤。
+- bag - 袋子；包 — She carried a heavy bag. 她提了一个很重的包。
+- balance - 平衡 — Try to keep a balance between work and rest. 尝试在工作与休息之间保持平衡。
+- ban - 禁令；禁止 — The city plans to ban smoking in public places. 该城市计划禁止在公共场所吸烟。
+- band - 乐队；带子 — The band will perform tonight. 乐队今晚将演出。
+- bang - 砰的一声 — The door closed with a loud bang. 门砰的一声关上了。
+- bank - 银行；岸 — I need to go to the bank this afternoon. 我下午要去银行。
+- bankrupt - 破产的 — The company went bankrupt last year. 这家公司去年破产了。
+- banner - 横幅 — A banner hung over the street. 一条横幅挂在街道上方。
+- bar - 酒吧；条；障碍 — We met at a bar near campus. 我们在校园附近的酒吧见面。
+- barbecue - 烧烤 — We had a barbecue in the backyard. 我们在后院举行了烧烤。
+- bare - 裸露的 — He walked on the bare ground. 他在裸露的地面上行走。
+- bargain - 便宜货；交易 — This coat is a real bargain. 这件外套真划算。
+- barrier - 障碍 — Language can be a barrier to communication. 语言可能成为交流的障碍。
+- base - 基础；基地 — Trust is the base of a good relationship. 信任是良好关系的基础。
+- basic - 基本的 — You need to learn some basic skills first. 你需要先学习一些基本技能。
+- basically - 基本上 — Basically, I agree with you. 基本上，我同意你的看法。
+- basis - 基础；根据 — His argument has no solid basis. 他的论点没有坚实的依据。
+- basket - 篮子 — She put the apples in a basket. 她把苹果放进篮子里。
+- bat - 球棒；蝙蝠 — He hit the ball with a bat. 他用球棒击球。
+- bath - 洗澡；浴室 — The baby is taking a bath. 婴儿正在洗澡。
+- bathroom - 浴室；洗手间 — The bathroom is on the second floor. 洗手间在二楼。
+- battery - 电池 — My phone’s battery is low. 我手机的电量很低。
+- battle - 战斗；斗争 — They fought a long battle for freedom. 他们为自由进行了长期斗争。
+- bay - 海湾 — The ship is anchored in the bay. 船停泊在海湾。
+- be - 是；存在 — To be or not to be, that is the question. 是与不是，这是个问题。
+- beach - 海滩 — We walked along the beach at sunset. 我们在日落时沿着海滩散步。
+- beam - 光束；梁 — A beam of light came through the window. 一束光透过窗户。
+- bean - 豆 — I planted some green beans. 我种了些青豆。
+- bear - 熊；忍受 — I can’t bear the noise anymore. 我再也无法忍受这种噪音。
+- beard - 胡子 — He grew a beard last winter. 去年冬天他留了胡子。
+- beat - 打败；敲击 — Our team beat their rivals. 我们队打败了对手。
+- beautiful - 美丽的 — The garden looks beautiful in spring. 春天花园看起来很美。
+- beauty - 美；美人 — Inner beauty matters more than appearance. 内在美比外表更重要。
+- because - 因为 — I left early because I felt sick. 我因为不舒服提前离开。
+- become - 成为 — She became a teacher after graduation. 她毕业后成了老师。
+- bed - 床 — The child is asleep in bed. 孩子在床上睡着了。
+- bedroom - 卧室 — The bedroom is quiet and clean. 卧室安静整洁。
+- bee - 蜜蜂 — A bee landed on the flower. 一只蜜蜂落在花上。
+- beef - 牛肉 — We had beef for dinner. 我们晚餐吃了牛肉。
+- beer - 啤酒 — He doesn’t drink beer. 他不喝啤酒。
+- before - 在…之前 — Think before you act. 三思而后行。
+- begin - 开始 — The class begins at eight. 课程八点开始。
+- beginning - 开始；开端 — It’s just the beginning. 这只是开始。
+- behalf - 代表 — I speak on behalf of my team. 我代表我的团队发言。
+- behave - 表现；举止 — Please behave yourself in public. 请在公共场合举止得体。
+- behavior - 行为 — His behavior surprised everyone. 他的行为让大家惊讶。
+- behind - 在…后面；落后于 — Don’t stay behind. 别落在后面。
+- being - 存在；生物 — Human beings need social connections. 人类需要社会联系。
+- belief - 信念；信仰 — Belief gives people strength. 信念给人力量。
+- believe - 相信 — I believe you can do it. 我相信你能做到。
+- bell - 钟；铃 — The bell rang at noon. 钟在正午敲响。
+- belong - 属于 — This book belongs to me. 这本书属我所有。
+- below - 在…下面 — The temperature is below zero. 气温在零度以下。
+- belt - 皮带；带 — He tightened his belt. 他系紧了皮带。
+- bench - 长凳 — We sat on a bench in the park. 我们坐在公园的长凳上。
+- bend - 弯曲 — Don’t bend the rules. 别违反规则。
+- beneath - 在…之下 — The lake lies beneath the mountain. 湖在山下。
+- beneficial - 有益的 — Regular exercise is beneficial to health. 规律锻炼有益健康。
+- benefit - 好处；利益 — The new policy benefits students. 新政策使学生受益。
+- bent - 弯曲的；爱好 — He has a scientific bent. 他有科学方面的爱好。
+- beside - 在…旁边 — Sit beside me, please. 请坐在我旁边。
+- besides - 除此之外 — Besides English, she speaks French. 除了英语，她还会说法语。
+- best - 最好的 — This is the best choice. 这是最佳选择。
+- bet - 打赌 — I bet you’ll win. 我敢说你会赢。
+- better - 更好的 — Practice makes you better. 练习让你更好。
+- between - 在…之间 — The school is between the bank and the library. 学校在银行和图书馆之间。
+- beyond - 超过；在…之外 — The task is beyond our ability. 任务超出我们的能力。
+- bicycle - 自行车 — He goes to school by bicycle. 他骑自行车上学。
+- bid - 出价；投标 — They bid for the project. 他们投标这个项目。
+- big - 大的 — It’s a big city. 这是座大城市。
+- bike - 自行车 — She repaired her bike. 她修好了她的自行车。
+- bill - 账单；法案 — The bill arrived yesterday. 账单昨天到了。
+- billion - 十亿 — The population is over one billion. 人口超过十亿。
+- bind - 绑；约束 — Laws bind citizens’ behavior. 法律约束公民行为。
+- biology - 生物学 — Biology is her favorite subject. 生物学是她最喜欢的科目。
+- bird - 鸟 — A bird is singing outside. 一只鸟在外面唱歌。
+- birth - 出生 — Her birth was celebrated by the family. 她的出生受到家人的庆祝。
+- birthday - 生日 — Happy birthday to you! 生日快乐！
+- biscuit - 饼干 — He ate a biscuit with tea. 他喝茶配了块饼干。
+- bitter - 苦的；痛苦的 — The medicine tastes bitter. 这药尝起来很苦。
+- black - 黑色的 — She wore a black dress. 她穿了件黑色的裙子。
+- blade - 刀片；刃 — The blade is sharp. 刀片很锋利。
+- blame - 责备 — Don’t blame others for your mistakes. 不要把错误归咎于他人。
+- blank - 空白的 — Fill in the blanks. 填空。
+- blanket - 毯子 — He pulled up the blanket. 他把毯子拉起来盖好。
+- blast - 爆炸；冲击波 — The blast damaged the windows. 爆炸损坏了窗户。
+- blaze - 火焰；光辉 — The blaze lit up the night sky. 火焰照亮了夜空。
+- bleed - 流血 — His nose started to bleed. 他的鼻子开始流血。
+- blend - 混合 — Blend the ingredients well. 把材料充分混合。
+- bless - 祝福；保佑 — God bless you. 上帝保佑你。
+- blind - 失明的；百叶窗 — He is blind in one eye. 他一只眼睛失明。
+- block - 阻塞；街区 — A truck blocked the road. 一辆卡车堵住了道路。
+- blood - 血液 — Blood carries oxygen. 血液输送氧气。
+- bloom - 开花 — The flowers bloom in April. 花在四月开放。
+- blossom - 花朵；开花 — The trees are in blossom. 树正在开花。
+- blow - 吹；打击 — A cold wind began to blow. 寒风开始吹起。
+- blue - 蓝色的；忧郁的 — He feels blue today. 他今天感到忧郁。
+- board - 木板；董事会；上（车、船） — Please board the train now. 请现在上火车。
+- boast - 自夸 — He likes to boast about his achievements. 他爱夸耀自己的成就。
+- boat - 船 — We took a boat across the river. 我们乘船过河。
+- body - 身体；主体 — A healthy body is important. 健康的身体很重要。
+- boil - 煮沸 — Boil the water before drinking. 饮用前将水煮沸。
+- bold - 大胆的；黑体的 — Be bold and speak up. 大胆发言。
+- bolt - 螺栓；闩 — Tighten the bolt. 拧紧螺栓。
+- bomb - 炸弹；轰炸 — The bomb was defused safely. 炸弹被安全拆除。
+- bond - 纽带；债券 — Friendship is a strong bond. 友谊是一种强纽带。
+- bone - 骨头 — He broke a bone in his arm. 他手臂骨折。
+- bonus - 奖金 — Employees received a bonus. 员工领到了奖金。
+- book - 书；预订 — I booked a room online. 我在网上预订了房间。
+- boom - 激增；繁荣 — The tech industry is booming. 科技行业正在繁荣。
+- boost - 促进；提高 — The new plan will boost sales. 新计划将提升销量。
+- boot - 靴子；启动 — The computer failed to boot. 电脑无法启动。
+- border - 边界 — They live near the border. 他们住在边境附近。
+- bore - 使厌烦 — Long speeches bore the audience. 冗长的演讲使观众厌烦。
+- boring - 无聊的 — The movie is boring. 这部电影很无聊。
+- born - 出生的 — He was born in 2005. 他出生于2005年。
+- borrow - 借 — May I borrow your pen? 我可以借你的笔吗？
+- boss - 老板 — The boss called a meeting. 老板召开了会议。
+- both - 两者都 — Both answers are correct. 两个答案都正确。
+- bother - 打扰；烦扰 — Sorry to bother you. 抱歉打扰你。
+- bottle - 瓶子 — He drank a bottle of water. 他喝了一瓶水。
+- bottom - 底部 — The key is at the bottom of the bag. 钥匙在包的底部。
+- bounce - 弹跳 — The ball bounced twice. 球弹了两下。
+- bound - 界限；必然的 — Success is bound to come. 成功必然会到来。
+- boundary - 边界 — Respect the boundary between work and life. 尊重工作与生活的边界。
+- bouquet - 花束 — She received a bouquet of roses. 她收到一束玫瑰。
+- bow - 鞠躬；弓 — They bowed to the audience. 他们向观众鞠躬。
+- bowl - 碗 — He ate noodles from a bowl. 他用碗吃面条。
+- box - 盒子；拳击 — Put the toys in the box. 把玩具放进盒子里。
+- boy - 男孩 — The boy is reading. 男孩正在读书。
+- boycott - 抵制 — They called for a boycott of the product. 他们呼吁抵制该产品。
+- brain - 大脑 — The brain controls the body. 大脑控制身体。
+- branch - 分支；树枝 — The company opened a new branch. 公司开设了新分部。
+- brand - 品牌 — This is a famous brand. 这是一个知名品牌。
+- brave - 勇敢的 — She is brave enough to try. 她足够勇敢去尝试。
+- bravely - 勇敢地 — He fought bravely. 他英勇作战。
+- breach - 违反；破裂 — A breach of contract is serious. 违约很严重。
+- break - 打破；休息 — Let’s take a break. 我们休息一下吧。
+- breakfast - 早餐 — He made breakfast for the family. 他为家人做了早餐。
+- breath - 呼吸 — Take a deep breath. 深呼吸。
+- breathe - 呼吸 — Breathe slowly and relax. 缓慢呼吸并放松。
+- breed - 繁殖；品种 — The farm breeds sheep. 这农场饲养羊。
+- breeze - 微风 — A cool breeze blew in. 清凉的微风吹进来。
+- bribe - 贿赂 — He refused to accept a bribe. 他拒绝收受贿赂。
+- brick - 砖 — The wall is made of bricks. 这墙是砖砌的。
+- bridge - 桥 — We crossed the bridge. 我们过了桥。
+- brief - 简短的；简介 — Keep your speech brief. 保持发言简短。
+- briefly - 简要地 — He briefly explained the plan. 他简要说明了计划。
+- bright - 明亮的；聪明的 — The room is bright and warm. 房间明亮温暖。
+- brilliant - 卓越的；闪耀的 — She had a brilliant idea. 她有个绝妙的主意。
+- bring - 带来 — Please bring your ID card. 请带上你的身份证。
+- brisk - 轻快的；兴旺的 — Business is brisk today. 今天生意兴旺。
+- broad - 宽的；广泛的 — He has a broad range of interests. 他兴趣广泛。
+- broadcast - 广播；播出 — The match was broadcast live. 比赛进行了直播。
+- brochure - 小册子 — The brochure provides details. 小册子提供了详细信息。
+- broken - 破碎的；坏了的 — The screen is broken. 屏幕坏了。
+- bronze - 青铜 — The statue is made of bronze. 雕像由青铜制成。
+- brother - 兄弟 — His brother lives abroad. 他的兄弟住在国外。
+- brow - 眉；额 — She raised her brow. 她扬起了眉毛。
+- brown - 棕色的 — The leaves turned brown. 叶子变成了棕色。
+- browser - 浏览器 — Update your browser for security. 为安全起见，更新你的浏览器。
+- bruise - 青肿 — He has a bruise on his arm. 他手臂有块淤青。
+- brush - 刷子；刷 — Brush your teeth twice a day. 每天刷牙两次。
+- brutal - 残酷的 — The winter was brutal. 冬天很残酷。
+- bubble - 气泡 — Soap bubbles floated in the air. 肥皂泡在空中飘浮。
+- bucket - 桶 — Fill the bucket with water. 把桶装满水。
+- budget - 预算 — We need to plan the budget. 我们需要规划预算。
+- bug - 虫子；故障 — The app has a serious bug. 这个应用有严重故障。
+- build - 建造 — They plan to build a new library. 他们计划建一座新图书馆。
+- builder - 建筑工 — The builder arrived early. 建筑工人很早到达。
+- building - 建筑 — The building is under repair. 这栋建筑正在维修。
+- bulb - 灯泡；球茎 — Replace the bulb in the lamp. 更换灯里的灯泡。
+- bulk - 大量；体积 — We buy goods in bulk. 我们大量购买商品。
+- bull - 公牛 — The bull ran across the field. 公牛跑过田野。
+- bullet - 子弹 — The bullet hit the target. 子弹击中目标。
+- bulletin - 公告 — The bulletin was posted online. 公告已在网上发布。
+- bully - 欺凌；恶霸 — Don’t bully your classmates. 不要欺负你的同学。
+- bump - 碰撞；肿块 — The car bumped into the wall. 车撞到了墙上。
+- bunch - 一束；一伙 — He bought a bunch of flowers. 他买了一束花。
+- bundle - 捆；包 — She carried a bundle of clothes. 她拿着一包衣服。
+- buoy - 浮标 — A red buoy marks the channel. 红色浮标标记着水道。
+- burden - 负担 — Don’t let stress be a burden. 别让压力成为负担。
+- bureau - 局；处；五斗柜 — He works at the tourism bureau. 他在旅游局工作。
+- burger - 汉堡 — I ordered a chicken burger. 我点了一个鸡肉汉堡。
+- burial - 埋葬 — The burial took place at noon. 埋葬在中午进行。
+- burn - 燃烧；烧伤 — The fire burns quickly. 火燃烧得很快。
+- burst - 爆裂；突然发生 — The balloon burst suddenly. 气球突然爆裂。
+- bury - 埋葬；埋 — They bury the treasure safely. 他们把宝藏安全地埋好。
+- bus - 公交车 — The bus is full. 公交车满员了。
+- bush - 灌木 — A bird hid in the bush. 一只鸟藏在灌木丛中。
+- business - 生意；商务 — She is studying business. 她在学习商业。
+- busy - 忙碌的 — He is busy with his homework. 他忙着做作业。
+- butcher - 屠夫；切割 — The butcher cut the meat. 屠夫切割了肉。
+- butter - 黄油 — Spread butter on the bread. 在面包上抹黄油。
+- butterfly - 蝴蝶 — A butterfly flew over the garden. 一只蝴蝶飞过花园。
+- button - 按钮；纽扣 — Press the start button. 按下开始按钮。
+- buy - 买 — Buy only what you need. 只买你需要的东西。
+- by - 通过；在…旁边 — We arrived by bus. 我们乘公交到达。
+- bypass - 旁路；绕过 — They built a bypass to reduce traffic. 他们修建了旁路以减少交通拥堵.
+- cab - 出租车 — We took a cab to the station. 我们坐出租车去车站。
+- cabin - 小屋；机舱 — The cabin is warm and cozy. 小木屋温暖舒适。
+- cable - 电缆；有线电视 — The cable is damaged. 电缆损坏了。
+- cactus - 仙人掌 — The cactus needs little water. 仙人掌需水很少。
+- cage - 笼子 — The bird lives in a cage. 鸟住在笼子里。
+- calculate - 计算 — Please calculate the total cost. 请计算总成本。
+- calendar - 日历 — Mark the date on your calendar. 在你的日历上标记日期。
+- calf - 小牛；小腿 — The calf stayed close to its mother. 小牛紧靠母牛。
+- call - 打电话；称呼 — Call me when you arrive. 到达时给我打电话。
+- calm - 冷静的；使平静 — Try to stay calm in emergencies. 紧急情况下尽量保持冷静。
+- camera - 相机 — He bought a new camera. 他买了新相机。
+- camp - 露营；营地 — We camped by the lake. 我们在湖边露营。
+- campaign - 运动；活动 — The campaign raised awareness. 该活动提高了意识。
+- campus - 校园 — The campus is beautiful in spring. 春天的校园很美。
+- can - 能；会；罐头 — I can swim well. 我会游泳。
+- canal - 运河 — Boats move along the canal. 船沿着运河行驶。
+- cancel - 取消 — The meeting was canceled. 会议被取消了。
+- cancer - 癌症 — Early tests can prevent cancer. 早期检测能预防癌症。
+- candidate - 候选人 — Each candidate gave a speech. 每位候选人都发表了演讲。
+- candle - 蜡烛 — Light a candle in the dark. 在黑暗中点亮蜡烛。
+- candy - 糖果 — Don’t eat too much candy. 不要吃太多糖果。
+- cane - 手杖；藤条 — The old man walked with a cane. 老人拄着手杖行走。
+- cannon - 大炮 — The old cannon is on display. 古炮正在展出。
+- cannot - 不能 — We cannot change the past. 我们不能改变过去。
+- canoe - 独木舟 — They paddled a canoe across the lake. 他们划独木舟穿过湖。
+- canvas - 帆布；画布 — The artist painted on canvas. 艺术家在画布上作画。
+- cap - 帽子；盖 — He wore a baseball cap. 他戴着棒球帽。
+- capability - 能力 — We improved our capability. 我们提升了能力。
+- capable - 有能力的 — She is capable of leading the team. 她有能力领导团队。
+- capacity - 容量；能力 — The hall has a capacity of 500. 礼堂容量为500人。
+- capital - 首都；资本 — Beijing is the capital of China. 北京是中国的首都。
+- captain - 队长；船长 — The captain gave orders. 队长下达了命令。
+- capture - 捕获；引起（注意） — The photo captured the moment. 这张照片捕捉了那一刻。
+- car - 车 — The car is parked outside. 车停在外面。
+- carbon - 碳 — Carbon dioxide is a greenhouse gas. 二氧化碳是温室气体。
+- card - 卡片；牌 — Please show your ID card. 请出示你的身份证。
+- care - 照顾；在意 — Take care of yourself. 照顾好自己。
+- career - 职业；事业 — She chose a career in law. 她选择了法律职业。
+- careful - 小心的 — Be careful when crossing the street. 过马路时要小心。
+- careless - 粗心的 — A careless mistake cost him points. 一个粗心错误让他失分。
+- cargo - 货物 — The cargo was delivered on time. 货物按时送达。
+- carpet - 地毯 — The carpet is soft. 地毯很柔软。
+- carrot - 胡萝卜 — Rabbits like carrots. 兔子爱吃胡萝卜。
+- carry - 搬运；携带 — Carry your bag with you. 随身带上你的包。
+- cart - 手推车 — Put the boxes in the cart. 把箱子放到手推车里。
+- cartoon - 卡通；漫画 — The cartoon is funny. 这部卡通很有趣。
+- carve - 雕刻 — He carved his name into the wood. 他把自己的名字雕刻在木头上。
+- case - 情况；案例；盒 — In this case, we should wait. 在这种情况下，我们应该等待。
+- cash - 现金 — Pay in cash or by card. 现金或刷卡支付。
+- cassette - 盒式磁带 — He found an old cassette. 他找到了一盘旧磁带。
+- cast - 投掷；演员阵容 — The director announced the cast. 导演公布了演员阵容。
+- castle - 城堡 — The castle stands on the hill. 城堡矗立在山上。
+- casual - 随意的；非正式的 — Friday is a casual day. 周五是便装日。
+- casualty - 伤亡 — The accident caused several casualties. 事故造成数名伤亡。
+- cat - 猫 — The cat slept on the sofa. 猫在沙发上睡觉。
+- catalog - 目录 — Check the catalog for details. 查目录了解详情。
+- catch - 抓住；赶上 — Catch the bus at the next stop. 在下一站赶上公交。
+- category - 类别 — This book falls into the science category. 这本书归入科学类。
+- cater - 提供餐饮；迎合 — They cater for large events. 他们为大型活动提供餐饮。
+- cattle - 牛群 — The farmer keeps cattle. 农夫养牛。
+- cause - 导致；原因 — Stress can cause headaches. 压力会导致头痛。
+- caution - 小心；警告 — Use caution when handling chemicals. 操作化学品时要小心。
+- cautious - 谨慎的 — She is cautious about spending money. 她花钱很谨慎。
+- cave - 洞穴 — They explored a cave. 他们探险了一个洞穴。
+- cease - 停止 — The noise finally ceased. 噪音终于停止了。
+- ceiling - 天花板 — The ceiling is painted white. 天花板被刷成白色。
+- celebrate - 庆祝 — They celebrate the festival every year. 他们每年庆祝这个节日。
+- celebration - 庆典 — The celebration lasted all night. 庆典持续了一整夜。
+- cell - 细胞；小房间；手机 — The human body is made of cells. 人体由细胞组成。
+- cellar - 地窖 — Wine is stored in the cellar. 酒存放在地窖里。
+- cement - 水泥；粘合 — Cement the bricks together. 用水泥把砖粘合在一起。
+- cemetery - 墓地 — The cemetery is quiet. 墓地很安静。
+- census - 人口普查 — The census is conducted every ten years. 人口普查每十年进行一次。
+- center - 中心 — The city center is busy. 市中心很繁忙。
+- central - 中央的；核心的 — This is a central issue. 这是一个核心问题。
+- century - 世纪 — The building is a century old. 这建筑已有一个世纪的历史。
+- cereal - 谷物；麦片 — He eats cereal for breakfast. 他早餐吃麦片。
+- certain - 某些；确定的 — I’m certain about the result. 我对结果很确定。
+- certainly - 当然；一定 — Certainly, I can help. 当然，我可以帮忙。
+- certificate - 证书 — She received a certificate of completion. 她拿到了结业证书。
+- chain - 链；连锁 — The bike chain is broken. 自行车链条断了。
+- chair - 椅子；主席 — He sat on a wooden chair. 他坐在木椅上。
+- chairman - 主席 — The chairman opened the meeting. 主席主持了会议。
+- challenge - 挑战 — The exam is a real challenge. 这次考试是真正的挑战。
+- chamber - 房间；议院 — The chamber was silent. 房间很安静。
+- champion - 冠军 — She is the national champion. 她是全国冠军。
+- chance - 机会；可能性 — Give me a chance to try. 给我一个尝试的机会。
+- change - 改变；零钱 — Change takes time. 改变需要时间。
+- channel - 频道；渠道 — Switch to another channel. 换到另一个频道。
+- chaos - 混乱 — The room fell into chaos. 房间陷入混乱。
+- chapter - 章节 — Read chapter two carefully. 仔细阅读第二章。
+- character - 角色；性格；字符 — He is a main character in the story. 他是故事中的主角。
+- characteristic - 特征 — Honesty is a good characteristic. 诚实是一种好特征。
+- charge - 收费；指控；充电 — They charge a fee for delivery. 他们收取配送费。
+- charity - 慈善 — She donated to a charity. 她向慈善机构捐款。
+- charm - 魅力；使着迷 — His smile has charm. 他的笑容很有魅力。
+- chart - 图表 — The chart shows the trend. 图表显示了趋势。
+- chase - 追赶 — The cat chased the mouse. 猫追赶老鼠。
+- cheap - 便宜的 — The shoes are cheap but comfortable. 这双鞋便宜但舒适。
+- cheat - 作弊；欺骗 — It’s wrong to cheat on exams. 考试作弊是不对的。
+- check - 检查；核对 — Check your answers before handing in. 交卷前检查你的答案。
+- cheek - 面颊 — She kissed him on the cheek. 她吻了他的面颊。
+- cheerful - 快乐的；愉快的 — He is always cheerful. 他总是很开心。
+- cheese - 奶酪 — I like cheese on pizza. 我喜欢披萨上的奶酪。
+- chef - 主厨 — The chef cooked a delicious meal. 主厨做了一顿美味的饭。
+- chemical - 化学的；化学品 — Chemical reactions release energy. 化学反应会释放能量。
+- chemist - 化学家；药剂师 — Ask the chemist for advice. 请教药剂师的建议。
+- chemistry - 化学 — She is studying chemistry. 她在学习化学。
+- chest - 胸部；箱子 — He felt pain in his chest. 他胸口疼痛。
+- chew - 咀嚼 — Chew your food slowly. 慢慢咀嚼食物。
+- chicken - 鸡；鸡肉 — We cooked chicken for lunch. 我们午餐做了鸡肉。
+- chief - 首席的；主要的 — He is the chief editor. 他是主编。
+- child - 儿童 — The child is playing outside. 孩子在外面玩。
+- childhood - 童年 — She remembers her childhood. 她记得她的童年。
+- chill - 寒冷；使变冷 — A chill wind blew. 一阵寒风吹起。
+- chimney - 烟囱 — Smoke rose from the chimney. 烟从烟囱里升起。
+- chin - 下巴 — Keep your chin up. 保持乐观（抬头）。
+- chip - 薯片；芯片 — The chip is damaged. 芯片损坏了。
+- choice - 选择 — It’s a difficult choice. 这是个困难的选择。
+- choke - 窒息；哽住 — He choked on a piece of bread. 他被一块面包噎住了。
+- choose - 选择 — Choose wisely. 明智地选择。
+- chop - 砍；切 — Chop the onions finely. 把洋葱切碎。
+- chorus - 合唱；副歌 — The chorus sang loudly. 合唱团唱得很响亮。
+- Christian - 基督教的；基督徒 — He is a Christian. 他是基督徒。
+- Christmas - 圣诞节 — They celebrate Christmas together. 他们一起庆祝圣诞节。
+- chronic - 慢性的 — She has chronic pain. 她有慢性疼痛。
+- cinema - 电影院 — We went to the cinema. 我们去了电影院。
+- circle - 圆；圈 — Draw a circle on the paper. 在纸上画一个圆。
+- circuit - 电路；环行 — The circuit is broken. 电路断了。
+- circumstance - 情况；环境 — Under these circumstances, we agree. 在这些情况下，我们同意。
+- cite - 引用 — Please cite your sources. 请引用你的来源。
+- citizen - 公民 — Every citizen has rights. 每位公民都有权利。
+- city - 城市 — The city is crowded. 城市很拥挤。
+- civil - 公民的；民用的 — This is a civil case. 这是一个民事案件。
+- civilization - 文明 — Ancient civilization was advanced. 古代文明很先进。
+- claim - 声称；索赔 — He claimed to be innocent. 他声称自己无辜。
+- clap - 鼓掌 — The audience clapped loudly. 观众大声鼓掌。
+- class - 班级；类别 — Our class starts at nine. 我们的课九点开始。
+- classic - 经典的 — It’s a classic novel. 这是一本经典小说。
+- classical - 古典的 — She loves classical music. 她喜欢古典音乐。
+- classify - 分类 — Classify the books by topic. 按主题分类书籍。
+- classroom - 教室 — The classroom is clean. 教室很干净。
+- clause - 条款 — Read the clause carefully. 仔细阅读该条款。
+- clay - 黏土 — The pot is made of clay. 这个陶罐是黏土做的。
+- clean - 清洁的；打扫 — Keep the kitchen clean. 保持厨房干净。
+- cleaner - 清洁工；清洁剂 — The cleaner arrived at eight. 清洁工八点到。
+- clear - 清楚的；清理 — Your idea is clear and simple. 你的想法清晰简单。
+- clearly - 清楚地 — He clearly explained the rules. 他清楚地解释了规则。
+- clerk - 职员 — The clerk helped me pay the bill. 职员帮我付账。
+- clever - 聪明的 — She is clever and creative. 她聪明又有创造力。
+- click - 点击 — Click the link to open the page. 点击链接打开页面。
+- client - 客户 — The client signed the contract. 客户签了合同。
+- cliff - 悬崖 — The cliff is high and steep. 悬崖又高又陡。
+- climate - 气候 — The climate is mild here. 这里的气候温和。
+- climb - 爬；攀登 — They climbed the mountain. 他们爬了那座山。
+- clinic - 诊所 — The clinic opens at seven. 诊所七点开门。
+- clip - 夹子；剪辑 — Use a clip to hold the paper. 用夹子夹住纸。
+- clock - 时钟 — The clock stopped at noon. 时钟在正午停了。
+- close - 关闭；接近的 — Please close the window. 请关上窗户。
+- closely - 紧密地；密切地 — We worked closely together. 我们紧密合作。
+- closet - 壁橱 — The closet is full of clothes. 壁橱里满是衣服。
+- cloth - 布料 — The cloth feels soft. 布料摸起来很柔软。
+- clothes - 衣服 — Fold your clothes neatly. 把衣服整齐叠好。
+- clothing - 服装 — The store sells sports clothing. 这家店卖运动服装。
+- cloud - 云 — Dark clouds covered the sky. 乌云笼罩天空。
+- club - 俱乐部 — He joined the chess club. 他加入了国际象棋俱乐部。
+- clue - 线索 — We have no clue yet. 我们还没有线索。
+- clumsy - 笨拙的 — He is clumsy when dancing. 他跳舞很笨拙。
+- cluster - 群；簇 — A cluster of stars is visible. 一簇星星清晰可见。
+- coach - 教练；长途汽车 — The coach gave useful advice. 教练提出了有用建议。
+- coal - 煤 — The plant uses coal as fuel. 该工厂用煤作为燃料。
+- coast - 海岸 — We walked along the coast. 我们沿着海岸走。
+- coastal - 沿海的 — Coastal cities face storms. 沿海城市面临风暴。
+- coat - 外套；涂层 — Put on your coat. 穿上你的外套。
+- cocoa - 可可 — Cocoa powder is bitter. 可可粉是苦的。
+- coconut - 椰子 — Coconut trees grow near the beach. 椰子树在海滩附近生长。
+- code - 代码；法典 — Follow the safety code. 遵守安全守则。
+- coffee - 咖啡 — He drinks coffee every morning. 他每天早上喝咖啡。
+- coffin - 棺材 — The coffin was carried slowly. 棺材被缓缓抬着。
+- cognitive - 认知的 — Cognitive skills can be trained. 认知能力可以训练。
+- coherent - 连贯的 — Her speech is coherent and clear. 她的演讲连贯清晰。
+- coin - 硬币 — He collects old coins. 他收藏旧硬币。
+- coincide - 一致；同时发生 — Our opinions coincide. 我们的观点一致。
+- cold - 冷的；感冒 — It’s very cold today. 今天很冷。
+- collapse - 倒塌；崩溃 — The bridge collapsed during the storm. 桥在暴风雨中倒塌。
+- collar - 衣领 — His collar is dirty. 他的衣领脏了。
+- colleague - 同事 — My colleague is helpful. 我的同事很乐于助人。
+- collect - 收集；领取 — Collect data for the report. 为报告收集数据。
+- collection - 收藏；集合 — The museum has a large collection. 博物馆有大量藏品。
+- collective - 集体的 — Collective effort leads to success. 集体努力带来成功。
+- college - 学院；大学 — She goes to college this year. 她今年上大学。
+- collision - 碰撞 — The cars avoided a collision. 车辆避免了碰撞。
+- colonel - 上校 — The colonel gave the order. 上校下令。
+- colonial - 殖民的 — The country has a colonial history. 这个国家有殖民历史。
+- colony - 殖民地；群体 — The ants formed a colony. 蚂蚁形成了一个群体。
+- color - 颜色 — What’s your favorite color? 你最喜欢什么颜色？
+- colorful - 多彩的 — The painting is colorful. 这幅画色彩丰富。
+- column - 柱子；专栏 — He writes a weekly column. 他写每周专栏。
+- combination - 组合 — The combination works well. 这种组合效果很好。
+- combine - 结合；合并 — Combine theory with practice. 理论与实践结合。
+- come - 来；到 — Come here, please. 请过来。
+- comedy - 喜剧 — We watched a comedy last night. 我们昨晚看了喜剧。
+- comfort - 舒适；安慰 — The chair offers comfort. 这把椅子很舒适。
+- comfortable - 舒适的 — The bed is comfortable. 床很舒适。
+- command - 命令；指挥 — He gave a clear command. 他下达了明确命令。
+- commander - 指挥官 — The commander led the troops. 指挥官带领部队。
+- comment - 评论 — Leave a comment below. 在下面留言评论。
+- commerce - 商业 — Commerce drives the economy. 商业推动经济。
+- commercial - 商业的；广告 — The commercial was funny. 这个广告很有趣。
+- commission - 委员会；佣金 — The commission will investigate. 委员会将展开调查。
+- commit - 承诺；犯（错） — Don’t commit the same mistake. 不要犯同样的错误。
+- commitment - 承诺；投入 — Commitment matters in teamwork. 承诺在团队合作中很重要。
+- committee - 委员会 — The committee meets on Monday. 委员会周一开会。
+- commodity - 商品 — Oil is a key commodity. 石油是重要商品。
+- common - 常见的；共同的 — It’s a common problem. 这是常见问题。
+- commonly - 通常地 — This word is commonly used. 这个词通常使用。
+- communicate - 沟通 — We communicate by email. 我们通过邮件沟通。
+- communication - 沟通；通讯 — Good communication reduces conflict. 良好沟通减少冲突。
+- community - 社区；群体 — The community is friendly. 社区很友好。
+- commute - 通勤 — He commutes by train. 他乘火车通勤。
+- compact - 紧凑的；压紧 — The design is compact. 设计很紧凑。
+- companion - 同伴 — The dog is his companion. 狗是他的伙伴。
+- company - 公司；陪伴 — She works for a big company. 她在一家大公司工作。
+- comparable - 可比较的 — The results are comparable. 结果可比较。
+- comparative - 比较的 — We used comparative analysis. 我们使用了比较分析。
+- compare - 比较 — Compare the two pictures. 比较这两幅图。
+- comparison - 比较 — The comparison shows differences. 比较显示了差异。
+- compass - 指南针；罗盘 — Use a compass to find direction. 用指南针找方向。
+- compassion - 同情 — Show compassion to others. 对他人表示同情。
+- compensate - 补偿 — They will compensate for the loss. 他们会对损失进行补偿。
+- compensation - 补偿；赔偿金 — He received compensation for injuries. 他因受伤获得赔偿金。
+- compete - 竞争 — Teams compete for the prize. 队伍为奖品竞争。
+- competence - 能力；胜任 — She has strong competence. 她能力很强。
+- competent - 胜任的 — He is competent in his job. 他胜任他的工作。
+- competition - 竞争；比赛 — The competition is tough. 比赛很激烈。
+- competitive - 竞争的；有竞争力的 — Prices are competitive. 价格很有竞争力。
+- competitor - 竞争者 — We study our competitors. 我们研究竞争者。
+- compile - 编译；汇编 — Compile the data into a report. 将数据汇编成报告。
+- complain - 抱怨 — Don’t complain; find solutions. 不要抱怨；寻找解决方案。
+- complaint - 投诉 — We filed a complaint. 我们提交了投诉。
+- complete - 完整的；完成 — Complete the form carefully. 仔细完成表格。
+- completely - 完全地 — I completely agree. 我完全同意。
+- completion - 完成 — The project is near completion. 项目接近完成。
+- complex - 复杂的；综合体 — The problem is complex. 这个问题很复杂。
+- complexity - 复杂性 — We underestimated the complexity. 我们低估了复杂性。
+- complicate - 使复杂化 — Don’t complicate simple tasks. 不要把简单任务复杂化。
+- complication - 并发症；复杂情况 — The surgery had no complications. 手术没有并发症。
+- compliment - 称赞 — She received a compliment on her speech. 她的演讲受到称赞。
+- comply - 遵守 — Please comply with the rules. 请遵守规则。
+- component - 组件；成分 — The phone has many components. 手机有很多组件。
+- compose - 构成；作曲 — Water is composed of hydrogen and oxygen. 水由氢和氧构成。
+- composition - 构成；作文 — The composition is well organized. 这篇作文结构良好。
+- compound - 化合物；复合的 — Salt is a chemical compound. 盐是一种化合物。
+- comprehend - 理解 — He can’t comprehend the text. 他无法理解这段文字。
+- comprehensive - 全面的 — We need a comprehensive plan. 我们需要一个全面的计划。
+- compress - 压缩 — Compress the file before sending. 发送前压缩文件。
+- compromise - 妥协 — They reached a compromise. 他们达成了妥协。
+- compute - 计算 — Computers compute very fast. 计算机计算速度很快。
+- computer - 电脑 — The computer is brand new. 电脑是全新的。
+- conceal - 隐藏 — Don’t conceal the truth. 不要隐瞒真相。
+- concede - 承认；让步 — He refused to concede defeat. 他拒绝承认失败。
+- concentrate - 集中注意力 — Please concentrate on the task. 请专心于任务。
+- concentration - 专注；浓度 — High concentration is required. 需要高度专注。
+- concept - 概念 — The concept is difficult to grasp. 这个概念难以掌握。
+- concern - 关心；担心 — Your safety is our main concern. 你的安全是我们的主要关切。
+- concerned - 关心的；担心的 — Parents are concerned about grades. 家长关心成绩。
+- concerning - 关于 — Concerning the plan, we agree. 关于该计划，我们同意。
+- concert - 音乐会 — The concert starts at seven. 音乐会七点开始。
+- conclude - 得出结论；结束 — We conclude the meeting now. 我们现在结束会议。
+- conclusion - 结论 — The conclusion is clear. 结论很清晰。
+- concrete - 具体的；混凝土 — Give concrete examples. 给出具体例子。
+- condemn - 谴责 — We condemn violence. 我们谴责暴力。
+- condition - 条件；状况 — The car is in good condition. 这辆车状况良好。
+- conduct - 指导；行为；传导 — He will conduct the survey. 他将进行调查。
+- conductor - 指挥；导体 — The conductor led the orchestra. 指挥带领管弦乐队。
+- conference - 会议 — The conference begins tomorrow. 会议明天开始。
+- confess - 坦白；承认 — He confessed his mistake. 他承认了错误。
+- confidence - 信心 — Confidence helps you succeed. 信心帮助你成功。
+- confident - 自信的 — She is confident about the test. 她对考试很自信。
+- confidential - 机密的 — The file is confidential. 文件是机密的。
+- configuration - 配置 — Check the system configuration. 检查系统配置。
+（未完待续）
