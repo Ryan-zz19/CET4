@@ -1,0 +1,376 @@
+# CET-4 核心词汇（第3批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+- 若需添加音标和词性，请告知，我可从下一批开始补充
+
+- configure - 配置 — Please configure the network settings. 请配置网络设置。
+- confine - 限制；监禁 — The disease was confined to one area. 疾病被限制在一个区域内。
+- confirm - 确认 — Please confirm your email address. 请确认你的电子邮箱地址。
+- conflict - 冲突 — They tried to avoid conflict. 他们尽力避免冲突。
+- confront - 面对；对抗 — We must confront our fears. 我们必须面对恐惧。
+- confuse - 使困惑 — The instructions confuse new users. 指南让新用户困惑。
+- confusion - 混乱；困惑 — The change caused confusion. 变化引起了混乱。
+- congratulate - 祝贺 — We congratulate you on your success. 我们祝贺你的成功。
+- congregation - 会众；集会 — The congregation sang together. 会众一起唱歌。
+- connect - 连接 — Connect the printer to the computer. 把打印机连接到电脑。
+- connection - 连接；关系 — There is a strong connection between the two. 两者之间联系紧密。
+- conquer - 征服 — They tried to conquer the mountain. 他们试图征服那座山。
+- conscience - 良心 — His conscience bothered him. 他的良心不安。
+- conscious - 有意识的；清醒的 — She was conscious during the operation. 她在手术中保持清醒。
+- consciousness - 意识 — He lost consciousness for a moment. 他失去了一会儿意识。
+- consecutive - 连续的 — The team won three consecutive games. 该队连续赢了三场。
+- consent - 同意 — We need your consent to proceed. 我们需要你的同意才能继续。
+- consequence - 结果；后果 — Consider the consequence of your choice. 考虑你的选择的后果。
+- conservative - 保守的 — He holds conservative views. 他持保守观点。
+- consider - 考虑 — Please consider my suggestion. 请考虑我的建议。
+- considerable - 相当大的 — It took considerable time to finish. 完成花了相当多的时间。
+- consideration - 考虑；体谅 — Show consideration for others. 要体谅他人。
+- consist - 由…组成 — The team consists of ten members. 这个团队由十名成员组成。
+- consistent - 一致的；持续的 — Your results are consistent with ours. 你的结果与我们的相一致。
+- consistently - 一贯地 — She consistently arrives early. 她一贯很早到达。
+- consolidate - 巩固；合并 — We will consolidate our resources. 我们将整合资源。
+- construct - 建造；构思 — They plan to construct a new bridge. 他们计划修建一座新桥。
+- construction - 建设；结构 — Construction will start in May. 建设将于五月开始。
+- consult - 咨询；查阅 — Consult your advisor first. 先咨询你的导师。
+- consultant - 顾问 — The consultant gave useful advice. 顾问提出了有用建议。
+- consume - 消耗；消费 — We consume too much sugar. 我们糖摄入过多。
+- consumer - 消费者 — Consumers prefer low prices. 消费者偏好低价格。
+- consumption - 消耗；消费 — Energy consumption is rising. 能耗正在上升。
+- contact - 联系 — Please contact me if needed. 如有需要请联系我。
+- contain - 包含；容纳 — The box contains books. 盒子里装着书。
+- container - 容器 — Use a glass container. 使用玻璃容器。
+- contemporary - 当代的；同时期的 — He studies contemporary art. 他研究当代艺术。
+- contend - 争论；竞争 — Several teams contend for the title. 多支队伍争夺冠军。
+- content - 内容；满意的 — The content is easy to understand. 内容易于理解。
+- contented - 满意的 — She felt contented with her life. 她对生活感到满意。
+- contest - 比赛；争夺 — They entered a singing contest. 他们参加了歌唱比赛。
+- context - 上下文；背景 — Understand the word in context. 在上下文中理解这个词。
+- continent - 大陆；洲 — Africa is a large continent. 非洲是一个大洲。
+- continue - 继续 — We will continue after the break. 休息后我们继续。
+- continuous - 连续的 — The noise was continuous all night. 噪音整夜不断。
+- continually - 不断地 — He continually improves his skills. 他不断提高技能。
+- contract - 合同；收缩 — They signed a two-year contract. 他们签署了两年合同。
+- contractor - 承包商 — The contractor repaired the roof. 承包商修理了屋顶。
+- contradict - 反驳；与…矛盾 — His actions contradict his words. 他的行为与他的言辞相矛盾。
+- contrary - 相反的 — Contrary to expectations, it worked. 出乎预料，它成功了。
+- contrast - 对比 — Contrast the two methods. 比较这两种方法的异同。
+- contribute - 贡献；捐献 — Many students contribute ideas. 许多学生贡献了想法。
+- contribution - 贡献；捐款 — Thank you for your contribution. 感谢你的贡献。
+- control - 控制 — Control your time wisely. 明智地掌控你的时间。
+- controversy - 争议 — The decision caused controversy. 该决定引发争议。
+- convenient - 方便的 — Online payment is convenient. 在线支付很方便。
+- convention - 大会；习俗 — The annual convention opens today. 年度大会今天开幕。
+- conversation - 对话 — We had a long conversation. 我们进行了长时间的对话。
+- convert - 转换 — Convert the file to PDF. 把文件转换为PDF。
+- convey - 传达；运送 — Please convey my thanks to her. 请转达我的感谢。
+- convince - 说服；使信服 — I couldn’t convince him to stay. 我无法说服他留下。
+- cook - 烹饪 — She loves to cook Italian food. 她喜欢做意大利菜。
+- cooker - 炉灶；电饭锅 — Put the pot on the cooker. 把锅放到炉灶上。
+- cookie - 曲奇饼 — He baked chocolate cookies. 他烤了巧克力曲奇。
+- cool - 凉爽的；酷 — Keep the drinks cool. 让饮料保持凉爽。
+- cooperate - 合作 — We need to cooperate closely. 我们需要紧密合作。
+- cooperation - 合作 — Cooperation makes work easier. 合作让工作更轻松。
+- cooperative - 合作的；合作社 — A cooperative approach works best. 合作的方式最有效。
+- coordinate - 协调；配合 — Coordinate with the team. 与团队协调配合。
+- coordination - 协调 — Good coordination improves efficiency. 良好的协调提高效率。
+- cope - 应对 — He can’t cope with the stress. 他无法应对压力。
+- copper - 铜 — The cable is made of copper. 电缆由铜制成。
+- copy - 复制；副本 — Make a copy of the file. 复制一份文件。
+- copyright - 版权 — The book is under copyright. 这本书受版权保护。
+- coral - 珊瑚 — Coral reefs are beautiful. 珊瑚礁很美。
+- core - 核心 — Trust is the core of teamwork. 信任是团队合作的核心。
+- corn - 玉米 — Corn grows well here. 这里的玉米长得好。
+- corner - 角落 — Put the table in the corner. 把桌子放在角落里。
+- corporation - 公司；企业集团 — The corporation expanded fast. 该公司扩张迅速。
+- corporate - 公司的；企业的 — Corporate culture matters. 企业文化很重要。
+- corpse - 尸体 — The corpse was found at dawn. 尸体在黎明时被发现。
+- correct - 正确的；改正 — Please correct the errors. 请改正错误。
+- correction - 修正；更正 — The teacher made a correction. 老师做了一个更正。
+- correlation - 相关性 — There is a correlation between sleep and grades. 睡眠与成绩之间存在相关性。
+- correspond - 相符合；通信 — The facts correspond with the report. 事实与报告相符。
+- correspondent - 通讯记者；通信者 — A foreign correspondent reported on the event. 一位外国记者报道了该事件。
+- corresponding - 相应的；相符的 — Please fill in the corresponding fields. 请填写相应的字段。
+- corridor - 走廊 — The corridor is long and bright. 走廊又长又亮。
+- corrupt - 腐败的；使堕落 — We must fight corrupt practices. 我们必须打击腐败行为。
+- cost - 成本；花费 — The cost is too high. 成本太高了。
+- costly - 昂贵的 — It was a costly mistake. 那是个代价高昂的错误。
+- costume - 服装；戏装 — The actors wore colorful costumes. 演员穿着色彩鲜艳的戏服。
+- cottage - 小屋 — They stayed in a country cottage. 他们住在乡间小屋里。
+- cotton - 棉花 — The shirt is made of cotton. 这件衬衫是棉制的。
+- cough - 咳嗽 — Cover your mouth when you cough. 咳嗽时遮住嘴。
+- could - 能；可以 — We could go tomorrow. 我们明天可以去。
+- council - 委员会；理事会 — The council discussed the plan. 理事会讨论了计划。
+- counsel - 建议；劝告 — She sought counsel from her teacher. 她向老师寻求建议。
+- count - 数；计数 — Count from one to ten. 从一数到十。
+- counter - 柜台；对立的 — Please pay at the counter. 请在柜台付款。
+- counterpart - 对应物；对手 — The company’s counterpart in Japan agreed. 该公司在日本的对等方同意了。
+- countless - 无数的 — There are countless stars in the sky. 天空有无数星星。
+- country - 国家；乡村 — It’s a beautiful country. 这是个美丽的国家。
+- countryside - 乡村 — We walked in the countryside. 我们在乡间散步。
+- county - 县 — The county has a long history. 这个县历史悠久。
+- couple - 一对；夫妻 — A young couple moved in. 一对年轻夫妇搬进来了。
+- courage - 勇气 — Courage helps you face challenges. 勇气帮助你面对挑战。
+- course - 课程；过程 — The course lasts ten weeks. 课程持续十周。
+- court - 法庭；球场 — The court made a decision. 法庭做出了判决。
+- courteous - 有礼貌的 — Be courteous to guests. 对客人要有礼貌。
+- courtesy - 礼貌；谦恭 — He thanked her out of courtesy. 他出于礼貌感谢了她。
+- cousin - 堂（表）兄弟姐妹 — My cousin studies abroad. 我的堂（表）兄弟姐妹在国外学习。
+- cover - 覆盖；封面 — Cover the pot with a lid. 用盖子盖住锅。
+- coverage - 覆盖范围；报道 — The news coverage was fair. 新闻报道很公正。
+- cow - 母牛 — The cow grazes in the field. 母牛在田里吃草。
+- coward - 懦夫 — Don’t be a coward. 别做懦夫。
+- cozy - 舒适的；惬意的 — The room feels cozy. 房间很舒适。
+- crack - 裂缝；破解 — There is a crack in the wall. 墙上有一条裂缝。
+- craft - 手艺；工艺 — She sells handmade crafts. 她卖手工艺品。
+- crash - 碰撞；崩溃 — The system may crash under load. 系统在负载下可能崩溃。
+- crawl - 爬行 — The baby can crawl now. 婴儿现在会爬了。
+- crazy - 疯狂的；荒唐的 — That’s a crazy idea. 那是个疯狂的主意。
+- cream - 奶油；乳霜 — Add cream to the coffee. 给咖啡加奶油。
+- create - 创造；创建 — Create a new folder. 创建一个新文件夹。
+- creation - 创造；作品 — The creation took months. 这件作品耗时数月。
+- creative - 有创造力的 — She is very creative. 她很有创造力。
+- creature - 生物 — Strange creatures live in the sea. 海里住着奇怪的生物。
+- credit - 信用；学分 — I need two more credits to graduate. 我还需要两个学分才能毕业。
+- crew - 全体人员；船员 — The crew worked overnight. 全体人员通宵工作。
+- crime - 犯罪 — Crime rates have fallen. 犯罪率下降了。
+- criminal - 罪犯；犯罪的 — The criminal was arrested. 罪犯被逮捕了。
+- crisis - 危机 — They managed the crisis well. 他们很好地处理了危机。
+- crisp - 脆的；清新的 — The air feels crisp. 空气清新。
+- criteria - 标准（复数） — The criteria are clear. 标准很明确。
+- critic - 评论家 — The critic praised the film. 评论家称赞了这部电影。
+- critical - 关键的；批评的 — It’s critical to act now. 现在行动至关重要。
+- criticism - 批评 — She accepted the criticism. 她接受了批评。
+- criticize - 批评 — Don’t criticize without reasons. 没有理由不要批评。
+- crop - 作物；收成 — The wheat crop is good this year. 今年小麦收成不错。
+- cross - 穿过；十字架 — Cross the street carefully. 小心过马路。
+- crowd - 人群 — A large crowd gathered. 大群人聚集了。
+- crown - 王冠；加冕 — The queen wore a crown. 女王戴着王冠。
+- crucial - 关键的 — Timing is crucial here. 时间在这里至关重要。
+- crude - 粗糙的；原油的 — Crude oil prices rose. 原油价格上涨。
+- cruel - 残酷的 — Don’t be cruel to animals. 不要对动物残忍。
+- cruise - 巡航；游轮 — They went on a cruise. 他们去乘游轮了。
+- crush - 压碎；迷恋 — Don’t crush the box. 别压坏盒子。
+- cry - 哭；喊 — The baby began to cry. 婴儿开始哭了。
+- crystal - 水晶；晶体 — The crystal is clear and bright. 水晶清澈明亮。
+- cube - 立方体 — Cut the tofu into cubes. 把豆腐切成小方块。
+- cultivate - 培养；耕作 — Cultivate good habits. 培养好习惯。
+- cultural - 文化的 — Cultural differences matter. 文化差异很重要。
+- culture - 文化 — We should respect other cultures. 我们应尊重其他文化。
+- cunning - 狡猾的 — The thief was cunning. 小偷很狡猾。
+- cup - 杯子 — He drank a cup of tea. 他喝了一杯茶。
+- cupboard - 橱柜 — The plates are in the cupboard. 盘子在橱柜里。
+- cure - 治愈；治疗 — Scientists seek a cure for cancer. 科学家寻找癌症的治愈方法。
+- curiosity - 好奇心 — Curiosity leads to discovery. 好奇心引导发现。
+- curious - 好奇的 — He is curious about science. 他对科学很好奇。
+- curl - 卷曲 — Her hair curls naturally. 她的头发自然卷曲。
+- currency - 货币 — The local currency is strong. 当地货币很强势。
+- current - 当前的；电流 — The current plan is feasible. 当前计划可行。
+- curriculum - 课程表；课程 — The curriculum includes math and art. 课程包含数学和艺术。
+- curse - 诅咒 — He shouted a curse. 他喊了一句咒骂。
+- curve - 曲线 — The road curves to the left. 路向左弯。
+- cushion - 靠垫 — Put a cushion on the chair. 在椅子上放个靠垫。
+- custom - 风俗；习惯 — It’s a local custom. 这是当地风俗。
+- customer - 顾客 — A customer asked for help. 一位顾客请求帮助。
+- customs - 海关；风俗 — We went through customs quickly. 我们很快通过了海关。
+- cute - 可爱的 — The puppy is cute. 小狗很可爱。
+- cycle - 循环；周期 — The cycle repeats every week. 这个周期每周重复。
+- cyclist - 骑自行车的人 — Cyclists must wear helmets. 骑车者必须戴头盔。
+- cylinder - 圆柱；汽缸 — The cylinder is full of gas. 圆柱体里充满了气体。
+- daily - 每日的 — Exercise is part of my daily routine. 锻炼是我日常习惯的一部分。
+- dairy - 乳制品；奶牛场 — Buy dairy products at the market. 在市场买乳制品。
+- dam - 水坝 — The dam holds back the river. 水坝拦住了河流。
+- damage - 损害 — The storm caused damage to houses. 风暴损坏了房屋。
+- damp - 潮湿的 — The room feels damp. 房间有点潮。
+- dance - 跳舞 — They danced all night. 他们跳了一整夜。
+- danger - 危险 — Beware of danger. 小心危险。
+- dangerous - 危险的 — It’s dangerous to swim here. 在这里游泳很危险。
+- dare - 敢于 — He didn’t dare to speak. 他不敢发言。
+- dark - 黑暗的；深色的 — It’s getting dark outside. 外面天色渐暗。
+- darling - 亲爱的 — Good night, darling. 晚安，亲爱的。
+- data - 数据 — We need more data to decide. 我们需要更多数据来决定。
+- database - 数据库 — The database needs backup. 数据库需要备份。
+- date - 日期；约会 — Let’s set a date for the meeting. 我们定个会议日期吧。
+- daughter - 女儿 — His daughter is five years old. 他的女儿五岁了。
+- dawn - 黎明 — We left at dawn. 我们在黎明出发。
+- day - 天；白天 — Have a nice day! 祝你有美好的一天！
+- daytime - 白天 — It’s warmer in the daytime. 白天更暖和。
+- dazzling - 耀眼的；令人赞叹的 — The view is dazzling. 景色令人赞叹。
+- dead - 死的；失效的 — The phone is dead. 手机没电了。
+- deadline - 截止日期 — The deadline is next Monday. 截止日期是下周一。
+- deadly - 致命的 — Smoking can be deadly. 吸烟可能致命。
+- deal - 交易；处理 — Let’s make a deal. 我们来达成一笔交易吧。
+- dealer - 经销商 — The car dealer offered a discount. 汽车经销商提供了折扣。
+- dear - 亲爱的；昂贵的 — It’s too dear for me. 对我来说太贵了。
+- death - 死亡 — He is afraid of death. 他害怕死亡。
+- debate - 辩论 — The candidates will debate tonight. 候选人今晚将辩论。
+- debt - 债务 — He is in debt. 他负债。
+- debut - 首次登台；初次亮相 — Her debut was successful. 她的首次亮相很成功。
+- decade - 十年 — A decade has passed. 十年过去了。
+- decay - 腐烂；衰退 — Teeth decay without care. 不注意护理牙齿会腐坏。
+- deceive - 欺骗 — Don’t deceive your friends. 不要欺骗朋友。
+- decent - 像样的；体面的 — The salary is decent. 薪水还不错。
+- decide - 决定 — Decide before Friday. 在周五前决定。
+- decision - 决定；决策 — The decision was difficult. 决定很难做。
+- decisive - 果断的 — She is decisive under pressure. 她在压力下很果断。
+- deck - 甲板；平台 — We stood on the deck. 我们站在甲板上。
+- declaration - 宣言；声明 — They signed a declaration. 他们签署了宣言。
+- declare - 宣布 — He declared his plan publicly. 他公开宣布了他的计划。
+- decline - 下降；拒绝 — Sales declined last month. 上个月销量下降了。
+- decode - 解码 — The software can decode the file. 软件可以解码该文件。
+- decorate - 装饰 — They decorate the room for the party. 他们为派对装饰房间。
+- decoration - 装饰品 — The decoration looks elegant. 装饰品看起来很优雅。
+- decrease - 减少 — We need to decrease costs. 我们需要降低成本。
+- dedicate - 奉献；致力于 — He dedicated his life to science. 他把一生奉献给科学。
+- dedication - 奉献；题词 — Her dedication impressed us. 她的奉献打动了我们。
+- deed - 行为；契约 — Good deeds matter. 善行很重要。
+- deem - 认为；视为 — The plan was deemed risky. 该计划被认为有风险。
+- deep - 深的 — The lake is deep. 湖很深。
+- deepen - 加深；深化 — The experience will deepen your understanding. 这经历会加深你的理解。
+- deer - 鹿 — We saw a deer in the forest. 我们在森林里看到一只鹿。
+- defeat - 击败；战胜 — Our team defeated the rival. 我们队击败了对手。
+- defend - 防守；辩护 — Lawyers defend their clients. 律师为客户辩护。
+- defense - 防御；辩护 — The defense was strong. 防守很强。
+- defensive - 防御的；防守的 — They took a defensive position. 他们采取了防守姿态。
+- defer - 推迟；延迟 — Let’s defer the meeting to Friday. 我们把会议推迟到周五吧。
+- deficit - 赤字；不足 — The budget shows a deficit. 预算显示赤字。
+- define - 定义 — Please define the key terms. 请定义关键术语。
+- definite - 明确的 — We have a definite plan. 我们有一个明确的计划。
+- definitely - 肯定地；当然 — I definitely agree. 我当然同意。
+- definition - 定义 — The definition is simple. 定义很简单。
+- degree - 程度；学位 — She holds a master’s degree. 她拥有硕士学位。
+- delay - 延迟 — The flight was delayed. 航班延误了。
+- delegate - 代表；委派 — Each class will send a delegate. 每个班将派一名代表。
+- delete - 删除 — Delete the wrong files. 删除错误的文件。
+- deliberate - 深思熟虑的；故意的 — It was a deliberate choice. 那是经过深思的选择。
+- delicate - 精致的；易碎的 — Handle the delicate glass carefully. 小心拿易碎玻璃。
+- delight - 高兴；使高兴 — The news delighted everyone. 消息让大家很高兴。
+- deliver - 递送；发表 — The store will deliver the goods. 商店会送货。
+- delivery - 递送；分娩 — Free delivery is available. 可提供免费配送。
+- demand - 需求；要求 — Demand for housing is high. 住房需求很高。
+- democracy - 民主 — Democracy protects rights. 民主保障权利。
+- democratic - 民主的 — They held a democratic vote. 他们进行了民主投票。
+- demonstrate - 演示；证明 — He will demonstrate the method. 他将演示这种方法。
+- demonstration - 示范；游行 — The demonstration was peaceful. 游行很和平。
+- deny - 否认 — He denied the rumor. 他否认了这个谣言。
+- department - 部门 — She works in the sales department. 她在销售部门工作。
+- departure - 出发；离开 — Departure is at 6 p.m. 六点出发。
+- depend - 依靠；取决于 — It depends on the weather. 这取决于天气。
+- dependent - 依赖的；下属 — He is dependent on his parents. 他依赖父母。
+- depict - 描绘 — The poem depicts nature. 这首诗描绘了自然。
+- deploy - 部署；展开 — They will deploy more staff. 他们将部署更多人员。
+- deposit - 存款；沉积 — Please pay a deposit first. 请先支付押金。
+- deprive - 剥夺 — Don’t deprive children of play. 别剥夺孩子的游戏时间。
+- depth - 深度 — The pool has a depth of two meters. 泳池深两米。
+- deputy - 副手；代理人 — The deputy managed the office. 副手管理了办公室。
+- derive - 源于；得到 — Many words derive from Latin. 许多词源自拉丁语。
+- descend - 下降；下去 — The plane will descend soon. 飞机很快要下降了。
+- describe - 描述 — Describe the picture in your own words. 用你的话描述这幅图。
+- description - 描述；说明 — The description is detailed. 描述很详细。
+- desert - 沙漠；遗弃 — Don’t desert your friends. 不要抛弃你的朋友。
+- deserve - 值得 — You deserve a break. 你值得休息一下。
+- design - 设计 — The design is simple and modern. 设计简洁现代。
+- designate - 指定；标示 — Designate a leader for the group. 为小组指定一个领导。
+- desire - 渴望 — He desires success. 他渴望成功。
+- desk - 书桌 — The desk is made of wood. 书桌是木制的。
+- desktop - 桌面；台式机 — Save the file to the desktop. 把文件保存到桌面。
+- desperate - 绝望的；拼命的 — He made a desperate attempt. 他做了拼命的尝试。
+- dessert - 甜点 — We had ice cream for dessert. 我们甜点吃了冰淇淋。
+- destination - 目的地 — The island is a popular destination. 这座岛是热门目的地。
+- destiny - 命运 — He believes in destiny. 他相信命运。
+- destroy - 破坏 — The storm destroyed the bridge. 风暴摧毁了桥。
+- destruction - 破坏 — The destruction was serious. 破坏很严重。
+- detach - 分离；拆下 — Detach the cable carefully. 小心地拆下电缆。
+- detail - 细节 — Pay attention to detail. 注意细节。
+- detailed - 详细的 — The report is very detailed. 报告很详细。
+- detect - 发现；检测 — Detect errors before release. 发布前检测错误。
+- detection - 侦测；探测 — Early detection saves lives. 早期侦测能拯救生命。
+- detective - 侦探 — The detective solved the case. 侦探破了案。
+- deter - 威慑；阻止 — High fines deter bad behavior. 高额罚款可威慑不良行为。
+- deteriorate - 恶化 — The weather deteriorated quickly. 天气迅速恶化。
+- determination - 决心；测定 — Determination leads to success. 决心通向成功。
+- determine - 决定；确定 — Determine the cause of the problem. 确定问题的原因。
+- determined - 坚决的 — He is determined to win. 他决心要赢。
+- detour - 绕行；便道 — We took a detour due to construction. 因施工我们绕行了。
+- develop - 发展；开发 — Develop your skills through practice. 通过练习发展技能。
+- development - 发展；开发 — The city needs sustainable development. 城市需要可持续发展。
+- device - 设备 — The device is easy to use. 设备易于使用。
+- devil - 魔鬼 — The story mentions a devil. 故事提到一个魔鬼。
+- devise - 设计；想出 — Devise a plan to save time. 想出一个省时的计划。
+- devote - 奉献；致力于 — She devotes time to volunteering. 她奉献时间做志愿者。
+- devoted - 忠诚的；专心致志的 — He is devoted to his work. 他专注于工作。
+- devotion - 奉献；挚爱 — Her devotion moved us. 她的奉献打动了我们。
+- diagram - 图表；示意图 — The diagram shows the process. 示意图展示了过程。
+- dial - 拨号；表盘 — Dial the number carefully. 小心拨号。
+- dialogue - 对话 — The dialogue is natural. 对话很自然。
+- diamond - 钻石 — The ring has a diamond. 戒指上有颗钻石。
+- diary - 日记 — She keeps a diary. 她坚持写日记。
+- dice - 骰子 — Roll the dice to start. 掷骰子开始。
+- dictionary - 词典 — Look it up in the dictionary. 在词典里查一下。
+- die - 死亡 — The plant will die without water. 没水植物会死。
+- diet - 饮食；节食 — He is on a healthy diet. 他在健康饮食。
+- differ - 不同 — Opinions differ on the issue. 对这问题意见不同。
+- difference - 差异 — Spot the difference between the two. 找出两者的差异。
+- different - 不同的 — We have different ideas. 我们有不同想法。
+- difficult - 困难的 — The task is difficult but possible. 任务困难但可行。
+- difficulty - 困难 — She overcame many difficulties. 她克服了许多困难。
+- dig - 挖 — Dig a hole for the plant. 挖坑种植物。
+- digital - 数字的 — Digital skills are important. 数字技能很重要。
+- dignity - 尊严 — Everyone deserves dignity. 每个人都应拥有尊严。
+- dilemma - 困境；两难 — He faces a dilemma. 他面临两难。
+- diligent - 勤奋的 — Be diligent in your study. 学习要勤奋。
+- dim - 昏暗的；变暗 — The room grew dim. 房间变暗了。
+- dimension - 维度；尺寸 — Measure the dimensions of the box. 测量盒子的尺寸。
+- diminish - 减少；降低 — The pain gradually diminished. 疼痛逐渐减轻。
+- dine - 用餐 — We dined at a small restaurant. 我们在一家小餐馆用餐。
+- dinner - 晚餐 — Dinner is ready. 晚餐好了。
+- dinosaur - 恐龙 — Dinosaurs lived millions of years ago. 恐龙生活在数百万年前。
+- diploma - 毕业文凭 — He received his diploma. 他拿到了毕业文凭。
+- diplomat - 外交官 — The diplomat met with leaders. 外交官会见了领导人。
+- diplomatic - 外交的；圆滑的 — She gave a diplomatic answer. 她给了个圆滑的回答。
+- direct - 直接的；指导 — Direct the students to the hall. 引导学生到礼堂。
+- direction - 方向；指导 — Follow the direction on the map. 按地图指示走。
+- directly - 直接地 — Contact me directly by email. 直接通过邮件联系我。
+- director - 导演；负责人 — The director praised the team. 负责人称赞了团队。
+- dirt - 灰尘；泥土 — Wipe off the dirt. 擦掉灰尘。
+- dirty - 脏的 — The floor is dirty. 地板很脏。
+- disability - 残疾；障碍 — Accessibility helps people with disabilities. 无障碍设施帮助残障人士。
+- disable - 使残疾；使失效 — Disable the alarm temporarily. 暂时禁用警报。
+- disagree - 不同意 — I disagree with your view. 我不同意你的观点。
+- disagreement - 分歧 — A small disagreement occurred. 出现了小分歧。
+- disappear - 消失 — The fog will disappear soon. 雾很快会散去。
+- disaster - 灾难 — The earthquake was a disaster. 地震是一场灾难。
+- discipline - 纪律；学科 — Keep discipline in class. 在课堂保持纪律。
+- disclose - 揭露；公开 — They refused to disclose details. 他们拒绝公开细节。
+- discount - 折扣 — The store offers a student discount. 这家店提供学生折扣。
+- discourage - 使气馁 — Don’t discourage beginners. 别让初学者气馁。
+- discovery - 发现 — The discovery changed history. 这项发现改变了历史。
+- discreet - 谨慎的；慎重的 — Be discreet when sharing information. 分享信息要谨慎。
+- discrete - 离散的；不连续的 — We analyzed discrete data points. 我们分析了离散数据点。
+- discrimination - 歧视；辨别 — We oppose discrimination. 我们反对歧视。
+- discuss - 讨论 — Let’s discuss the plan. 我们来讨论这个计划。
+- discussion - 讨论 — The discussion was helpful. 讨论很有帮助。
+- disease - 疾病 — Exercise reduces the risk of disease. 锻炼降低疾病风险。
+- disguise - 伪装；掩饰 — He disguised his voice. 他伪装了声音。
+- disgust - 厌恶 — The smell caused disgust. 气味令人厌恶。
+- dish - 菜肴；盘子 — This dish tastes great. 这道菜很好吃。
+- dishwasher - 洗碗机 — Put the plates in the dishwasher. 把盘子放进洗碗机。
+- disk - 磁盘；圆盘 — Save the file to disk. 把文件存到磁盘。
+- dismiss - 解雇；驳回；散去 — The case was dismissed. 案件被驳回了。
+- disorder - 混乱；疾病 — The room is in disorder. 房间很乱。
+- display - 显示；展览 — The results display on screen. 结果显示在屏幕上。
+- distant - 遥远的 — The mountain looks distant. 那座山看起来很远。
+- distinct - 明显不同的 — The two styles are distinct. 两种风格截然不同。
+- distinction - 差别；卓越 — She graduated with distinction. 她以优异成绩毕业。
+- distinguish - 区分；辨别 — Distinguish facts from opinions. 区分事实与观点。
+- district - 地区；行政区 — The district is large. 这个地区很大。
+- disturb - 打扰；干扰 — Don’t disturb the class. 不要打扰上课。
+- dive - 潜水；俯冲 — They dive in the clear water. 他们在清澈的水里潜水。
+- diverse - 多样的 — The city is culturally diverse. 这座城市文化多样。
+- diversity - 多样性 — Diversity brings new ideas. 多样性带来新思路。
+- divide - 分割；除 — Divide the cake into eight pieces. 把蛋糕分成八块。
+- divine - 神圣的 — The poem has a divine theme. 这首诗有神圣主题。
+- division - 分裂；部门；除法 — The company has a sales division. 公司有销售部门。
+- divorce - 离婚 — They decided to divorce. 他们决定离婚。
+- dizzy - 头晕的 — I feel dizzy after spinning. 转圈后我头晕。
+（未完待续）
