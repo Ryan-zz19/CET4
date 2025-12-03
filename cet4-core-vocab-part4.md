@@ -1,0 +1,283 @@
+# CET-4 核心词汇（第4批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- DNA - 脱氧核糖核酸 — DNA carries genetic information. DNA携带遗传信息。
+- do - 做；干 — Do your homework now. 现在做你的作业。
+- dock - 码头；对接 — The ship is at the dock. 船停在码头。
+- doctor - 医生 — The doctor gave me medicine. 医生给了我药。
+- document - 文档；记录 — Save the document before closing. 关闭前保存文档。
+- documentary - 纪录片 — We watched a documentary about nature. 我们看了一部自然纪录片。
+- dog - 狗 — The dog barked loudly. 狗大声叫。
+- doll - 玩偶 — She bought a new doll. 她买了一个新玩偶。
+- dollar - 美元 — It costs ten dollars. 这要十美元。
+- dolphin - 海豚 — The dolphin jumped out of the water. 海豚跃出水面。
+- domain - 领域；域名 — Physics is not my domain. 物理不是我的领域。
+- domestic - 国内的；家庭的 — Domestic flights are cheaper. 国内航班更便宜。
+- dominate - 支配；主导 — One team dominated the match. 一支球队主导了比赛。
+- donkey - 驴 — The donkey carried the goods. 驴驮着货物。
+- donate - 捐赠 — They donate clothes to the poor. 他们向穷人捐衣。
+- donation - 捐赠；捐款 — Your donation helps many people. 你的捐款帮助许多人。
+- done - 完成的 — The work is done. 工作完成了。
+- door - 门 — Close the door, please. 请关门。
+- dormitory - 宿舍 — They live in the dormitory. 他们住在宿舍。
+- dose - 剂量 — Take one dose every six hours. 每六小时服用一剂。
+- dot - 点 — Draw a dot on the paper. 在纸上画一个点。
+- double - 双倍的；两倍 — Double the amount if necessary. 如需则加倍。
+- doubt - 怀疑 — I have no doubt about it. 我对此毫不怀疑。
+- doubtful - 可疑的；不确定的 — It is doubtful that he will come. 他是否会来尚不确定。
+- download - 下载 — Download the file from the website. 从网站下载文件。
+- downstairs - 楼下 — The office is downstairs. 办公室在楼下。
+- dozen - 一打；十二个 — Buy a dozen eggs. 买一打鸡蛋。
+- draft - 草稿；选拔 — Write a draft first. 先写个草稿。
+- drag - 拖拽；拖累 — Don’t drag the heavy box. 别拖那个重箱子。
+- drama - 戏剧；剧 — She studied drama at college. 她在大学学戏剧。
+- dramatic - 戏剧性的；显著的 — There was a dramatic change. 出现了显著变化。
+- draw - 画；拉 — Draw a map of the campus. 画一张校园地图。
+- drawer - 抽屉 — Put the keys in the drawer. 把钥匙放抽屉里。
+- drawing - 图画；绘图 — His drawing is beautiful. 他的画很美。
+- dream - 梦；梦想 — Never give up your dream. 永不放弃你的梦想。
+- dress - 穿衣；连衣裙 — Dress neatly for the interview. 面试要穿着整洁。
+- drift - 漂移；漂流 — The boat began to drift. 船开始漂流。
+- drill - 钻；训练 — Fire drill happens once a month. 每月有一次消防演习。
+- drink - 喝；饮料 — Drink more water. 多喝水。
+- drip - 滴落 — Water began to drip from the roof. 屋顶开始滴水。
+- drive - 驾驶；驱动 — Drive carefully in the rain. 雨天谨慎驾驶。
+- driver - 司机 — The driver was polite. 司机很有礼貌。
+- driveway - 私家车道 — Park in the driveway. 停在私家车道上。
+- drop - 掉落；下降 — Drop me a message later. 晚点给我发消息。
+- drought - 干旱 — The drought lasted two months. 干旱持续了两个月。
+- drown - 淹死 — Never swim alone to avoid drown risk. 不要独自游泳以避免溺水风险。
+- drum - 鼓 — He plays the drum well. 他鼓打得很好。
+- drunk - 醉酒的 — He came home drunk. 他醉醺醺回家。
+- dry - 干燥的；弄干 — Dry your hair with a towel. 用毛巾把头发擦干。
+- dual - 双重的 — He has dual citizenship. 他有双重国籍。
+- dubious - 可疑的；不可信的 — The source looks dubious. 这个来源看起来不可靠。
+- due - 到期的；应付的 — The rent is due tomorrow. 房租明天到期。
+- dull - 乏味的；钝的 — The lecture was dull. 这堂课很乏味。
+- dumb - 哑的；愚蠢的 — That was a dumb mistake. 那是个愚蠢的错误。
+- dump - 倾倒；垃圾堆 — Don’t dump waste in the river. 别把垃圾倒入河里。
+- durable - 耐用的 — The shoes are durable. 这鞋很耐用。
+- duration - 持续时间 — The duration of the exam is two hours. 考试持续两小时。
+- during - 在…期间 — During the break, we talked. 休息期间我们聊天。
+- dusk - 黄昏 — Birds fly home at dusk. 黄昏时鸟儿归巢。
+- dust - 灰尘 — Dust covers the old books. 灰尘覆盖着旧书。
+- duty - 责任；关税 — It’s your duty to help. 帮忙是你的责任。
+- dwell - 居住；停留 — He dwells in the countryside. 他住在乡间。
+- dye - 染色 — They dye the fabric blue. 他们把布染成蓝色。
+- dynamic - 动态的；有活力的 — The team is dynamic and young. 团队充满活力且年轻。
+- dynasty - 王朝 — The dynasty lasted for centuries. 该王朝延续了几个世纪。
+- eager - 渴望的；急切的 — She is eager to learn. 她渴望学习。
+- eagle - 鹰 — An eagle flew above the valley. 一只鹰飞过山谷。
+- ear - 耳朵 — My left ear hurts. 我的左耳疼。
+- early - 早的；提前 — We arrived early for the meeting. 我们提前到达开会。
+- earn - 赚取；赢得 — He tries to earn more money. 他努力赚更多钱。
+- earthquake - 地震 — The earthquake shook the city. 地震摇晃了城市。
+- ease - 轻松；缓和 — Exercise helps ease stress. 锻炼有助于缓解压力。
+- easily - 容易地 — You can easily find the answer. 你很容易找到答案。
+- east - 东方；东部 — The sun rises in the east. 太阳在东方升起。
+- eastern - 东部的 — Eastern provinces got rain. 东部省份下雨了。
+- easy - 容易的；轻松的 — It’s easy to use this app. 这个应用很容易用。
+- eat - 吃 — Eat more vegetables. 多吃蔬菜。
+- echo - 回声；呼应 — Her words echo my thoughts. 她的话呼应了我的想法。
+- ecology - 生态 — Ecology studies living systems. 生态学研究生物系统。
+- economic - 经济的 — We face economic challenges. 我们面临经济挑战。
+- economics - 经济学 — Economics explains markets. 经济学解释市场。
+- economist - 经济学家 — The economist gave a talk. 经济学家做了演讲。
+- economy - 经济 — The economy is growing. 经济在增长。
+- edge - 边缘；优势 — He stood at the edge of the cliff. 他站在悬崖边。
+- edit - 编辑 — Edit the essay carefully. 认真编辑文章。
+- edition - 版本 — This is the latest edition. 这是最新版。
+- editor - 编辑 — The editor checked the text. 编辑检查了文本。
+- educate - 教育 — We educate children with care. 我们用心教育孩子。
+- education - 教育 — Education changes lives. 教育改变生活。
+- educational - 教育的 — Educational programs help students. 教育项目帮助学生。
+- effect - 影响；效果 — The medicine has side effects. 这药有副作用。
+- effective - 有效的 — The plan is effective. 这个计划有效。
+- effectiveness - 效力；有效性 — We measured the effectiveness. 我们衡量了有效性。
+- efficiency - 效率 — Improve efficiency in class. 提高课堂效率。
+- efficient - 高效的 — Efficient tools save time. 高效工具节省时间。
+- effort - 努力 — Your effort will be rewarded. 你的努力会得到回报。
+- egg - 鸡蛋 — He boiled an egg. 他煮了个鸡蛋。
+- eight - 八 — Eight students joined the club. 八个学生加入了俱乐部。
+- either - 任一；或者 — Either way is fine. 两种方式都行。
+- elderly - 年长的 — The elderly need care. 老年人需要照顾。
+- elect - 选举 — They elected a new leader. 他们选了新领导。
+- election - 选举 — The election takes place in June. 选举在六月举行。
+- electric - 电的；带电的 — The fence is electric. 围栏是带电的。
+- electrical - 电的；电气的 — Check the electrical system. 检查电气系统。
+- electricity - 电 — Electricity powers the lights. 电力点亮灯。
+- electronic - 电子的 — Electronic devices are everywhere. 电子设备无处不在。
+- electronics - 电子学；电子产品 — He studies electronics. 他学电子学。
+- elegant - 优雅的 — The dress looks elegant. 这件裙子很优雅。
+- element - 元素；要素 — Water is a key element. 水是关键要素。
+- elementary - 初级的；基本的 — Elementary math is important. 基础数学很重要。
+- elephant - 大象 — The elephant is huge. 大象很巨大。
+- elevate - 提升；抬起 — Elevate your foot to reduce swelling. 抬高你的脚以减轻肿胀。
+- elevator - 电梯 — Take the elevator to the fifth floor. 乘电梯到五楼。
+- eleven - 十一 — Eleven players are on the field. 场上有十一名球员。
+- eligible - 有资格的 — Only eligible students may apply. 只有符合条件的学生才能申请。
+- eliminate - 消除 — Eliminate simple errors first. 先消除简单错误。
+- elite - 精英 — The team is formed by elites. 团队由精英组成。
+- else - 其他；否则 — What else do you need? 你还需要什么？
+- elsewhere - 在别处 — He wants to study elsewhere. 他想在别处学习。
+- email - 电子邮件 — Send me an email later. 晚点发邮件给我。
+- embrace - 拥抱；接受 — Embrace new ideas. 接纳新理念。
+- emerge - 出现；显现 — New problems emerge quickly. 新问题迅速出现。
+- emergency - 紧急情况 — Call 120 in an emergency. 紧急情况拨打120。
+- emission - 排放 — The factory reduces emissions. 工厂减少排放。
+- emit - 发出；排放 — The machine emits loud noise. 机器发出很大噪音。
+- emotion - 情感 — Control your emotion in class. 上课控制你的情绪。
+- emotional - 情绪化的；情感的 — He gave an emotional speech. 他发表了情感充沛的演讲。
+- emphasis - 强调 — Put emphasis on key points. 对重点加以强调。
+- emphasize - 强调 — Teachers emphasize practice. 老师强调练习。
+- empire - 帝国 — The empire expanded rapidly. 帝国迅速扩张。
+- employ - 雇用 — The company will employ ten people. 公司将雇用十人。
+- employee - 员工 — Each employee signed the form. 每位员工都签了表。
+- employer - 雇主 — Employers value experience. 雇主看重经验。
+- employment - 就业 — Employment is rising. 就业在增加。
+- empty - 空的；清空 — Empty the trash bin. 清空垃圾桶。
+- enable - 使能够 — The app enables offline use. 该应用让你离线使用。
+- enact - 制定（法律）；颁布 — They enacted the new law. 他们颁布了新法律。
+- encounter - 遇到；邂逅 — We encountered a problem. 我们遇到了一个问题。
+- encourage - 鼓励 — Encourage students to ask questions. 鼓励学生提问。
+- end - 结束；末端 — We reached the end of the road. 我们到达了道路尽头。
+- ending - 结尾 — The story has a happy ending. 故事有一个快乐的结尾。
+- endless - 无尽的 — There is endless work to do. 有做不完的工作。
+- endure - 忍受；持续 — Endure the pain bravely. 勇敢忍受疼痛。
+- enemy - 敌人 — Don’t underestimate the enemy. 不要低估敌人。
+- energy - 能量；精力 — Save energy when possible. 尽可能节约能源。
+- enforce - 强制执行 — Strict rules are enforced. 严格规则被执行。
+- engage - 参与；订婚 — Students actively engage in class. 学生积极参与课堂。
+- engaged - 忙于；订婚的 — She is engaged to be married. 她订婚了。
+- engagement - 约定；订婚 — Their engagement was announced. 他们宣布了订婚。
+- engine - 引擎 — The car’s engine failed. 车的引擎故障。
+- engineer - 工程师 — The engineer fixed the problem. 工程师解决了问题。
+- engineering - 工程学 — Engineering requires math. 工程学需要数学。
+- enhance - 提升 — Enhance memory by practice. 通过练习提升记忆。
+- enjoy - 享受 — Enjoy the music. 享受音乐。
+- enlarge - 扩大 — Enlarge the picture slightly. 把图片稍微放大。
+- enough - 足够的 — We have enough time. 我们有足够的时间。
+- enrich - 丰富；充实 — Reading enriches your mind. 阅读丰富你的头脑。
+- enroll - 报名；注册 — Enroll in the course online. 在线报名该课程。
+- ensure - 确保 — Ensure safety first. 首先确保安全。
+- enter - 进入 — Enter the room quietly. 安静进入房间。
+- entertainment - 娱乐 — Entertainment helps us relax. 娱乐帮助我们放松。
+- enthusiastic - 热情的 — She is enthusiastic about coding. 她对编程很热情。
+- entire - 全部的 — Read the entire article. 阅读整篇文章。
+- entirely - 完全地 — I entirely agree with you. 我完全同意你。
+- entrance - 入口 — The entrance is on the east side. 入口在东侧。
+- entry - 进入；条目 — Create a new entry in the log. 在日志中新建条目。
+- envelope - 信封 — Put the letter in an envelope. 把信放进信封。
+- environment - 环境 — Protect the environment. 保护环境。
+- environmental - 环境的 — Environmental issues matter. 环境问题很重要。
+- envy - 嫉妒 — Don’t envy others’ success. 不要嫉妒他人的成功。
+- episode - 一集；事件 — The episode was exciting. 这一集很精彩。
+- equal - 相等的；平等的 — All people are equal. 人人平等。
+- equality - 平等 — Equality is a core value. 平等是核心价值。
+- equation - 方程；等式 — Solve the equation. 解这个方程。
+- equip - 配备 — Equip the lab with new tools. 给实验室配新工具。
+- equipment - 设备 — The equipment is expensive. 设备很贵。
+- equivalent - 等价的 — Ten meters is equivalent to 1000 centimeters. 十米等于1000厘米。
+- era - 时代 — We live in a digital era. 我们生活在数字时代。
+- erase - 擦除 — Erase the wrong answer. 擦掉错误答案。
+- erect - 竖立；建造 — They erect a tent quickly. 他们迅速搭起帐篷。
+- erosion - 侵蚀 — Erosion changed the coastline. 侵蚀改变了海岸线。
+- error - 错误 — Fix the error immediately. 立刻修复错误。
+- erupt - 爆发；喷发 — The volcano may erupt. 火山可能喷发。
+- escape - 逃脱 — They escaped from danger. 他们逃离了危险。
+- essay - 文章；短文 — Write a 500-word essay. 写一篇500字短文。
+- essential - 必要的；本质的 — Water is essential for life. 水对生命必不可少。
+- establish - 建立 — Establish a clear goal. 建立明确目标。
+- estate - 房地产；遗产 — The estate is large. 庄园很大。
+- esteem - 尊重；敬重 — He is held in high esteem. 他备受尊重。
+- estimate - 估计 — Estimate the time needed. 估算需要的时间。
+- eternal - 永恒的 — Love is eternal in stories. 爱在故事里是永恒的。
+- ethic - 道德准则 — Work ethic is important. 职业道德很重要。
+- ethical - 伦理的 — Ethical choices matter. 伦理选择很重要。
+- ethics - 伦理学 — Ethics guides behavior. 伦理学指导行为。
+- evaluate - 评估 — Evaluate the plan carefully. 仔细评估计划。
+- even - 甚至；均匀的 — Even small steps help. 甚至小步骤也有帮助。
+- evening - 傍晚；晚上 — We met in the evening. 我们在晚上见面。
+- event - 事件 — The event attracted many people. 活动吸引了很多人。
+- eventually - 最终 — He eventually agreed. 他最终同意了。
+- ever - 曾经；永远 — Have you ever tried this? 你曾尝试过这个吗？
+- every - 每一个；所有 — Every student must attend. 每位学生都要出席。
+- everyday - 日常的 — Everyday English is useful. 日常英语很实用。
+- everyone - 每个人 — Everyone is welcome. 欢迎每个人。
+- everything - 一切 — Everything is ready. 一切都准备好了。
+- everywhere - 到处 — Music is everywhere. 音乐无处不在。
+- evidence - 证据 — Show evidence to support your claim. 提供证据支持你的主张。
+- evident - 明显的 — It is evident that he tried. 很明显他努力了。
+- evil - 邪恶的；坏事 — Don’t do evil. 不要作恶。
+- evoke - 唤起 — The photo evokes memories. 这张照片唤起回忆。
+- evolve - 演化；发展 — Species evolve over time. 物种随着时间演化。
+- exact - 精确的 — We need the exact number. 我们需要准确数字。
+- exactly - 正是；确切地 — Exactly, that’s the point. 正是，这就是重点。
+- exaggerate - 夸张 — Don’t exaggerate your ability. 别夸大你的能力。
+- exam - 考试 — The exam starts at nine. 考试九点开始。
+- examination - 检查；考试 — Medical examination is required. 需要体检。
+- examine - 检查；审查 — Examine each answer carefully. 仔细检查每个答案。
+- example - 例子 — Give an example to explain. 举个例子说明。
+- exceed - 超过 — Don’t exceed the speed limit. 不要超速。
+- excellent - 优秀的 — She did an excellent job. 她做得很出色。
+- except - 除了 — Everyone is here except Tom. 除了汤姆都在。
+- exception - 例外 — This is an exception to the rule. 这是规则的例外。
+- excess - 过量；过度 — Avoid excess sugar. 避免过量糖分。
+- excessive - 过度的 — Excessive noise is harmful. 过度噪音有害。
+- exchange - 交换；兑换 — Let’s exchange ideas. 我们交换想法吧。
+- excite - 使兴奋 — The news excited the fans. 消息让粉丝很兴奋。
+- excited - 兴奋的 — He is excited about the trip. 他对旅行很兴奋。
+- excitement - 激动；兴奋 — The room was full of excitement. 房间里充满兴奋。
+- exclude - 排除 — Exclude invalid data. 排除无效数据。
+- exclusive - 独家的；排他的 — It’s an exclusive interview. 这是独家采访。
+- excursion - 远足；短途旅行 — We went on an excursion. 我们去短途旅行了。
+- excuse - 借口；原谅 — Don’t make excuses. 别找借口。
+- execute - 执行 — Execute the plan now. 现在执行计划。
+- executive - 高管；执行的 — The executive approved the budget. 高管批准了预算。
+- exercise - 锻炼；练习 — Daily exercise keeps you healthy. 每日锻炼让你健康。
+- exert - 施加；运用 — Exert pressure carefully. 小心施加压力。
+- exhaust - 排气；使筋疲力尽 — The long walk exhausted us. 长途步行让我们筋疲力尽。
+- exhausted - 精疲力竭的 — I feel exhausted. 我感到很累。
+- exhibit - 展示；展览 — They exhibit art in the gallery. 他们在画廊展出艺术品。
+- exhibition - 展览 — The exhibition opens today. 展览今天开幕。
+- exist - 存在 — Many species exist in the forest. 森林中存在许多物种。
+- existence - 存在；生存 — Human existence is complex. 人类存在很复杂。
+- exit - 出口；离开 — Use the nearest exit. 使用最近的出口。
+- expand - 扩张；扩大 — Expand the search area. 扩大搜索范围。
+- expansion - 扩张；扩展 — The company plans expansion. 公司计划扩张。
+- expect - 期望；预计 — We expect good results. 我们期待好结果。
+- expectation - 期望 — Lower your expectation a bit. 稍微降低你的期望。
+- expensive - 昂贵的 — The watch is expensive. 这手表很贵。
+- experience - 经验；经历 — Experience makes you better. 经验让你更好。
+- experiment - 实验 — Conduct the experiment carefully. 小心进行实验。
+- experimental - 实验性的 — It’s an experimental design. 这是一个实验性设计。
+- expert - 专家 — Ask an expert for help. 请教专家帮助。
+- expertise - 专业技能 — Her expertise is in AI. 她的专长是AI。
+- explain - 解释 — Explain your answer. 解释你的答案。
+- explanation - 解释；说明 — Your explanation is clear. 你的说明很清楚。
+- explicit - 明确的；直白的 — Give explicit instructions. 给出明确指示。
+- explode - 爆炸 — The bomb may explode. 炸弹可能会爆炸。
+- exploit - 开发；利用 — Don’t exploit workers. 不要剥削工人。
+- exploration - 探索 — Space exploration inspires people. 太空探索鼓舞人心。
+- explore - 探索 — Explore the city on foot. 徒步探索这座城市。
+- explosion - 爆炸 — The explosion shocked everyone. 爆炸震惊了所有人。
+- export - 出口 — They export tea worldwide. 他们把茶叶出口到世界各地。
+- expose - 暴露；揭露 — Expose the truth. 揭露真相。
+- exposure - 暴露；曝光 — Sun exposure can be harmful. 日晒可能有害。
+- express - 表达；快递 — Express your feelings honestly. 诚实表达你的感受。
+- expression - 表达；表情 — Her expression changed quickly. 她的表情迅速变化。
+- extend - 延伸；扩展 — Extend the deadline by a week. 截止日期延长一周。
+- extension - 延期；扩展 — Apply for an extension. 申请延期。
+- extensive - 广泛的 — The research is extensive. 研究很广泛。
+- extent - 程度；范围 — To a large extent, I agree. 在很大程度上我同意。
+- exterior - 外部的；外部 — The exterior is made of glass. 外部由玻璃制成。
+- external - 外部的 — External factors influenced results. 外部因素影响了结果。
+- extra - 额外的 — Bring extra pens. 带额外的笔。
+- extract - 提取；摘录 — Extract key points from the text. 从文本提取要点。
+- extraordinary - 非凡的 — She did an extraordinary job. 她表现非凡。
+- extreme - 极端的；极度的 — Avoid extreme measures. 避免极端措施。
+- eye - 眼睛 — Protect your eyes when reading. 阅读时保护眼睛。
+
+（未完待续）
