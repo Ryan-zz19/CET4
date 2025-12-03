@@ -1,0 +1,223 @@
+# CET-4 核心词汇（第5批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- eyebrow - 眉毛 — She raised her eyebrow. 她扬起眉毛。
+- fabric - 织物；结构 — The fabric feels soft. 这布料摸起来很柔软。
+- face - 脸；面对 — Face the problem bravely. 勇敢面对问题。
+- facial - 面部的 — Facial care is important. 面部护理很重要。
+- facility - 设施 — The sports facility is new. 体育设施是新的。
+- fact - 事实 — Check the facts first. 先核实事实。
+- factor - 因素 — Many factors affect the result. 许多因素影响结果。
+- factory - 工厂 — The factory produces cars. 工厂生产汽车。
+- faculty - 教职员工；能力 — The faculty meets monthly. 教职工每月开会。
+- fade - 褪色；变弱 — The colors fade in the sun. 颜色在阳光下褪色。
+- fail - 失败；未能 — Don’t fail this time. 这次不要失败。
+- failure - 失败；故障 — The test ended in failure. 测试以失败告终。
+- faint - 微弱的；昏厥 — She felt faint in the heat. 她在炎热中感到眩晕。
+- fair - 公平的；集市 — The decision is fair. 这个决定很公平。
+- fairly - 相当；公正地 — He did fairly well. 他做得相当好。
+- faith - 信仰；信念 — Keep faith in yourself. 保持对自己的信心。
+- faithful - 忠诚的 — He is faithful to his friends. 他对朋友很忠诚。
+- fake - 假的；伪造 — Don’t buy fake products. 不要买假货。
+- fall - 落下；减少；秋天 — Leaves fall in autumn. 秋天树叶落下。
+- false - 错误的；虚假的 — The rumor is false. 谣言是假的。
+- fame - 名声 — The singer gained fame quickly. 歌手迅速成名。
+- familiar - 熟悉的 — This place looks familiar. 这地方看起来很熟悉。
+- family - 家庭 — Family comes first. 家庭第一。
+- famous - 著名的 — He is famous for his art. 他因艺术而著名。
+- fan - 风扇；粉丝 — The fan stopped working. 风扇不转了。
+- fancy - 喜爱；幻想；繁复的 — She has a fancy dress. 她有件繁复的裙子。
+- fantastic - 极好的 — The trip was fantastic. 旅行很棒。
+- fantasy - 幻想 — It’s just a fantasy. 这只是幻想。
+- far - 远的 — The station is far from here. 车站离这儿很远。
+- farewell - 告别 — They said farewell at the gate. 他们在门口告别。
+- farm - 农场 — The farm grows wheat. 农场种小麦。
+- farmer - 农民 — The farmer works hard. 农民很辛苦。
+- fashion - 时尚；方式 — That is the latest fashion. 那是最新时尚。
+- fashionable - 时髦的 — The shoes look fashionable. 这鞋很时髦。
+- fast - 快速的；禁食 — Drive fast but safely. 开快但要安全。
+- fasten - 系紧；固定 — Fasten your seat belt. 系好安全带。
+- fat - 脂肪；胖的 — Reduce fat in your diet. 减少饮食中的脂肪。
+- fatal - 致命的 — It was a fatal mistake. 那是个致命错误。
+- fate - 命运 — He accepted his fate. 他接受了命运。
+- father - 父亲 — His father supports him. 他的父亲支持他。
+- fatigue - 疲劳 — Fatigue affects performance. 疲劳影响表现。
+- fault - 过错；故障 — It’s not your fault. 这不是你的错。
+- faulty - 有故障的 — The device is faulty. 设备有故障。
+- favor - 支持；偏爱；恩惠 — Do me a favor, please. 请帮我一个忙。
+- favorable - 有利的；赞同的 — The results are favorable. 结果有利。
+- favorite - 最喜欢的 — This is my favorite book. 这是我最喜欢的书。
+- fear - 恐惧 — Overcome your fear. 克服恐惧。
+- feasible - 可行的 — The plan is feasible. 计划可行。
+- feather - 羽毛 — A feather fell to the ground. 一根羽毛落地。
+- feature - 特征；特色 — The phone’s main feature is speed. 手机的主要特征是速度。
+- February - 二月 — February is shorter than other months. 二月比其他月份短。
+- federal - 联邦的 — The federal law applies nationwide. 联邦法律适用于全国。
+- fee - 费用 — The service fee is low. 服务费很低。
+- feed - 喂养；供给 — Feed the cat twice a day. 每天喂猫两次。
+- feedback - 反馈 — We need your feedback. 我们需要你的反馈。
+- feel - 感觉；觉得 — I feel happy today. 我今天很开心。
+- feeling - 感情；感觉 — Share your feelings with friends. 跟朋友分享你的感受。
+- fellow - 同伴；同类的 — A fellow student helped me. 一个同学帮助了我。
+- female - 女性的；雌性的 — The team has more female members. 团队有更多女性成员。
+- fence - 篱笆；围栏 — The fence is broken. 围栏破了。
+- festival - 节日 — The festival lasts a week. 节日持续一周。
+- fetch - 取来；接来 — Please fetch some water. 请去打点水。
+- fever - 发烧 — He has a high fever. 他高烧。
+- few - 很少；一些 — Few students arrived on time. 很少学生准时到。
+- fiber - 纤维 — Fiber is good for health. 纤维有益健康。
+- fiction - 小说；虚构 — She reads science fiction. 她读科幻小说。
+- field - 田地；领域 — Experts in the field agree. 该领域的专家一致同意。
+- fierce - 激烈的；凶猛的 — The competition is fierce. 竞争很激烈。
+- fifteen - 十五 — Fifteen minutes is enough. 十五分钟足够。
+- fifth - 第五；五分之一 — It’s the fifth test today. 今天是第五次测试。
+- fifty - 五十 — Fifty students joined. 五十名学生加入了。
+- fight - 战斗；打架 — Don’t fight in class. 不要在课堂打架。
+- figure - 数字；人物；图形 — The figure is incorrect. 这个数字不正确。
+- file - 文件；归档 — File the papers properly. 把文件正确归档。
+- fill - 填充；装满 — Fill the form carefully. 仔细填表。
+- film - 电影；胶片 — We watched a film at night. 我们晚上看了电影。
+- filter - 过滤；筛选 — Filter the results by date. 按日期筛选结果。
+- final - 最终的；期末考试 — The final is next week. 期末考试在下周。
+- finally - 最终；终于 — He finally finished the work. 他终于完成了工作。
+- finance - 金融；资金 — The project needs finance. 项目需要资金。
+- financial - 金融的；财政的 — Financial aid helps students. 经济资助帮助学生。
+- find - 找到；发现 — Find the answer yourself. 自己找答案。
+- fine - 好的；罚款；细的 — The weather is fine today. 今天天气很好。
+- finger - 手指 — Point with your finger. 用手指指。
+- finish - 完成 — Finish the task before noon. 中午前完成任务。
+- finite - 有限的 — Resources are finite. 资源是有限的。
+- fire - 火；解雇 — Don’t play with fire. 不要玩火。
+- firm - 公司；坚固的 — The firm expanded abroad. 这家公司国外扩张。
+- firmly - 坚定地；牢固地 — Hold the rope firmly. 牢牢抓住绳子。
+- first - 第一；首先 — First, read the question carefully. 首先，仔细读题。
+- fiscal - 财政的 — Fiscal policy changed this year. 今年财政政策改变了。
+- fish - 鱼；钓鱼 — We fish in the river. 我们在河里钓鱼。
+- fisherman - 渔民 — The fisherman went to sea. 渔民出海了。
+- fit - 适合；健康的 — This shirt fits well. 这件衬衫很合身。
+- fitness - 健身；适合度 — Fitness improves health. 健身改善健康。
+- fix - 修理；固定 — Fix the broken chair. 修好坏椅子。
+- flag - 旗帜 — The flag waves in the wind. 旗帜在风中飘扬。
+- flame - 火焰 — The flame burned bright. 火焰燃烧得很旺。
+- flap - 拍打；襟翼 — Birds flap their wings. 鸟拍打翅膀。
+- flare - 闪光；突然燃烧 — The candle flared up. 蜡烛突然燃起。
+- flash - 闪光；快速显示 — The screen flashed once. 屏幕闪了一下。
+- flat - 平坦的；公寓 — The land is flat. 土地很平。
+- flavor - 味道；风味 — The soup has a rich flavor. 这汤风味浓郁。
+- flaw - 缺陷 — The plan has a flaw. 计划有缺陷。
+- flea - 跳蚤 — The dog has fleas. 狗身上有跳蚤。
+- flee - 逃离 — They flee from danger. 他们逃离危险。
+- flesh - 肉体；果肉 — The fruit’s flesh is sweet. 水果的果肉很甜。
+- flexible - 灵活的；柔韧的 — Flexible rules help innovation. 灵活的规则有助创新。
+- flight - 航班；飞行 — Our flight was delayed. 我们的航班延误了。
+- float - 漂浮 — Leaves float on the water. 叶子漂在水面。
+- flood - 洪水；淹没 — The river flooded the town. 河水淹没了小镇。
+- floor - 地板；楼层 — The office is on the third floor. 办公室在三楼。
+- flourish - 繁荣；兴旺 — Small businesses flourish online. 小企业在网上兴旺。
+- flow - 流动 — Water flows to the sea. 水流向大海。
+- flower - 花 — Flowers bloom in spring. 春天花开。
+- flu - 流感 — Get a flu shot in winter. 冬天打流感疫苗。
+- fluctuation - 波动 — Price fluctuation is common. 价格波动很常见。
+- fluent - 流利的 — She speaks fluent English. 她英语很流利。
+- fluid - 液体；流体 — The fluid is clear. 液体清澈。
+- flute - 长笛 — He plays the flute. 他吹长笛。
+- fly - 飞；苍蝇 — Birds fly south in winter. 冬天鸟南飞。
+- focus - 专注；焦点 — Focus on the main idea. 专注于中心思想。
+- fold - 折叠 — Fold the paper twice. 把纸折两次。
+- folk - 人民；民间的 — Folk music is beautiful. 民间音乐很美。
+- follow - 跟随；遵循 — Follow the rules carefully. 严格遵守规则。
+- follower - 追随者；粉丝 — She has many followers online. 她在网上有很多粉丝。
+- following - 以下的；随后 — Consider the following points. 考虑以下要点。
+- fond - 喜爱的 — He is fond of travel. 他喜欢旅行。
+- food - 食物 — Food is fresh here. 这里食物很新鲜。
+- fool - 傻瓜；愚弄 — Don’t fool your friends. 别愚弄朋友。
+- foot - 脚；英尺 — His foot hurts. 他的脚疼。
+- football - 足球 — We play football after class. 我们下课后踢足球。
+- footwear - 鞋类 — Wear suitable footwear. 穿合适的鞋。
+- for - 为了；对 — This gift is for you. 这个礼物给你。
+- forbid - 禁止 — Smoking is forbidden here. 这里禁止吸烟。
+- force - 力量；强迫 — Use less force to push. 推时少用力。
+- forecast - 预测 — The forecast says it will rain. 天气预报说会下雨。
+- foreign - 外国的 — He speaks foreign languages. 他会说外语。
+- forest - 森林 — The forest is dense. 森林很密。
+- forever - 永远 — I will remember this forever. 我会永远记得这件事。
+- forget - 忘记 — Don’t forget to call me. 别忘了给我打电话。
+- forgive - 原谅 — Please forgive my mistake. 请原谅我的错误。
+- fork - 叉子；分叉 — Take a fork to eat salad. 用叉子吃沙拉。
+- form - 形式；表格；形成 — Fill in the form carefully. 仔细填表。
+- formal - 正式的 — The event is formal. 活动是正式的。
+- format - 格式；格式化 — Change the file format. 更改文件格式。
+- formation - 形成；队形 — Cloud formation looks beautiful. 云的形成很美。
+- former - 以前的；前者 — She met her former teacher. 她见了以前的老师。
+- formula - 公式；配方 — Use the formula to calculate. 用公式计算。
+- forth - 向前 — Go forth and learn. 向前去学习。
+- fortnight - 两周 — We’ll return in a fortnight. 我们两周后回来。
+- fortune - 财富；运气 — Fortune favors the brave. 好运偏爱勇者。
+- forum - 论坛 — Join the forum to discuss. 加入论坛讨论。
+- forward - 向前；转发 — Please forward the email. 请转发该邮件。
+- fossil - 化石 — They found a fossil in the rock. 他们在岩石中发现了化石。
+- foster - 培养；寄养 — Foster a love of reading. 培养阅读的爱好。
+- foul - 肮脏的；犯规 — He committed a foul. 他犯规了。
+- found - 创立；发现（过去式） — They found a solution. 他们找到了一个解决方案。
+- foundation - 基础；基金会 — The foundation supports education. 基金会支持教育。
+- fountain - 喷泉 — The fountain is in the square. 喷泉在广场上。
+- four - 四 — Four students were late. 四名学生迟到。
+- fraction - 分数；部分 — Only a fraction agreed. 只有一小部分同意。
+- fragile - 易碎的；脆弱的 — Handle the fragile glass carefully. 小心拿易碎玻璃。
+- fragment - 碎片；片段 — A fragment of the statue was found. 发现了雕像的碎片。
+- fragrance - 香味 — The fragrance is pleasant. 香味很宜人。
+- frame - 框架；画框 — The frame is made of wood. 框架是木制的。
+- framework - 框架 — Build a framework first. 先搭建一个框架。
+- frank - 坦率的 — Be frank with your friends. 对朋友坦率。
+- frankly - 坦白地 — Frankly, I don’t agree. 坦白讲，我不同意。
+- fraud - 欺诈 — Fraud is a serious crime. 欺诈是严重犯罪。
+- free - 自由的；免费的 — Feel free to ask questions. 随意提问。
+- freedom - 自由 — Freedom matters to everyone. 自由对每个人都重要。
+- freely - 自由地；随意地 — Speak freely in class. 在课堂上自由发言。
+- freeze - 结冰；冻结 — The lake will freeze in winter. 冬天湖会结冰。
+- freight - 货运；运费 — Freight costs increased. 运费上涨了。
+- frequency - 频率 — Increase the frequency of practice. 提高练习频率。
+- frequent - 频繁的 — Frequent breaks help focus. 频繁休息有助集中。
+- frequently - 经常 — He frequently visits the library. 他经常去图书馆。
+- fresh - 新鲜的；新颖的 — Fresh ideas are welcome. 欢迎新颖的想法。
+- friction - 摩擦 — Friction slows movement. 摩擦减缓运动。
+- Friday - 星期五 — The test is on Friday. 测试在周五。
+- fridge - 冰箱 — Put the milk in the fridge. 把牛奶放冰箱。
+- friend - 朋友 — Be a good friend. 做个好朋友。
+- friendly - 友好的 — The staff are friendly. 员工很友好。
+- friendship - 友谊 — Their friendship is strong. 他们的友谊很牢固。
+- frighten - 使害怕 — The noise frightened the child. 噪音吓到了孩子。
+- frog - 青蛙 — A frog jumped into the pond. 一只青蛙跳进池塘。
+- from - 来自；从 — He is from Beijing. 他来自北京。
+- front - 前面；前线 — Stand at the front. 站在前面。
+- frontier - 边界；前沿 — Science explores the frontier. 科学探索前沿。
+- frost - 霜 — Frost covered the grass. 霜覆盖了草地。
+- frown - 皱眉 — He frowned at the news. 他听到消息皱眉了。
+- frozen - 冻结的；冰冻的 — The river is frozen. 河结冰了。
+- fruit - 水果 — Eat more fruit. 多吃水果。
+- fry - 油炸；炒 — Fry the eggs in a pan. 在锅里煎鸡蛋。
+- fuel - 燃料 — The car needs fuel. 车需要燃料。
+- fulfill - 实现；履行 — Fulfill your promise. 履行你的承诺。
+- full - 满的；完全的 — The room is full. 房间满了。
+- fully - 完全地 — We fully support your plan. 我们完全支持你的计划。
+- fun - 乐趣 — Learning can be fun. 学习可以很有趣。
+- function - 功能；函数 — The function returns a number. 这个函数返回一个数字。
+- functional - 功能性的；实用的 — The design is functional. 设计很实用。
+- fund - 基金；资金 — The project needs more funds. 项目需要更多资金。
+- fundamental - 基本的；根本的 — Trust is fundamental. 信任是根本。
+- fundamentally - 从根本上 — The idea is fundamentally sound. 这个想法在根本上可靠。
+- funeral - 葬礼 — The funeral was private. 葬礼是私下进行的。
+- funny - 有趣的 — The story is funny. 故事很有趣。
+- fur - 毛皮 — The coat is made of fur. 这件外套是毛皮做的。
+- furious - 愤怒的；狂怒的 — He was furious at the delay. 他对延误很愤怒。
+- furnace - 熔炉；暖炉 — The furnace keeps the house warm. 暖炉让房子保持温暖。
+- furniture - 家具 — The furniture is expensive. 家具很贵。
+- further - 更远；进一步 — Further study is needed. 需要进一步研究。
+- furthermore - 此外；而且 — Furthermore, the data is clear. 此外，数据很清晰。
+- fuse - 保险丝；融合 — The fuse blew out. 保险丝烧断了。
+- fuss - 大惊小怪；忙乱 — Don’t make a fuss. 别大惊小怪。
+- future - 未来 — Think about the future. 想想未来。
+
+（未完待续）
