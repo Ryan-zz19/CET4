@@ -1,0 +1,257 @@
+# CET-4 核心词汇（第6批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- gain - 获得；增加 — You will gain experience from practice. 你会从练习中获得经验。
+- galaxy - 星系 — Our planet is in the Milky Way galaxy. 我们的行星位于银河系。
+- gallery - 画廊；廊 — The gallery opens at ten. 画廊十点开门。
+- game - 游戏；比赛 — We played a game after class. 我们下课后玩了游戏。
+- gap - 差距；裂缝 — Fill the knowledge gap with reading. 用阅读填补知识差距。
+- garage - 车库 — The car is in the garage. 车在车库里。
+- garbage - 垃圾 — Take out the garbage tonight. 今晚倒垃圾。
+- garden - 花园 — The garden is full of flowers. 花园里开满鲜花。
+- garlic - 大蒜 — Add garlic for flavor. 加蒜增味。
+- gasp - 喘气；倒吸一口气 — He gasped at the news. 他听到消息倒吸一口气。
+- gate - 大门 — Meet me at the main gate. 在正门见我。
+- gather - 聚集；收集 — Students gather in the hall. 学生们在礼堂集会。
+- gauge - 测量；评估 — Gauge the students’ progress. 评估学生的进度。
+- gay - 同性恋的；快乐的（旧义） — He came out as gay. 他公开出柜了。
+- gaze - 凝视 — She gazed at the stars. 她凝视星空。
+- gear - 齿轮；装备 — Change gear when climbing. 爬坡时换挡。
+- gender - 性别 — Gender equality matters. 性别平等很重要。
+- gene - 基因 — The gene controls traits. 这个基因控制性状。
+- general - 一般的；将军 — In general, the idea works. 一般来说，这个想法可行。
+- generate - 产生；生成 — Generate a report weekly. 每周生成报告。
+- generation - 一代；产生 — The younger generation loves technology. 年轻一代热爱科技。
+- generous - 慷慨的 — She is generous with time. 她很慷慨地付出时间。
+- genius - 天才 — The boy is a math genius. 这男孩是数学天才。
+- gentle - 温和的 — Speak in a gentle voice. 以温和的语气说话。
+- gentleman - 绅士 — Be a gentleman in public. 在公共场合做个绅士。
+- gently - 轻轻地 — Close the door gently. 轻轻关门。
+- genuine - 真正的；真诚的 — Her smile is genuine. 她的笑容很真诚。
+- geography - 地理 — Geography explains the land. 地理学解释土地。
+- geology - 地质学 — Geology studies rocks. 地质学研究岩石。
+- geometry - 几何 — Geometry problems are fun. 几何题很有趣。
+- gesture - 手势；姿势 — Use gestures when presenting. 演示时使用手势。
+- get - 得到；变得 — Get ready for the test. 准备考试。
+- ghost - 鬼 — He doesn’t believe in ghosts. 他不信有鬼。
+- giant - 巨大的；巨人 — The tree is a giant. 这棵树很巨大。
+- gift - 礼物；天赋 — She has a gift for music. 她有音乐天赋。
+- giggle - 咯咯笑 — The kids giggled loudly. 孩子们咯咯笑。
+- ginger - 姜 — Add ginger to the soup. 在汤里加点姜。
+- girl - 女孩 — The girl is drawing. 女孩在画画。
+- give - 给 — Give me a hand, please. 请帮我一下。
+- glad - 高兴的 — I’m glad to see you. 见到你很高兴。
+- glance - 一瞥 — Take a glance at the schedule. 看一眼日程表。
+- glare - 刺眼光；怒视 — The glare hurt my eyes. 刺眼的光伤了我的眼睛。
+- glass - 玻璃；杯子 — The glass broke. 玻璃碎了。
+- glasses - 眼镜 — He wears glasses. 他戴眼镜。
+- glide - 滑行；滑动 — The bird glides in the air. 鸟在空中滑行。
+- glimpse - 一瞥；短暂一现 — I caught a glimpse of him. 我瞥见了他。
+- global - 全球的 — Global trade is growing. 全球贸易在增长。
+- globe - 地球；地球仪 — The globe shows countries. 地球仪显示各国。
+- gloomy - 忧郁的；昏暗的 — The room feels gloomy. 房间感觉阴暗。
+- glory - 荣耀 — They fought for glory. 他们为荣耀而战。
+- glove - 手套 — Wear gloves in winter. 冬天戴手套。
+- glow - 发光；暗淡光 — The screen glows softly. 屏幕柔和发光。
+- glue - 胶水 — Use glue to fix it. 用胶水修好它。
+- go - 去；走 — Let’s go now. 我们现在走吧。
+- goal - 目标；进球 — Set a clear goal. 设定清晰目标。
+- goat - 山羊 — The goat ate grass. 山羊吃草。
+- God - 上帝 — They prayed to God. 他们向上帝祈祷。
+- gold - 金子；金色 — The ring is made of gold. 戒指是金制的。
+- golden - 金色的；珍贵的 — This is a golden chance. 这是个黄金机会。
+- golf - 高尔夫 — He plays golf on weekends. 他周末打高尔夫。
+- good - 好的 — It’s a good idea. 这是个好主意。
+- goodwill - 友善；商誉 — Goodwill builds trust. 善意建立信任。
+- goose - 鹅 — Geese fly in V shape. 鹅群以V字队形飞行。
+- govern - 统治；治理 — Laws govern behavior. 法律规范行为。
+- government - 政府 — The government announced a plan. 政府公布了一个计划。
+- governor - 州长；总督 — The governor visited the school. 州长参观了学校。
+- gown - 礼服；长袍 — She wore a white gown. 她穿了白色礼服。
+- grab - 抓住 — Grab your coat and go. 抓起你的外套就走。
+- grace - 优雅；恩典 — She moves with grace. 她举止优雅。
+- grade - 年级；分数 — He is in the third grade. 他上三年级。
+- gradual - 逐渐的 — Progress was gradual but steady. 进展缓慢但稳定。
+- gradually - 逐渐地 — The pain disappeared gradually. 疼痛逐渐消失。
+- graduate - 毕业；研究生 — He will graduate next year. 他明年毕业。
+- grain - 粮食；颗粒 — Rice is a grain. 大米是谷物。
+- grammar - 语法 — Grammar helps you write better. 语法让你写得更好。
+- grand - 宏伟的；盛大的 — The hall looks grand. 礼堂很宏伟。
+- grant - 授予；拨款 — They granted him a scholarship. 他们给了他奖学金。
+- graph - 图；曲线图 — The graph shows sales. 图表显示销量。
+- grasp - 抓住；领会 — Grasp the main idea. 抓住中心思想。
+- grass - 草 — The grass is green. 草是绿色的。
+- grateful - 感激的 — I’m grateful for your help. 我感激你的帮助。
+- gratitude - 感恩 — Express gratitude to teachers. 向老师表达感恩。
+- grave - 坟墓；严重的 — He made a grave mistake. 他犯了严重错误。
+- gravity - 重力；严肃 — Gravity pulls objects down. 重力使物体下落。
+- gray - 灰色的 — The sky looks gray today. 今天天空灰蒙蒙。
+- graze - 放牧；擦伤 — Cows graze in the field. 牛在田里吃草。
+- great - 伟大的；非常好的 — Great job! 做得很好！
+- greatly - 极大地 — The new rule greatly helps us. 新规则极大地帮助了我们。
+- green - 绿色的；环保的 — Choose green energy. 选择绿色能源。
+- greet - 问候 — Greet guests at the door. 在门口问候客人。
+- greeting - 问候；致意 — Send a greeting card. 寄一张贺卡。
+- grid - 网格；电网 — The power grid is stable. 电网稳定。
+- grief - 悲伤 — He felt deep grief. 他感到深深的悲伤。
+- grill - 烤；烤架 — Grill the meat for ten minutes. 把肉烤十分钟。
+- grip - 紧握；掌握 — Keep a firm grip on the handle. 牢牢抓住把手。
+- grocery - 食品杂货 — Buy groceries for dinner. 买晚餐的杂货。
+- gross - 总的；恶心的 — The movie had gross scenes. 这部电影有些恶心的镜头。
+- ground - 地面；理由 — The ground is wet. 地面很湿。
+- group - 组；群体 — Work in groups of three. 三人一组工作。
+- grow - 成长；种植 — Plants grow fast in summer. 夏天植物长得快。
+- growth - 增长；生长 — The company showed growth. 公司出现增长。
+- guarantee - 保证 — We guarantee quality. 我们保证质量。
+- guard - 守卫；保护 — The guard checked IDs. 保安检查了证件。
+- guess - 猜测 — Can you guess the answer? 你能猜出答案吗？
+- guest - 客人 — A guest arrived late. 有位客人迟到了。
+- guide - 指导；导游 — The guide led the tour. 导游带领了旅行。
+- guideline - 指南 — Follow the guidelines closely. 严格遵守指南。
+- guilt - 罪责；内疚 — He felt guilt after lying. 他说谎后感到内疚。
+- guilty - 有罪的；内疚的 — He pleaded guilty in court. 他在法庭上认罪。
+- guitar - 吉他 — She plays the guitar well. 她吉他弹得很好。
+- gulf - 海湾；鸿沟 — There is a gulf between rich and poor. 贫富之间有鸿沟。
+- gum - 口香糖；树胶 — Chew gum quietly. 安静地嚼口香糖。
+- gun - 枪 — Guns are dangerous. 枪很危险。
+- gym - 健身房；体育馆 — He goes to the gym daily. 他每天去健身房。
+- habit - 习惯 — Build a good habit. 养成好习惯。
+- habitat - 栖息地 — Protect the animals’ habitat. 保护动物栖息地。
+- hack - 黑客；砍 — He learned to hack ethically. 他学习了道德黑客。
+- hail - 冰雹；欢呼 — Hail fell last night. 昨晚下冰雹了。
+- hair - 头发 — Her hair is long. 她头发很长。
+- half - 一半 — Cut the apple in half. 把苹果切成两半。
+- hall - 大厅；礼堂 — Meet in the hall at 9. 九点在大厅见。
+- hallway - 走廊 — The hallway is narrow. 走廊很窄。
+- halt - 停止 — The bus came to a halt. 公交车停了下来。
+- hammer - 锤子 — Use a hammer to fix it. 用锤子修它。
+- hamper - 妨碍；阻碍 — Heavy rain hampers travel. 大雨妨碍出行。
+- handful - 一把；少数 — A handful of students stayed. 少数学生留下了。
+- handle - 处理；把手 — Handle the issue calmly. 冷静处理问题。
+- handsome - 英俊的 — He is a handsome man. 他是个英俊的男人。
+- handwriting - 字迹 — Her handwriting is neat. 她字迹工整。
+- handy - 方便的 — A pocket dictionary is handy. 袖珍词典很方便。
+- hang - 悬挂；挂 — Hang your coat on the hook. 把外套挂在钩子上。
+- happen - 发生 — Accidents happen sometimes. 事故有时会发生。
+- happiness - 幸福 — Happiness is the goal of life. 幸福是人生目标。
+- happy - 快乐的 — Be happy with small things. 对小事也要快乐。
+- harbor - 港口；避风港 — The harbor is busy. 港口很繁忙。
+- hard - 硬的；困难的 — It’s hard to solve this. 这个很难解。
+- hardly - 几乎不 — He hardly sleeps at night. 他晚上几乎不睡觉。
+- hardware - 硬件 — Computer hardware is expensive. 计算机硬件很贵。
+- hardworking - 勤奋的 — She is hardworking and kind. 她勤奋且善良。
+- harm - 伤害 — Don’t harm wild animals. 不要伤害野生动物。
+- harmful - 有害的 — Harmful habits should be avoided. 有害习惯应避免。
+- harmless - 无害的 — The insect is harmless. 这昆虫无害。
+- harmony - 和谐 — Live in harmony with nature. 与自然和谐相处。
+- harness - 利用；驾驭 — Harness solar energy. 利用太阳能。
+- harsh - 严厉的；刺耳的 — The critic was harsh. 评论家很严厉。
+- harvest - 收获 — Farmers harvest in autumn. 农民在秋天收获。
+- haste - 匆忙 — More haste, less speed. 欲速不达。
+- hasty - 匆忙的；轻率的 — Don’t make a hasty decision. 不要轻率决定。
+- hat - 帽子 — Wear a hat in the sun. 阳光下戴帽子。
+- hate - 讨厌；仇恨 — Don’t hate others. 不要仇恨别人。
+- have - 有 — We have time today. 我们今天有时间。
+- haven - 避风港 — The library is a haven for learners. 图书馆是学习者的避风港。
+- hazard - 危险；隐患 — Remove fire hazards. 消除火灾隐患。
+- he - 他 — He is my friend. 他是我的朋友。
+- head - 头；领导 — Shake your head gently. 轻轻摇头。
+- headline - 标题 — The headline draws attention. 标题吸引注意。
+- headquarters - 总部 — The company’s headquarters are downtown. 公司总部在市中心。
+- heal - 治愈 — Time can heal wounds. 时间能治愈伤口。
+- health - 健康 — Health comes first. 健康第一。
+- healthy - 健康的 — Eat a healthy diet. 吃健康的饮食。
+- heap - 堆 — A heap of books lies there. 那儿有一堆书。
+- hear - 听见 — I can’t hear you clearly. 我听不清你。
+- hearing - 听力；听证会 — His hearing is weak. 他的听力较弱。
+- heart - 心脏；心 — Follow your heart. 跟随你的心。
+- heat - 热；加热 — Heat the soup before serving. 上桌前加热汤。
+- heater - 加热器 — Turn off the heater at night. 夜里关掉加热器。
+- heaven - 天堂 — They believe in heaven. 他们相信天堂。
+- heavy - 重的；严重的 — Heavy traffic causes delays. 交通拥堵导致延误。
+- heel - 脚跟 — My heel hurts when running. 跑步时我的脚跟痛。
+- height - 高度 — Measure the height of the wall. 测量墙的高度。
+- helicopter - 直升机 — The helicopter landed safely. 直升机安全着陆。
+- hell - 地狱；糟糕状况 — It was hell during the storm. 暴风雨期间情况糟糕。
+- hello - 你好 — Say hello to your teacher. 跟老师说声你好。
+- helmet - 头盔 — Wear a helmet when cycling. 骑车时戴头盔。
+- help - 帮助 — Ask for help when needed. 需要时寻求帮助。
+- helpful - 有帮助的 — The guide is helpful. 指南很有帮助。
+- helpless - 无助的 — The puppy looked helpless. 小狗看起来很无助。
+- hemisphere - 半球 — The earth has two hemispheres. 地球有两个半球。
+- hence - 因此 — Hence, we changed the plan. 因此，我们更改了计划。
+- her - 她的 — Give her the book. 把书给她。
+- herb - 草本植物；药草 — Mint is a common herb. 薄荷是常见药草。
+- here - 这里 — Come here at once. 立刻来这里。
+- heritage - 遗产；传统 — Cultural heritage should be preserved. 应保护文化遗产。
+- hero - 英雄 — He is a real hero. 他是真正的英雄。
+- hierarchy - 等级制度 — The company has a clear hierarchy. 公司有清晰的等级制度。
+- high - 高的 — Prices are high this year. 今年价格很高。
+- highlight - 突出；亮点 — Highlight the key words. 突出关键词。
+- highly - 非常；高度地 — She is highly skilled. 她技能很强。
+- highway - 高速公路 — Drive carefully on the highway. 在高速上谨慎驾驶。
+- hike - 远足；徒步 — We went for a hike. 我们去徒步了。
+- hill - 小山 — The hill is steep. 小山很陡。
+- hinder - 阻碍 — Noise hinders concentration. 噪音阻碍专注。
+- hint - 暗示 — He gave a hint. 他给了个暗示。
+- hip - 臀部 — He hurt his hip. 他伤了臀部。
+- hire - 雇用 — The company plans to hire more staff. 公司计划雇用更多员工。
+- his - 他的 — This is his bag. 这是他的包。
+- history - 历史 — History teaches lessons. 历史教我们经验。
+- hit - 打击；碰撞 — He hit the ball hard. 他用力击球。
+- hobby - 爱好 — Reading is her hobby. 阅读是她的爱好。
+- hockey - 曲棍球 — He plays hockey at school. 他在学校打曲棍球。
+- hold - 拿着；举行 — Hold the meeting tomorrow. 明天开会。
+- hole - 洞 — There is a hole in the road. 路上有个洞。
+- holiday - 假期 — Our holiday starts next week. 我们的假期下周开始。
+- holy - 神圣的 — It’s a holy place. 这是个神圣的地方。
+- home - 家；家里 — He went home early. 他早早回家。
+- homework - 作业 — Finish your homework today. 今天完成你的作业。
+- homeless - 无家可归的 — The city helps the homeless. 城市帮助无家可归者。
+- honest - 诚实的 — Be honest with yourself. 对自己诚实。
+- honesty - 诚实 — Honesty builds trust. 诚实建立信任。
+- honey - 蜂蜜 — Honey tastes sweet. 蜂蜜很甜。
+- honor - 荣誉；尊敬 — It’s an honor to meet you. 见到你是荣幸。
+- hope - 希望 — Never lose hope. 永远不要失去希望。
+- horizon - 地平线 — The sun sinks below the horizon. 太阳落到地平线下。
+- horizontal - 水平的 — Draw a horizontal line. 画一条水平线。
+- horn - 号角；喇叭 — The car horn sounded. 汽车喇叭响了。
+- horror - 恐怖；惊骇 — He hates horror movies. 他讨厌恐怖电影。
+- horse - 马 — The horse ran fast. 马跑得很快。
+- hose - 软管 — Use a hose to water plants. 用软管浇水。
+- hospital - 医院 — She works at a hospital. 她在医院工作。
+- host - 主人；主持人 — The host welcomed us warmly. 主人热情欢迎我们。
+- hostel - 旅舍 — The hostel is cheap and clean. 青旅便宜又干净。
+- hostile - 敌意的 — The crowd was hostile. 人群带着敌意。
+- hot - 热的；辣的 — It’s hot today. 今天很热。
+- hotel - 酒店 — Book a hotel near the station. 订个靠近车站的酒店。
+- hour - 小时 — The class lasts an hour. 课持续一小时。
+- household - 家庭；一家人 — Household tasks are shared. 家务由大家分担。
+- housework - 家务 — Do housework on weekends. 周末做家务。
+- housing - 住房；房屋 — Affordable housing is needed. 需要可负担住房。
+- hover - 盘旋；悬停 — The drone hovers above us. 无人机在我们上方悬停。
+- how - 如何 — How do you learn English? 你如何学英语？
+- however - 然而；不管怎样 — However, we still tried. 然而我们仍然尝试。
+- hug - 拥抱 — Give her a hug. 给她一个拥抱。
+- huge - 巨大的 — The stadium is huge. 体育场很巨大。
+- human - 人类；人类的 — Human rights are important. 人权很重要。
+- humanity - 人性；人类 — We must show humanity. 我们必须展现人性。
+- humble - 谦逊的 — Stay humble and learn. 保持谦逊并学习。
+- humid - 潮湿的 — The air is humid today. 今天空气湿润。
+- humor - 幽默 — His humor lightens the mood. 他的幽默缓解了气氛。
+- hundred - 一百 — A hundred students attended. 一百名学生参加了。
+- hunger - 饥饿 — Hunger affects concentration. 饥饿影响注意力。
+- hungry - 饥饿的 — I’m hungry after class. 下课后我饿了。
+- hunt - 狩猎；寻找 — Hunt for solutions actively. 积极寻找解决方案。
+- hurricane - 飓风 — The hurricane destroyed houses. 飓风摧毁了房屋。
+- hurry - 赶快；匆忙 — Hurry up or we’ll be late. 快点，否则我们要迟到了。
+- hurt - 伤害；疼痛 — Don’t hurt your friends. 不要伤害你的朋友。
+- husband - 丈夫 — Her husband is a doctor. 她的丈夫是医生。
+- hut - 小屋 — The hut stands by the river. 小屋在河边。
+- hybrid - 混合的；混合体 — Hybrid cars save fuel. 混合动力车省油。
+- hygiene - 卫生 — Good hygiene prevents disease. 良好卫生防病。
+- hysterical - 歇斯底里的；极度激动的 — She became hysterical after the shock. 受惊后她变得歇斯底里。
+
+（未完待续）
