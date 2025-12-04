@@ -1,0 +1,197 @@
+# CET-4 核心词汇（第9批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- nail - 钉子；指甲 — Hammer the nail gently. 轻轻敲钉子。
+- naked - 裸体的；无遮掩的 — Truth lies naked before us. 真相无遮掩地摆在我们面前。
+- name - 名字；命名 — What’s your name? 你叫什么名字？
+- narrow - 狭窄的；变窄 — The street is narrow. 这条街很窄。
+- nasty - 肮脏的；恶劣的 — That was a nasty comment. 那是个恶劣的评论。
+- nation - 国家 — Our nation is strong. 我们的国家很强大。
+- national - 国家的；全国的 — National exams are next month. 全国考试在下个月。
+- native - 本地的；本国的 — Native plants grow well here. 本地植物在这里长得好。
+- natural - 自然的；天然的 — Use natural ingredients. 使用天然材料。
+- nature - 自然；本质 — Nature inspires art. 自然启发艺术。
+- naughty - 淘气的 — The naughty boy ran away. 淘气的男孩跑开了。
+- navy - 海军 — He joined the navy. 他参军进了海军。
+- near - 近的；在附近 — The station is near. 车站很近。
+- nearby - 在附近 — A shop is nearby. 附近有家商店。
+- nearly - 几乎 — It’s nearly noon. 快到中午了。
+- neat - 整洁的 — Keep your desk neat. 保持桌面整洁。
+- necessarily - 必然地；一定 — Not necessarily true. 未必如此。
+- necessary - 必要的 — It is necessary to rest. 休息是必要的。
+- neck - 脖子 — His neck feels stiff. 他的脖子僵硬。
+- need - 需要 — We need more time. 我们需要更多时间。
+- needle - 针；指针 — The needle is sharp. 针很锋利。
+- negative - 负面的；否定的 — Don’t be negative. 别消极。
+- neglect - 忽视；疏忽 — Don’t neglect your health. 别忽视健康。
+- negotiate - 谈判 — Negotiate a fair price. 谈判一个公平的价格。
+- negotiation - 谈判；协商 — The negotiation took hours. 谈判花了几个小时。
+- neighbor - 邻居 — My neighbor is kind. 我的邻居很友善。
+- neighborhood - 街区；邻里 — The neighborhood is quiet. 这个街区很安静。
+- neither - 两者都不 — Neither answer is correct. 两个答案都不对。
+- nephew - 侄子；外甥 — My nephew is five. 我的侄子五岁。
+- nerve - 神经；勇气 — Don’t lose your nerve. 别失去勇气。
+- nervous - 紧张的；神经的 — He feels nervous before exams. 他考前紧张。
+- nest - 巢 — Birds built a nest. 鸟筑了巢。
+- net - 网；净值 — The net weight is five kilos. 净重五公斤。
+- network - 网络 — The network is fast. 网络很快。
+- neutral - 中立的 — Stay neutral in disputes. 纠纷中保持中立。
+- never - 从不 — He never lies. 他从不说谎。
+- nevertheless - 然而；尽管如此 — Nevertheless, we tried again. 然而我们又尝试了。
+- new - 新的 — It’s a new phone. 这是新手机。
+- newly - 新近地 — He is newly married. 他新婚。
+- news - 新闻 — The news spread quickly. 新闻传播很快。
+- newspaper - 报纸 — Read the newspaper daily. 每天读报纸。
+- next - 下一个；下一次 — Next class is on Monday. 下一节课在周一。
+- nice - 令人愉快的；好的 — Nice to meet you. 很高兴见到你。
+- niece - 侄女；外甥女 — My niece likes painting. 我的侄女喜欢画画。
+- night - 夜晚 — Night falls early in winter. 冬天夜来得早。
+- nightmare - 噩梦 — He had a nightmare. 他做了个噩梦。
+- nine - 九 — Nine students answered. 九个学生回答了。
+- nineteen - 十九 — Nineteen people joined. 十九人加入了。
+- ninety - 九十 — Ninety points is excellent. 九十分是优秀。
+- ninth - 第九 — It’s the ninth lesson. 这是第九课。
+- no - 不；没有 — No, thank you. 不，谢谢。
+- noble - 高尚的；贵族的 — He has a noble spirit. 他有高尚的精神。
+- nobody - 没有人 — Nobody knows the answer. 没人知道答案。
+- nod - 点头 — Nod if you agree. 如果同意就点头。
+- noise - 噪音 — Noise affects concentration. 噪音影响专注。
+- noisy - 吵闹的 — The street is noisy. 街很吵。
+- nominate - 提名 — Nominate the best student. 提名最优秀的学生。
+- nomination - 提名 — The nomination surprised her. 提名让她很惊讶。
+- none - 没有任何 — None of them arrived. 他们一个都没到。
+- noon - 中午 — Meet at noon. 中午见。
+- nor - 也不 — He neither drinks nor smokes. 他不喝酒也不抽烟。
+- north - 北方 — The wind blew from the north. 风从北边吹来。
+- northern - 北部的 — Northern regions are cold. 北部地区很冷。
+- nose - 鼻子 — My nose is blocked. 我鼻塞。
+- not - 不是；不 — Not now, please. 现在不要。
+- note - 笔记；注意 — Take notes in class. 上课做笔记。
+- notebook - 笔记本 — Bring your notebook tomorrow. 明天带笔记本。
+- nothing - 没有东西；无 — Nothing is impossible. 没有什么不可能。
+- notice - 注意；通知 — Notice the small details. 注意小细节。
+- notify - 通知 — Please notify the teacher. 请通知老师。
+- notion - 观念；看法 — The notion is outdated. 这个观念过时了。
+- novel - 小说；新颖的 — It’s a classic novel. 这是一本经典小说。
+- November - 十一月 — The exam is in November. 考试在十一月。
+- now - 现在 — Do it now. 现在就做。
+- nowhere - 无处 — There is nowhere to hide. 无处可藏。
+- nuclear - 核的 — Nuclear energy is controversial. 核能有争议。
+- nucleus - 核；核心 — The cell’s nucleus is important. 细胞核很重要。
+- nuisance - 麻烦；讨厌的人或事 — The noise is a nuisance. 噪音很烦人。
+- null - 空；无效 — The result is null. 结果无效。
+- number - 数字；数量 — What’s your phone number? 你的电话号码是多少？
+- numerous - 众多的 — Numerous examples exist. 有很多例子。
+- nurse - 护士 — The nurse helped the patient. 护士帮助了病人。
+- nursery - 幼儿园；苗圃 — The child goes to nursery. 孩子上幼儿园。
+- nurture - 养育；培育 — Nurture your talent. 培育你的才能。
+- nut - 坚果；螺母 — The nut is tight. 螺母很紧。
+- nylon - 尼龙 — The bag is made of nylon. 包是尼龙做的。
+- oak - 橡树 — The oak is strong. 橡树很壮。
+- oath - 誓言 — He swore an oath. 他宣誓了。
+- obey - 服从 — Obey the rules. 遵守规则。
+- object - 物体；反对 — They objected to the change. 他们反对这项变更。
+- objective - 目标；客观的 — Stay objective in research. 在研究中保持客观。
+- obligation - 义务 — You have an obligation to help. 你有帮助的义务。
+- oblige - 迫使；施恩于 — We were obliged to leave. 我们被迫离开。
+- obscure - 模糊的；晦涩的 — The text is obscure. 文本晦涩。
+- observation - 观察 — Careful observation is needed. 需要仔细观察。
+- observe - 观察；遵守 — Observe lab safety rules. 遵守实验室安全规则。
+- obstacle - 障碍 — Remove obstacles to progress. 移除进步的障碍。
+- obtain - 获得 — Obtain permission first. 先取得许可。
+- obvious - 明显的 — It’s obvious you tried. 很明显你努力了。
+- obviously - 显然 — Obviously, we need more data. 显然我们需要更多数据。
+- occasion - 场合；时机 — Dress for the occasion. 根据场合着装。
+- occasional - 偶然的；间或的 — Occasional breaks help. 偶尔休息有帮助。
+- occasionally - 偶尔 — We occasionally visit museums. 我们偶尔参观博物馆。
+- occupation - 职业；占领 — Teaching is his occupation. 教学是他的职业。
+- occupy - 占据；占用 — Don’t occupy two seats. 别占两个座位。
+- occur - 发生 — Mistakes occur sometimes. 错误有时会发生。
+- occurrence - 事件；发生 — It was a rare occurrence. 这是罕见事件。
+- ocean - 海洋 — The ocean is vast. 海洋很广阔。
+- odd - 奇怪的；奇数的 — It’s odd to see snow here. 在这儿下雪很奇怪。
+- odds - 可能性；赔率 — The odds are against us. 机会不利于我们。
+- ode - 颂诗 — He wrote an ode to spring. 他写了首春之颂。
+- of - 的 — A cup of tea. 一杯茶。
+- off - 关；离开；偏离 — Turn off the lights. 把灯关了。
+- offend - 冒犯 — Don’t offend your classmates. 别冒犯同学。
+- offense - 过错；进攻 — The offense was minor. 过错很小。
+- offensive - 冒犯的；进攻的 — The joke was offensive. 那个笑话很冒犯。
+- offer - 提供；报价 — They offered help. 他们提供了帮助。
+- office - 办公室 — The office is open. 办公室开放。
+- officer - 官员；警官 — The officer checked the documents. 官员检查了文件。
+- official - 官方的；官员 — The official announcement came. 官方公告来了。
+- often - 经常 — He often reads at night. 他经常在夜里阅读。
+- oh - 哦 — Oh, I see. 哦，我明白了。
+- oil - 油；石油 — Oil prices fell. 油价下跌。
+- old - 老的；旧的 — Old books are valuable. 旧书很有价值。
+- olive - 橄榄 — Olive oil is healthy. 橄榄油健康。
+- Olympic - 奥林匹克的 — The Olympic Games inspire athletes. 奥运会激励运动员。
+- omit - 省略 — Don’t omit important data. 不要省略重要数据。
+- on - 在…上；进行中 — The show is on. 演出正在进行。
+- once - 一次；曾经 — Once upon a time... 从前……
+- one - 一 — One step at a time. 一次一步。
+- ongoing - 持续的 — The project is ongoing. 项目在进行中。
+- onion - 洋葱 — Chop the onion finely. 把洋葱切碎。
+- only - 仅仅；唯一的 — It’s only a test. 这只是一次测试。
+- onto - 到…上 — Step onto the stage. 走上舞台。
+- open - 打开；开放的 — Open the window, please. 请打开窗户。
+- opening - 开始；开口 — The opening was grand. 开幕很盛大。
+- opera - 歌剧 — Opera requires strong voices. 歌剧需要强嗓。
+- operate - 操作；运作 — Operate the machine carefully. 小心操作机器。
+- operation - 手术；操作 — The operation succeeded. 手术成功了。
+- operator - 操作员 — The operator answered quickly. 操作员迅速接听。
+- opinion - 意见 — Share your opinion. 分享你的意见。
+- opponent - 对手 — Respect your opponent. 尊重你的对手。
+- opportunity - 机会 — Take the opportunity to learn. 抓住学习机会。
+- oppose - 反对 — They oppose the plan. 他们反对该计划。
+- opposite - 相反的；对面的 — The library is opposite the bank. 图书馆在银行对面。
+- opposition - 反对；对立 — Strong opposition emerged. 出现了强烈反对。
+- option - 选项 — Choose the right option. 选择正确选项。
+- optional - 可选择的 — The assignment is optional. 作业可选做。
+- orange - 橙子；橙色 — Orange juice is fresh. 橙汁很新鲜。
+- orbit - 轨道 — The satellite entered orbit. 卫星进入了轨道。
+- order - 顺序；订单；命令 — Keep the order in class. 课堂保持秩序。
+- ordinary - 普通的 — Ordinary people do great things. 普通人也能做大事。
+- organ - 器官；风琴 — The organ is complex. 器官结构复杂。
+- organic - 有机的 — Organic food is expensive. 有机食品很贵。
+- organization - 组织 — The organization helps students. 该组织帮助学生。
+- organize - 组织；整理 — Organize your notes well. 整理好你的笔记。
+- organized - 有组织的；有条理的 — Stay organized during exams. 考试期间保持条理。
+- origin - 起源 — The origin is unknown. 起源不明。
+- original - 原始的；原创的 — Original ideas matter. 原创想法很重要。
+- originally - 原本；最初 — Originally, we planned more. 原本我们计划更多。
+- ornament - 装饰品 — Hang an ornament on the tree. 在树上挂个装饰品。
+- orphan - 孤儿 — The orphan needed care. 孤儿需要照顾。
+- other - 其他的 — Other students arrived late. 其他学生迟到了。
+- otherwise - 否则；此外 — Work now, otherwise you’ll be late. 现在工作，否则你会迟到。
+- ought - 应当 — You ought to study harder. 你应当更用功。
+- our - 我们的 — Our class is friendly. 我们的班级很友好。
+- ours - 我们的（名词性） — The victory is ours. 胜利是我们的。
+- ourselves - 我们自己 — We did it ourselves. 我们自己完成的。
+- out - 在外；出去 — Go out for fresh air. 出去呼吸新鲜空气。
+- outcome - 结果 — The outcome was positive. 结果是积极的。
+- outdoor - 户外的 — He loves outdoor activities. 他喜欢户外活动。
+- outer - 外面的 — The outer layer is soft. 外层很柔软。
+- outfit - 全套服装 — Her outfit is stylish. 她的穿搭很时尚。
+- outline - 提纲；轮廓 — Write an outline first. 先写提纲。
+- outlook - 前景；观点 — The outlook is bright. 前景光明。
+- output - 输出；产量 — Increase output this month. 本月提高产量。
+- outside - 外面 — Wait outside the room. 在房间外等待。
+- outstanding - 杰出的；未解决的（款项） — He is an outstanding student. 他是优秀学生。
+- oven - 烤箱 — Preheat the oven. 预热烤箱。
+- over - 在…上方；超过；结束 — The class is over. 课程结束了。
+- overall - 总体的；整体上 — Overall performance improved. 总体表现提高了。
+- overcome - 克服 — Overcome fear with courage. 用勇气克服恐惧。
+- overlook - 俯瞰；忽视 — Don’t overlook small errors. 别忽视小错误。
+- overnight - 一夜之间；通宵 — Success never comes overnight. 成功从不一夜之间到来。
+- overtake - 超过；追上 — Don’t overtake on curves. 弯道上不要超车。
+- owe - 欠 — I owe you an apology. 我欠你一个道歉。
+- own - 自己的；拥有 — Own your choices. 为你的选择负责。
+- owner - 主人；所有者 — The owner arrived late. 业主来晚了。
+- ownership - 所有权 — Ownership is clear on the title. 所有权在产权证上很清楚。
+- oxygen - 氧气 — Oxygen helps you breathe. 氧气帮助呼吸。
+
+（未完待续）
