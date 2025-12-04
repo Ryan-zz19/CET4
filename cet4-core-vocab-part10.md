@@ -1,0 +1,337 @@
+# CET-4 核心词汇（第10批，含例句，完结）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- pace - 步伐；节奏 — Keep a steady pace. 保持稳定步伐。
+- pack - 打包；一包 — Pack your bag tonight. 今晚把包收拾好。
+- package - 包裹；包装 — The package arrived yesterday. 包裹昨天到了。
+- page - 页 — Turn to page ten. 翻到第十页。
+- pain - 疼痛 — He felt sharp pain. 他感到剧痛。
+- painful - 疼痛的；痛苦的 — It was a painful lesson. 这是堂痛苦的课。
+- paint - 涂漆；画 — Paint the wall white. 把墙刷白。
+- painter - 画家；油漆工 — The painter worked all day. 画家忙了一天。
+- painting - 画作；绘画 — The painting is famous. 这幅画很有名。
+- pair - 一对 — Buy a pair of shoes. 买一双鞋。
+- palace - 宫殿 — The palace is huge. 宫殿很巨大。
+- pale - 苍白的；浅的 — He looked pale. 他看起来很苍白。
+- palm - 手掌；棕榈 — He put the coin in his palm. 他把硬币放在手掌上。
+- pan - 平底锅 — Heat oil in the pan. 在锅里加热油。
+- panda - 熊猫 — The panda is adorable. 熊猫很可爱。
+- panel - 面板；专家组 — The panel discussed the topic. 专家组讨论了该主题。
+- panic - 恐慌 — Don’t panic under pressure. 压力下不要恐慌。
+- pants - 裤子 — His pants are new. 他的裤子是新的。
+- paper - 纸；论文 — Submit the paper tomorrow. 明天提交论文。
+- parade - 游行 — The parade was colorful. 游行很多彩。
+- paragraph - 段落 — Write a clear paragraph. 写一个清晰段落。
+- parallel - 平行的；类似的 — These lines are parallel. 这些线平行。
+- parameter - 参数 — Set the correct parameter. 设定正确参数。
+- pardon - 原谅；赦免 — Pardon my mistake. 请原谅我的错误。
+- parent - 父母 — Parents care deeply. 父母很关心。
+- park - 公园；停车 — Park the car near the gate. 把车停在门附近。
+- parking - 停车 — Parking is limited here. 这里停车位有限。
+- part - 部分；角色 — This is the best part. 这是最好的部分。
+- partial - 部分的；偏袒的 — The test is partial to grammar. 这次测试偏重语法。
+- participate - 参加 — Participate actively in class. 积极参与课堂。
+- participation - 参与 — Your participation matters. 你的参与很重要。
+- particle - 粒子 — Dust particles are visible. 尘埃粒子可见。
+- particular - 特定的；挑剔的 — Be particular about details. 对细节要挑剔。
+- particularly - 特别地 — I particularly liked the ending. 我特别喜欢结尾。
+- part-time - 兼职的 — He works part-time. 他做兼职。
+- partner - 伙伴；合伙人 — Choose a reliable partner. 选择可靠的伙伴。
+- partnership - 合伙；伙伴关系 — Partnership builds strength. 伙伴关系增强力量。
+- party - 聚会；政党 — The party starts at seven. 聚会七点开始。
+- pass - 通过；传递；通行证 — Pass the ball quickly. 快速传球。
+- passage - 通道；一段文字 — Read the passage carefully. 仔细读这段文字。
+- passenger - 乘客 — Each passenger must wear a seat belt. 每位乘客必须系安全带。
+- passion - 热情 — Learn with passion. 带着热情学习。
+- passport - 护照 — Check your passport date. 检查你的护照日期。
+- past - 过去的；过去 — Learn from the past. 从过去中学习。
+- paste - 粘贴；糊状物 — Paste the text here. 在这里粘贴文本。
+- pat - 轻拍 — Give the dog a pat. 轻拍一下狗。
+- patch - 补丁；小片 — Install the latest patch. 安装最新补丁。
+- path - 路径 — Follow the path home. 顺着路径回家。
+- patient - 病人；耐心的 — Be patient with yourself. 对自己要有耐心。
+- patience - 耐心 — Patience is a virtue. 耐心是一种美德。
+- patrol - 巡逻 — Police patrol the area. 警察在该区域巡逻。
+- pattern - 模式；图案 — Recognize the pattern quickly. 快速识别模式。
+- pause - 暂停 — Pause the video now. 现在暂停视频。
+- pave - 铺路 — They paved the street yesterday. 他们昨天铺了路。
+- pavement - 人行道；路面 — The pavement is wet. 路面很湿。
+- pay - 支付；工资 — Pay the bill on time. 按时付账。
+- payment - 付款 — Payment was received. 收到付款。
+- PC - 个人电脑 — The PC needs an update. 这台电脑需要更新。
+- peace - 和平；宁静 — Study in peace. 安静学习。
+- peaceful - 平静的；和平的 — The town is peaceful. 小镇很平静。
+- peak - 山峰；顶点 — Reach the peak at noon. 中午到达山顶。
+- peanut - 花生 — Peanut butter is tasty. 花生酱很好吃。
+- pear - 梨 — The pear is sweet. 梨很甜。
+- pearl - 珍珠 — The pearl necklace is beautiful. 珍珠项链很美。
+- peasant - 农民 — Peasants worked in the field. 农民在田里劳作。
+- peculiar - 奇特的 — The smell is peculiar. 气味很奇特。
+- peer - 同龄人；仔细看 — Peer into the dark room. 仔细看黑暗房间。
+- penalty - 罚金；惩罚 — The penalty was heavy. 罚金很重。
+- pencil - 铅笔 — Sharpen your pencil. 削下你的铅笔。
+- penny - 便士 — He saved every penny. 他省下每一个便士。
+- people - 人们 — People lined up outside. 人们在外面排队。
+- pepper - 胡椒 — Add pepper to taste. 加胡椒调味。
+- per - 每；按照 — It costs ten yuan per kilo. 每公斤十元。
+- perceive - 感知；理解 — Perceive the change in tone. 察觉语气的变化。
+- percent - 百分比 — Ten percent finished early. 百分之十提前完成。
+- percentage - 百分率 — The percentage is high. 百分率很高。
+- perception - 感知；洞察 — Perception differs among people. 人们的感知不同。
+- perfect - 完美的；使完善 — Perfect your essay with edits. 用修改完善你的文章。
+- perfectly - 完美地；完全 — It works perfectly. 它完美运行。
+- perform - 表演；执行 — Perform the steps carefully. 小心执行各步骤。
+- performance - 表演；表现 — Your performance improved. 你的表现提升了。
+- perfume - 香水 — The perfume smells sweet. 香水很甜。
+- perhaps - 也许 — Perhaps we should wait. 也许我们应当等待。
+- period - 时期；句号 — The period ends next week. 学期下周结束。
+- periodic - 周期性的 — Periodic checks are necessary. 定期检查是必要的。
+- perish - 死亡；毁灭 — Many plants perish in drought. 许多植物在干旱中死亡。
+- permanent - 永久的 — Permanent changes were made. 做了永久改变。
+- permission - 许可 — Ask for permission first. 先请求许可。
+- permit - 允许；许可证 — The teacher permitted a retake. 老师允许重考。
+- persist - 坚持；持续 — Persist through difficulties. 坚持度过困难。
+- persistent - 持续的；执拗的 — Persistent effort wins. 持续努力带来胜利。
+- personality - 个性 — Her personality is bright. 她个性开朗。
+- personally - 就个人而言；亲自 — I personally agree. 我个人同意。
+- personnel - 人员；人事 — Personnel changes announced. 公布了人事变动。
+- perspective - 视角；透视 — Change your perspective. 改变你的视角。
+- persuade - 说服 — Try to persuade him politely. 礼貌地试着说服他。
+- persuasive - 有说服力的 — The argument is persuasive. 论证很有说服力。
+- pertain - 属于；与…相关 — The rule pertains to exams. 规则与考试相关。
+- phase - 阶段 — This is the final phase. 这是最后阶段。
+- phenomenon - 现象 — It’s a rare phenomenon. 这是一种罕见现象。
+- philosopher - 哲学家 — The philosopher wrote essays. 哲学家写了文章。
+- philosophy - 哲学 — Philosophy trains thinking. 哲学训练思维。
+- phone - 电话 — Answer the phone, please. 请接电话。
+- photo - 照片 — Take a photo of the scene. 拍下这景象。
+- photographer - 摄影师 — The photographer is talented. 摄影师很有才。
+- photograph - 照片；拍照 — The photograph is clear. 照片很清晰。
+- phrase - 短语 — Learn common phrases. 学习常见短语。
+- physical - 身体的；物理的 — Physical exercise helps health. 体能锻炼有益健康。
+- physician - 医师 — The physician arrived quickly. 医师迅速到达。
+- physics - 物理 — Physics explains motion. 物理解释运动。
+- piano - 钢琴 — She plays the piano well. 她钢琴弹得好。
+- pick - 选择；捡起 — Pick the right answer. 选择正确答案。
+- picnic - 野餐 — We had a picnic in the park. 我们在公园里野餐。
+- picture - 图片 — The picture is beautiful. 图片很美。
+- piece - 一片；一段；作品 — A piece of cake. 小菜一碟。
+- pierce - 刺穿 — Pierce the plastic carefully. 小心刺穿塑料。
+- pig - 猪 — The pig slept in the mud. 猪在泥里睡觉。
+- pile - 堆；堆叠 — Pile the books neatly. 把书整齐堆好。
+- pill - 药丸 — Take one pill daily. 每天吃一颗药丸。
+- pillow - 枕头 — Change your pillow regularly. 定期更换枕头。
+- pilot - 飞行员；试点 — The pilot landed smoothly. 飞行员平稳着陆。
+- pin - 别针；钉 — Use a pin to attach it. 用别针别上。
+- pinch - 捏；掐 — Pinch a little salt. 捏一点盐。
+- pine - 松树；渴望 — Pine trees grow tall. 松树长得高。
+- pink - 粉色 — The sky turned pink. 天空变粉色。
+- pioneer - 先驱；开拓者 — She is a pioneer in AI. 她是AI领域的先驱。
+- pipe - 管子 — Fix the broken pipe. 修好坏管子。
+- pipeline - 管道；流程 — Improve the data pipeline. 改善数据流程。
+- pistol - 手枪 — The pistol was safely stored. 手枪被安全存放。
+- pit - 深坑；果核 — There is a pit in the field. 田里有个坑。
+- pitch - 音高；投掷；场地 — The pitch was muddy. 球场泥泞。
+- pixel - 像素 — Increase the pixel density. 提高像素密度。
+- pizza - 披萨 — We shared a pizza. 我们分享了一个披萨。
+- place - 地方；放置 — Place the box on the table. 把盒子放桌上。
+- plain - 简单的；平原；朴素的 — Plain clothes are comfortable. 朴素衣服很舒服。
+- plan - 计划 — Make a plan today. 今天制定计划。
+- plane - 飞机；平面 — The plane departs at nine. 飞机九点起飞。
+- planet - 行星 — Earth is a planet. 地球是行星。
+- plank - 厚木板 — Walk the plank carefully. 小心走木板。
+- plant - 植物；工厂；种植 — Plant trees in spring. 春天种树。
+- plastic - 塑料；可塑的 — Reduce plastic waste. 减少塑料垃圾。
+- plate - 盘子；板；车牌 — Wash the plates after dinner. 晚餐后洗盘子。
+- platform - 平台；站台 — The train is at platform 3. 火车在3号站台。
+- play - 玩；演奏；戏剧 — Play fair in games. 游戏要公平。
+- player - 玩家；运动员 — Each player tried hard. 每位选手都很努力。
+- playground - 操场 — The playground is busy. 操场很热闹。
+- plea - 请求；抗辩 — He entered a plea of guilty. 他提出认罪抗辩。
+- plead - 恳求；辩护 — She pleaded for more time. 她恳求更多时间。
+- pleasant - 令人愉快的 — It’s pleasant to walk here. 在这里走路很愉快。
+- please - 请；使高兴 — Please come in. 请进。
+- pleasure - 愉快；乐趣 — Reading is a pleasure. 阅读是乐趣。
+- plenty - 大量；充足 — There is plenty of room. 空间很充足。
+- plot - 情节；阴谋；小块地 — The plot is complex. 情节很复杂。
+- plug - 插头；塞子 — Plug in the charger. 插上充电器。
+- plum - 李子；梅子 — The plum tastes sweet. 李子很甜。
+- plumber - 水管工 — Call a plumber to fix it. 找水管工来修。
+- plus - 加；外加 — Ten plus two equals twelve. 十加二等于十二。
+- pocket - 口袋 — Put your phone in your pocket. 把手机放口袋。
+- poem - 诗 — He wrote a poem. 他写了一首诗。
+- poet - 诗人 — The poet read aloud. 诗人大声朗读。
+- poetry - 诗歌 — Poetry moves the heart. 诗歌动人心。
+- point - 点；观点；指出 — What’s your main point? 你的主要观点是什么？
+- pointer - 指针；提示 — Use pointers in slides. 在幻灯片中使用提示。
+- poison - 毒药；毒害 — Poison is dangerous. 毒药很危险。
+- poisonous - 有毒的 — Some mushrooms are poisonous. 有些蘑菇有毒。
+- poke - 戳；捅 — Don’t poke the animal. 别戳动物。
+- polar - 极地的；两极的 — Polar bears live in the Arctic. 北极熊住在北极。
+- pole - 杆；极 — The pole is tall. 杆很高。
+- police - 警察 — Call the police if needed. 需要时报警。
+- policeman - 警察（男） — The policeman helped us. 警察帮助了我们。
+- policy - 政策 — The policy changed last year. 政策去年改变了。
+- polish - 擦亮；抛光；波兰的 — Polish your shoes. 擦亮你的鞋。
+- polite - 礼貌的 — Be polite to teachers. 对老师要有礼貌。
+- political - 政治的 — Political debates were held. 举行了政治辩论。
+- politician - 政治家 — The politician spoke clearly. 政治家讲得很清楚。
+- politics - 政治 — Politics affects society. 政治影响社会。
+- poll - 民调；投票 — The poll shows support. 民调显示支持。
+- pollution - 污染 — Pollution harms nature. 污染伤害自然。
+- pond - 池塘 — Fish live in the pond. 鱼住在池塘里。
+- pool - 水池；游泳池 — The pool is clean. 游泳池很干净。
+- poor - 贫穷的；差的 — Poor habits harm grades. 不良习惯影响成绩。
+- pop - 流行的；砰的一声 — Pop music is popular. 流行音乐很受欢迎。
+- popular - 受欢迎的 — He is popular at school. 他在学校很受欢迎。
+- population - 人口 — Population is growing. 人口在增长。
+- popularity - 受欢迎程度 — His popularity increased. 他的受欢迎程度提高了。
+- pork - 猪肉 — Pork is cheaper than beef. 猪肉比牛肉便宜。
+- port - 港口；端口 — Open port 443 for HTTPS. 为HTTPS开放443端口。
+- portable - 便携的 — The speaker is portable. 音响很便携。
+- portal - 门户 — Log in through the portal. 通过门户登录。
+- portion - 部分；份 — Eat a small portion. 吃少量一份。
+- portrait - 肖像 — The portrait is lifelike. 肖像逼真。
+- pose - 摆姿势；提出（问题） — Pose a question to the class. 向全班提出一个问题。
+- position - 位置；职位；立场 — Keep a neutral position. 保持中立立场。
+- positive - 积极的；阳性的 — Stay positive during study. 学习期间保持积极。
+- possess - 拥有 — Possess strong skills. 拥有强技能。
+- possession - 所有物；占有 — Keep your possession safe. 保管好你的财物。
+- possibility - 可能性 — Consider all possibilities. 考虑所有可能性。
+- possible - 可能的 — It’s possible to finish today. 今天完成是可能的。
+- possibly - 可能；也许 — We will possibly delay. 我们可能会延迟。
+- post - 邮件；张贴；岗位 — Post the notice on the board. 在板上张贴通知。
+- poster - 海报 — The poster is colorful. 海报色彩鲜艳。
+- posture - 姿势；姿态 — Keep good posture when sitting. 坐着保持好姿势。
+- pot - 锅；罐 — Put the soup in the pot. 把汤放锅里。
+- potato - 土豆 — Boil the potatoes first. 先把土豆煮一下。
+- potential - 潜在的；潜力 — Unlock your potential. 释放你的潜力。
+- potentially - 可能地 — It’s potentially dangerous. 这可能有危险。
+- pour - 倒；倾泻 — Pour water into the glass. 把水倒进杯子。
+- poverty - 贫穷 — Poverty affects education. 贫穷影响教育。
+- powder - 粉末 — The powder dissolves quickly. 粉末很快溶解。
+- power - 力量；电力 — Save power at night. 夜间节约用电。
+- powerful - 强大的 — Powerful tools help work. 强大工具帮助工作。
+- practical - 实用的 — Use practical methods. 使用实用方法。
+- practice - 练习；实践 — Practice every day. 每天练习。
+- practitioner - 从业者 — Medical practitioners are busy. 医务人员很忙。
+- praise - 赞美 — Praise students’ effort. 称赞学生的努力。
+- pray - 祈祷 — They pray at dawn. 他们在黎明祈祷。
+- prayer - 祷告 — The prayer was quiet. 祷告很安静。
+- preface - 序言 — Read the preface first. 先读序言。
+- prefer - 更喜欢 — I prefer tea to coffee. 我更喜欢茶而不是咖啡。
+- preference - 偏好 — Your preference is noted. 你的偏好已记录。
+- pregnant - 怀孕的 — She is pregnant. 她怀孕了。
+- prejudice - 偏见 — Fight prejudice with facts. 用事实对抗偏见。
+- premier - 总理；首要的 — The premier visited yesterday. 总理昨天来访。
+- premium - 保险费；溢价；优质的 — Premium seats cost more. 优质座位更贵。
+- prepare - 准备 — Prepare for the test early. 提早准备考试。
+- preparation - 准备；预备 — Good preparation reduces stress. 良好准备减少压力。
+- prescribe - 开处方；规定 — The doctor prescribed medicine. 医生开了药。
+- prescription - 处方；规定 — The prescription is ready. 处方已备好。
+- presence - 出席；存在 — Your presence matters. 你的出席很重要。
+- present - 现在的；礼物；呈现 — Present your idea clearly. 清晰呈现你的想法。
+- presentation - 演示；报告 — The presentation was clear. 演示很清晰。
+- preserve - 保护；保存 — Preserve cultural heritage. 保护文化遗产。
+- president - 总统；校长 — The president gave a speech. 总统发表了演讲。
+- press - 按；压；媒体 — Press the button to start. 按按钮开始。
+- pressure - 压力 — Reduce pressure with breaks. 通过休息减压。
+- prestige - 声望 — The award brings prestige. 奖项带来声望。
+- presume - 假设；推定 — We presume success. 我们假定会成功。
+- pretend - 假装 — Don’t pretend you know. 别假装你懂。
+- pretty - 漂亮的；相当地 — It’s pretty simple. 这很简单。
+- prevent - 阻止；预防 — Prevent errors by checking. 通过检查防止错误。
+- preview - 预览 — Preview the lesson plan. 预览课程计划。
+- previous - 之前的 — The previous test was easy. 上次测试很容易。
+- prey - 猎物；牺牲品 — The lion caught its prey. 狮子捉到了猎物。
+- price - 价格 — The price is fair. 价格合理。
+- pride - 自豪；骄傲 — Take pride in your work. 为你的工作自豪。
+- priest - 神父 — The priest spoke softly. 神父轻声说话。
+- primary - 主要的；小学的 — Primary goals come first. 首要目标优先。
+- prime - 首要的；鼎盛时期 — Prime time TV is popular. 黄金时段电视很受欢迎。
+- primitive - 原始的 — Primitive tools were simple. 原始工具很简单。
+- prince - 王子 — The prince arrived late. 王子来晚了。
+- princess - 公主 — The princess smiled kindly. 公主亲切地微笑。
+- principal - 校长；主要的 — The principal visited the class. 校长来课堂了。
+- principle - 原则 — Follow basic principles. 遵循基本原则。
+- print - 打印 — Print the report today. 今天打印报告。
+- printer - 打印机 — The printer ran out of ink. 打印机没墨了。
+- prior - 先前的；优先的 — Prior experience helps. 先前经验有帮助。
+- priority - 优先事项 — Set clear priority. 设定清晰优先级。
+- prison - 监狱 — He was sent to prison. 他被送进监狱。
+- prisoner - 囚犯 — Prisoners must obey rules. 囚犯必须遵守规则。
+- privacy - 隐私 — Respect others’ privacy. 尊重他人隐私。
+- private - 私人的；私营的 — This is a private matter. 这是私人事务。
+- privilege - 特权 — Privilege brings duty. 特权带来责任。
+- prize - 奖品 — The prize is a book. 奖品是一书。
+- probable - 很可能的 — It is probable to rain. 很可能会下雨。
+- probably - 很可能 — We will probably pass. 我们很可能会通过。
+- problem - 问题 — Solve the problem step by step. 逐步解决问题。
+- procedure - 程序；步骤 — Follow the procedure strictly. 严格遵循步骤。
+- proceed - 继续；进行 — Proceed to the next step. 继续下一步。
+- process - 过程；处理 — Improve the process quality. 提高过程质量。
+- procession - 队伍；行列 — The procession moved slowly. 队伍缓慢移动。
+- proclaim - 宣告 — Proclaim the result publicly. 公开宣布结果。
+- produce - 生产；产生 — Produce more with less waste. 更少浪费生产更多。
+- producer - 制片人；生产者 — The producer called today. 制片人今天打电话了。
+- product - 产品 — The product is popular. 产品很受欢迎。
+- production - 生产；产量 — Production increased last month. 上月产量增加。
+- profession - 职业 — Teaching is a noble profession. 教学是高尚职业。
+- professional - 专业的；专业人士 — Be professional in emails. 邮件要专业。
+- professor - 教授 — The professor is strict. 教授很严格。
+- profile - 侧面；简介 — Update your profile photo. 更新你的头像。
+- profit - 利润 — Profit rose by 10%. 利润增长了10%。
+- profound - 深刻的 — The idea is profound. 观点很深刻。
+- program - 程序；项目 — The program starts at nine. 项目九点开始。
+- progress - 进步；进展 — Track your progress weekly. 每周跟踪进展。
+- progressive - 进步的；逐步的 — Use progressive methods. 使用渐进方法。
+- prohibit - 禁止 — Smoking is prohibited here. 这里禁止吸烟。
+- project - 项目；投射 — The project needs funding. 项目需要资金。
+- projection - 预测；投影 — The projection shows growth. 预测显示增长。
+- promise - 承诺 — Keep your promise. 守信。
+- promote - 促进；提升 — Promote reading habits. 促进阅读习惯。
+- prompt - 迅速的；提示 — Give a prompt reply. 快速回复。
+- prone - 易于…的；俯卧的 — He is prone to errors. 他容易犯错。
+- proof - 证明；证据 — Show proof of identity. 出示身份证明。
+- proper - 合适的；正确的 — Use proper grammar. 使用正确语法。
+- properly - 适当地；正确地 — Dress properly for interviews. 面试穿着得体。
+- property - 财产；属性 — Property values rose. 房产价值上涨。
+- proportion - 比例 — Keep the right proportion. 保持合适比例。
+- proposal - 提案；求婚 — Submit the proposal today. 今天提交提案。
+- propose - 提议；求婚 — Propose a better plan. 提出更好的计划。
+- prospect - 前景；可能性 — The prospect is bright. 前景光明。
+- prospective - 未来的；预期的 — Prospective students visited. 未来学生来访。
+- prosper - 繁荣 — Work hard to prosper. 努力工作以繁荣。
+- prosperity - 繁荣 — Prosperity benefits all. 繁荣惠及所有人。
+- protect - 保护 — Protect the environment. 保护环境。
+- protection - 保护 — Wear protection when working. 工作时佩戴防护装备。
+- protein - 蛋白质 — Protein helps build muscle. 蛋白质帮助增肌。
+- protest - 抗议 — They protested the change. 他们抗议该变化。
+- proud - 自豪的 — Be proud of your progress. 为你的进步自豪。
+- prove - 证明 — Prove your point with facts. 用事实证明你的观点。
+- provide - 提供 — Provide clear instructions. 提供清晰指示。
+- provider - 提供者；供应商 — The provider is reliable. 供应商可靠。
+- province - 省份 — The province is large. 省很大。
+- provision - 供应；条款 — Add a safety provision. 增加安全条款。
+- psychology - 心理学 — Psychology explains behavior. 心理学解释行为。
+- pub - 酒吧 — The pub is busy tonight. 今晚酒吧很忙。
+- public - 公众；公共的 — Public opinion matters. 公众意见很重要。
+- publication - 出版物；发表 — The publication is ready. 出版物已就绪。
+- publicity - 宣传；曝光 — The event got publicity. 活动获得了曝光。
+- publish - 出版；发表 — Publish your article soon. 快发表你的文章。
+- pudding - 布丁 — The pudding is sweet. 布丁很甜。
+- pupil - 学生；瞳孔 — The pupil asked a question. 学生提了问题。
+- purchase - 购买 — Purchase tickets online. 在线购票。
+- pure - 纯的 — Pure water tastes good. 纯净水很好喝。
+- purity - 纯度 — The purity is high. 纯度很高。
+- purple - 紫色 — The sky turned purple. 天空变紫。
+- purpose - 目的 — Find your purpose. 找到你的目标。
+- pursue - 追求 — Pursue knowledge with passion. 热情地追求知识。
+- push - 推 — Push the door gently. 轻推门。
+- put - 放；放置 — Put your phone away. 把你的手机收起来。
+- puzzle - 谜题；困惑 — Solve the puzzle together. 一起解谜。
+- pyramid - 金字塔 — The pyramid stands tall. 金字塔高耸。
+
+（完）
