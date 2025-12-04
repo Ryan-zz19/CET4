@@ -1,0 +1,351 @@
+# CET-4 核心词汇（第8批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- label - 标签；标记 — Add a label to each box. 每个箱子都加个标签。
+- labor - 劳动；劳工 — Skilled labor is in demand. 技能型劳工很受需求。
+- laboratory - 实验室 — The experiment is in the laboratory. 实验在实验室进行。
+- lack - 缺乏 — Lack of sleep hurts health. 缺乏睡眠损害健康。
+- ladder - 梯子 — Climb the ladder carefully. 小心爬梯子。
+- lady - 女士 — The lady asked for help. 那位女士请求帮助。
+- lake - 湖 — The lake is calm today. 今天湖面很平静。
+- lamb - 羔羊；羊肉 — We cooked lamb for dinner. 我们晚餐做了羊肉。
+- lame - 跛的；差劲的 — That’s a lame excuse. 那是个蹩脚的借口。
+- lamp - 灯 — Turn on the lamp. 打开灯。
+- land - 土地；着陆 — The plane will land soon. 飞机很快就要着陆。
+- landing - 着陆；登陆 — The landing was smooth. 着陆很平稳。
+- landscape - 风景；地貌 — The landscape is breathtaking. 风景令人叹为观止。
+- lane - 车道；小巷 — Keep in your lane. 保持在你的车道。
+- language - 语言 — Language shapes thought. 语言塑造思维。
+- large - 大的 — It’s a large classroom. 这是个大的教室。
+- largely - 主要地；基本上 — The plan largely succeeded. 计划基本成功。
+- laser - 激光 — The laser cuts precisely. 激光切割很精确。
+- last - 最后的；持续 — The meeting lasted an hour. 会议持续了一小时。
+- late - 晚的；迟的 — Don’t be late for class. 上课不要迟到。
+- lately - 最近 — I haven’t seen him lately. 我最近没见到他。
+- later - 之后 — We’ll talk later. 我们稍后再谈。
+- Latin - 拉丁语；拉丁的 — Latin roots help vocabulary. 拉丁语词根有助词汇。
+- latter - 后者的；后面的 — Choose the latter option. 选择后者。
+- laugh - 笑 — We laughed at the joke. 我们被笑话逗笑了。
+- laughter - 笑声 — The room filled with laughter. 房间充满笑声。
+- launch - 发射；推出 — They will launch a new app. 他们将推出新应用。
+- laundry - 洗衣；洗衣店 — Do the laundry on Sunday. 周日洗衣服。
+- law - 法律 — Obey the law. 遵守法律。
+- lawn - 草坪 — The lawn is green. 草坪很绿。
+- lawsuit - 诉讼 — The company faced a lawsuit. 公司面临诉讼。
+- lawyer - 律师 — The lawyer reviewed the contract. 律师审阅了合同。
+- layer - 层 — Add another layer of paint. 再涂一层漆。
+- layout - 布局 — Improve the layout of the page. 改善页面布局。
+- lazy - 懒惰的 — Don’t be lazy. 别懒惰。
+- lead - 带领；导致；铅 — Lead the team with care. 小心带领团队。
+- leader - 领导者 — The leader made a speech. 领导者发表了讲话。
+- leadership - 领导力 — Leadership requires vision. 领导力需要远见。
+- leading - 领先的；主要的 — He works for a leading firm. 他在一家领先公司工作。
+- leaf - 叶子 — A leaf fell on the ground. 一片叶子落地。
+- league - 联盟 — They joined the student league. 他们加入了学生联盟。
+- leak - 泄漏 — The pipe leaks water. 管子漏水。
+- lean - 倾斜；依靠；瘦的 — Lean against the wall gently. 轻轻靠在墙上。
+- leap - 跃起；跳跃 — Leap over the puddle. 跳过水坑。
+- learn - 学习 — Learn from mistakes. 从错误中学习。
+- learning - 学习；学问 — Learning is lifelong. 学习终身进行。
+- leave - 离开；留下 — Leave the room quietly. 安静地离开房间。
+- lecture - 讲座；演讲 — The lecture starts at nine. 讲座九点开始。
+- left - 左边的；离开（过去式） — Turn left at the corner. 在拐角处向左转。
+- leg - 腿 — My leg is sore. 我的腿酸痛。
+- legacy - 遗产；遗留 — Leave a positive legacy. 留下积极的遗产。
+- legal - 法律的；合法的 — It’s not legal to do that. 那样做不合法。
+- legend - 传说；图例 — The map legend explains symbols. 地图图例解释符号。
+- leisure - 休闲 — Enjoy leisure time on weekends. 周末享受休闲时光。
+- lend - 借出 — Lend me your book, please. 请把书借给我。
+- length - 长度 — Measure the length of the table. 测量桌子的长度。
+- lens - 镜片；透镜 — Clean the camera lens. 清洁相机镜头。
+- lessen - 减少 — Lessen the pain with rest. 通过休息减轻疼痛。
+- lesson - 课；教训 — This is a useful lesson. 这是有用的一课。
+- lest - 以免 — Leave early lest you be late. 提前出发以免迟到。
+- let - 让；允许 — Let me help you. 让我帮你。
+- letter - 信；字母 — Write a letter to your friend. 给朋友写一封信。
+- level - 水平；等级 — Raise your English level. 提升你的英语水平。
+- leverage - 杠杆；影响力 — Use leverage to negotiate. 利用杠杆谈判。
+- liberal - 自由的；开明的 — He has liberal views. 他有开明的观点。
+- liberty - 自由 — Liberty is a basic right. 自由是基本权利。
+- library - 图书馆 — The library opens at eight. 图书馆八点开放。
+- license - 许可证 — Check your driver’s license. 查看你的驾照。
+- lick - 舔 — The cat licked its paw. 猫舔了它的爪子。
+- lid - 盖子 — Put the lid on the pot. 把盖子盖在锅上。
+- lie - 躺；说谎 — Don’t lie to your friends. 不要对朋友说谎。
+- life - 生命；生活 — Life is beautiful. 生活很美好。
+- lifetime - 一生；寿命 — He worked there for a lifetime. 他在那儿工作了一生。
+- lift - 举起；电梯 — Lift the box carefully. 小心举起箱子。
+- light - 光；轻的；点亮 — Light the candle. 点亮蜡烛。
+- lighten - 变亮；减轻 — Lighten your workload. 减轻你的工作量。
+- lighthouse - 灯塔 — The lighthouse guides ships. 灯塔指引船只。
+- lightly - 轻轻地；轻微地 — Walk lightly on the floor. 轻轻走在地板上。
+- lightning - 闪电 — Lightning struck the tree. 闪电击中了树。
+- like - 喜欢；像 — I like reading. 我喜欢阅读。
+- likely - 可能的 — It’s likely to rain. 可能会下雨。
+- likewise - 同样地 — Likewise, I agree. 我也同意。
+- limb - 肢体；枝干 — He injured a limb. 他伤了肢体。
+- limit - 限制；限度 — Keep speed under the limit. 保持速度在限度内。
+- limitation - 限制；局限 — Know the limitation of the method. 了解该方法的局限。
+- limited - 有限的 — Our time is limited. 我们的时间有限。
+- line - 线；排队；台词 — Stand in line. 排队站好。
+- linear - 线性的 — The model is linear. 模型是线性的。
+- linen - 亚麻布 — The linen feels cool. 亚麻布摸起来凉爽。
+- linger - 逗留；徘徊 — Don’t linger after class. 下课后别逗留。
+- link - 连接；链接 — Click the link to open. 点击链接打开。
+- lion - 狮子 — The lion roared loudly. 狮子大声咆哮。
+- lip - 嘴唇 — Her lips are dry. 她的嘴唇很干。
+- liquid - 液体 — The liquid is transparent. 液体是透明的。
+- list - 列表 — Make a shopping list. 做一份购物清单。
+- listen - 听 — Listen carefully to the instructions. 仔细听指示。
+- literacy - 读写能力 — Literacy improves opportunities. 读写能力提高机会。
+- literal - 字面的 — Take the literal meaning first. 先取字面意思。
+- literary - 文学的 — Literary works enrich culture. 文学作品丰富文化。
+- literature - 文学；文献 — Read classic literature. 阅读经典文学。
+- little - 小的；少量的 — A little help goes far. 一点帮助很有用。
+- live - 生活；居住；直播 — Live in the moment. 活在当下。
+- lively - 活泼的；热闹的 — The market is lively. 市场很热闹。
+- liver - 肝脏 — The liver is important. 肝脏很重要。
+- living - 生活；活着的 — Cost of living is high. 生活成本很高。
+- load - 负载；装载 — Load the truck carefully. 小心装载卡车。
+- loaf - 一条（面包） — Cut a loaf of bread. 切一条面包。
+- loan - 贷款 — Apply for a student loan. 申请助学贷款。
+- local - 当地的 — Buy local products. 购买本地产品。
+- locate - 定位；找到 — Locate the error quickly. 快速定位错误。
+- location - 位置 — The location is convenient. 位置很方便。
+- lock - 锁；锁住 — Lock the door at night. 夜里锁门。
+- lodge - 小屋；寄宿；提出（投诉/抗议） — We lodged a complaint. 我们提出了投诉。
+- log - 原木；日志 — Check the system log. 查看系统日志。
+- logic - 逻辑 — Logic helps reasoning. 逻辑有助推理。
+- logical - 合乎逻辑的 — Make a logical argument. 做出合乎逻辑的论证。
+- lonely - 孤独的 — He feels lonely at night. 他夜里感到孤独。
+- long - 长的；久的 — It’s a long story. 这是个长故事。
+- longer - 更长的 — Use a longer cable. 用更长的电缆。
+- longing - 渴望 — He felt a longing for home. 他渴望回家。
+- look - 看；看起来 — Look at the board. 看黑板。
+- loop - 环；循环 — The loop repeats the task. 循环重复任务。
+- loose - 松的；宽松的 — The screw is loose. 螺丝松了。
+- loosen - 放松；松开 — Loosen the belt. 松开皮带。
+- lord - 领主；上帝 — They prayed to the Lord. 他们向主祈祷。
+- lose - 失去；输 — Don’t lose your wallet. 别丢钱包。
+- loss - 损失 — The loss was small. 损失很小。
+- lost - 迷路的；丢失的 — I feel lost in the city. 我在城市里迷路了。
+- lot - 很多；一块地；抽签 — A lot of students came. 很多学生来了。
+- loud - 大声的 — Speak loud and clear. 说话要响亮清晰。
+- lounge - 休息室 — Meet me in the lounge. 在休息室见我。
+- love - 爱 — Love your family. 爱你的家人。
+- lovely - 可爱的；美好的 — It’s a lovely day. 今天很美好。
+- lover - 情人；爱好者 — He is a music lover. 他是音乐爱好者。
+- low - 低的 — Keep the volume low. 保持音量低。
+- lower - 降低；更低的 — Lower the cost if possible. 尽量降低成本。
+- loyal - 忠诚的 — Be loyal to your team. 对团队忠诚。
+- loyalty - 忠诚 — Loyalty builds long-term trust. 忠诚建立长期信任。
+- luck - 运气 — Good luck on your test. 考试好运。
+- lucky - 幸运的 — You are lucky today. 你今天很幸运。
+- luggage - 行李 — Check your luggage tag. 检查行李标签。
+- lunar - 月球的；阴历的 — The lunar calendar is traditional. 阴历很传统。
+- lunch - 午餐 — Lunch starts at twelve. 午餐十二点开始。
+- lung - 肺 — The lungs help you breathe. 肺帮助你呼吸。
+- luxury - 奢侈；豪华 — Luxury goods are expensive. 奢侈品很贵。
+- lying - 撒谎；躺着 — Lying is wrong. 说谎是不对的。
+- lyric - 歌词 — The lyric is poetic. 歌词很有诗意。
+- machine - 机器 — The machine is broken. 机器坏了。
+- machinery - 机械；设备 — The machinery is complex. 机械很复杂。
+- mad - 生气的；疯狂的 — Don’t get mad over small things. 别为小事生气。
+- made - 制作的；制造（过去式） — The cake is made of chocolate. 蛋糕是巧克力做的。
+- magazine - 杂志 — The magazine publishes monthly. 该杂志每月出版。
+- magic - 魔法；神奇的 — That trick looks like magic. 那招看起来像魔法。
+- magician - 魔术师 — The magician amazed the kids. 魔术师让孩子们惊叹。
+- magnetic - 磁性的；有吸引力的 — The style is magnetic. 这种风格很有吸引力。
+- magnitude - 重要性；大小 — The magnitude of the task is huge. 任务的规模很大。
+- maid - 女仆；侍女 — The maid cleaned the room. 女仆打扫了房间。
+- mail - 邮件 — Check the mail every day. 每天查邮件。
+- main - 主要的 — This is the main point. 这是重点。
+- mainly - 主要地 — We mainly discuss reading. 我们主要讨论阅读。
+- maintain - 维护；保持 — Maintain a healthy routine. 保持健康的作息。
+- maintenance - 维护；保养 — The machine needs maintenance. 机器需要保养。
+- majesty - 威严；陛下 — Her Majesty visited the city. 女王陛下访问了城市。
+- major - 主要的；专业 — He majors in physics. 他主修物理。
+- majority - 多数 — The majority agreed. 多数人同意。
+- make - 制作；使得 — Make a plan first. 先制定计划。
+- maker - 制造者 — The maker fixed the device. 制造者修好了设备。
+- makeup - 化妆；组成 — Her makeup is light. 她化妆很淡。
+- male - 男性的；雄性的 — The male bird is colorful. 雄鸟很鲜艳。
+- mall - 购物中心 — The mall is crowded. 商场很拥挤。
+- man - 男人；人类 — Man and nature coexist. 人与自然共存。
+- manage - 管理；设法 — Manage your time well. 管理好你的时间。
+- management - 管理 — Good management increases efficiency. 良好管理提升效率。
+- manager - 经理 — The manager approved the plan. 经理批准了计划。
+- manner - 方式；礼貌 — Mind your manners. 注意你的礼貌。
+- manual - 手册；手工的 — Read the manual carefully. 仔细阅读手册。
+- manufacture - 制造 — They manufacture bikes locally. 他们本地生产自行车。
+- many - 许多 — Many students passed the test. 许多学生通过了考试。
+- map - 地图 — Use a map to find the route. 用地图找路线。
+- marble - 大理石；弹珠 — The floor is marble. 地板是大理石。
+- march - 行军；三月 — They marched across town. 他们穿过城镇行军。
+- margin - 边缘；利润 — Keep a safety margin. 保留安全边际。
+- marine - 海洋的；海军的 — Marine life is diverse. 海洋生物很丰富。
+- mark - 标记；分数 — Mark the correct answer. 标记正确答案。
+- market - 市场 — The market opens early. 市场开放很早。
+- marketing - 营销 — Marketing drives sales. 营销推动销售。
+- marriage - 婚姻 — Marriage needs trust. 婚姻需要信任。
+- marry - 结婚 — They will marry next year. 他们明年结婚。
+- mask - 面具；口罩 — Wear a mask in crowds. 人多时戴口罩。
+- mass - 大量；质量 — A mass of people gathered. 大量人群聚集。
+- massive - 巨大的 — The change is massive. 变化很巨大。
+- master - 大师；掌握；硕士 — Master the basics first. 先掌握基础。
+- masterpiece - 杰作 — The painting is a masterpiece. 这幅画是杰作。
+- mat - 垫子 — Put a mat on the floor. 在地上放个垫子。
+- match - 比赛；匹配 — The colors match well. 颜色很匹配。
+- mate - 伙伴；配偶 — Birds find mates in spring. 春天鸟类寻找伴侣。
+- material - 材料；物质的 — Choose strong material. 选择坚固材料。
+- mathematics - 数学 — Mathematics trains logic. 数学训练逻辑。
+- math - 数学 — He is good at math. 他数学很好。
+- matter - 事情；物质；要紧 — It doesn’t matter. 没关系。
+- maturity - 成熟 — Maturity takes time. 成熟需要时间。
+- maximum - 最大值 — The maximum score is 100. 最高分是100。
+- may - 可能；五月 — It may rain tonight. 今晚可能下雨。
+- maybe - 也许 — Maybe we should wait. 也许我们应该等一下。
+- mayor - 市长 — The mayor spoke at the event. 市长在活动上发言。
+- me - 我 — Help me with this. 帮我一下。
+- meadow - 草地 — Cows rest in the meadow. 牛在草地上休息。
+- meal - 餐 — The meal was simple. 这顿饭很简单。
+- mean - 意思是；吝啬的；平均值 — What do you mean? 你什么意思？
+- meaning - 意义 — Find the meaning in context. 在语境中找意义。
+- meantime - 同时 — In the meantime, relax. 与此同时，放松一下。
+- meanwhile - 同时；与此同时 — Meanwhile, the team prepared. 与此同时，团队准备好了。
+- measurable - 可测量的 — Set measurable goals. 设定可量化目标。
+- measure - 测量；措施 — Measure the width accurately. 准确测量宽度。
+- measurement - 测量；尺寸 — Check your measurements twice. 把尺寸再核对一次。
+- meat - 肉 — He doesn’t eat meat. 他不吃肉。
+- mechanism - 机制 — The mechanism failed. 机制失效了。
+- medal - 奖牌 — He won a gold medal. 他赢得了金牌。
+- media - 媒体 — The media reported the news. 媒体报道了新闻。
+- medical - 医疗的 — She needs medical help. 她需要医疗帮助。
+- medicine - 药；医学 — Take the medicine twice a day. 每天两次服药。
+- medieval - 中世纪的 — Medieval history is fascinating. 中世纪历史很迷人。
+- medium - 中等；媒介 — Choose a medium size. 选择中号。
+- meet - 遇见；会议 — We meet every Friday. 我们每周五见面。
+- meeting - 会议 — The meeting ended at noon. 会议中午结束。
+- melt - 融化 — The ice will melt soon. 冰很快会融化。
+- member - 成员 — Every member participated. 每位成员都参与了。
+- membership - 会员资格 — Membership is free. 会员资格免费。
+- memo - 备忘录 — Send a memo to staff. 发一份备忘录给员工。
+- memory - 记忆；内存 — Memory improves with practice. 记忆通过练习提高。
+- mental - 心理的；精神的 — Mental health matters. 心理健康很重要。
+- mention - 提及 — Don’t forget to mention the result. 别忘了提及结果。
+- menu - 菜单 — The menu looks delicious. 菜单看起来很好吃。
+- merchant - 商人 — The merchant sold silk. 商人卖丝绸。
+- mercy - 仁慈 — Show mercy to the weak. 对弱者表现仁慈。
+- mere - 仅仅的 — It’s a mere formality. 这只是形式。
+- merge - 合并 — Merge the two files. 合并两个文件。
+- merit - 优点；功绩 — The plan has merit. 这个计划有优点。
+- merry - 欢乐的 — Merry songs filled the hall. 欢乐的歌声充满礼堂。
+- mess - 混乱；凌乱 — The room is a mess. 房间很乱。
+- message - 信息；消息 — Send me a message later. 晚点发消息给我。
+- messy - 凌乱的 — His desk is messy. 他的桌子很乱。
+- metal - 金属 — The tool is made of metal. 工具是金属制的。
+- metaphor - 隐喻 — It’s a metaphor for hope. 这是希望的隐喻。
+- method - 方法 — Use a simple method. 使用简单的方法。
+- metropolitan - 大都市的 — Metropolitan transport is fast. 大都市交通很快。
+- microphone - 麦克风 — Test the microphone before speaking. 发言前测试麦克风。
+- microscope - 显微镜 — Look at cells under a microscope. 用显微镜看细胞。
+- middle - 中间的；中间 — Put it in the middle. 放在中间。
+- midnight - 午夜 — He arrived at midnight. 他午夜到达。
+- might - 可能；力量 — It might snow tonight. 今晚可能下雪。
+- mighty - 强大的 — The river is mighty. 河流很壮阔。
+- migrant - 移民（外来）；迁徙者 — Migrant workers need support. 外来务工者需要支持。
+- migration - 迁徙；移民 — Bird migration happens in autumn. 秋天鸟类迁徙。
+- mile - 英里 — The town is five miles away. 小镇五英里远。
+- military - 军事的 — Military training is strict. 军训很严格。
+- milk - 牛奶 — Milk is fresh today. 今天牛奶很新鲜。
+- mill - 磨坊；工厂 — The mill produces flour. 磨坊生产面粉。
+- mind - 心；介意；思考 — Don’t mind the noise. 别在意噪音。
+- mine - 矿；我的 — This book is mine. 这本书是我的。
+- mineral - 矿物 — Minerals are essential to health. 矿物质对健康必不可少。
+- minimize - 最小化 — Minimize errors in exams. 在考试中尽量减少错误。
+- minimum - 最小值 — The minimum score is 0. 最低分是0。
+- minister - 部长；牧师 — The minister visited the school. 部长视察了学校。
+- ministry - 部 — The Ministry announced changes. 该部宣布了变化。
+- minor - 次要的；未成年 — It’s a minor issue. 这是个次要问题。
+- minority - 少数；少数民族 — Minority rights must be protected. 少数群体的权利必须受到保护。
+- minute - 分钟；极小的 — Wait a few minutes. 等几分钟。
+- miracle - 奇迹 — It felt like a miracle. 感觉像个奇迹。
+- mirror - 镜子 — Look in the mirror. 看镜子。
+- misery - 痛苦；悲惨 — End the misery with help. 借助帮助结束痛苦。
+- mislead - 误导 — Don’t mislead readers. 不要误导读者。
+- missile - 导弹 — The missile test failed. 导弹测试失败。
+- missing - 缺失的；失踪的 — The file is missing. 文件丢失了。
+- mission - 使命；任务 — Our mission is clear. 我们的使命很明确。
+- mistake - 错误 — Learn from your mistakes. 从错误中学习。
+- mistaken - 错误的 — You are mistaken. 你错了。
+- mix - 混合 — Mix the ingredients well. 充分混合材料。
+- mixture - 混合物 — The mixture looks smooth. 混合物很顺滑。
+- mobile - 移动的；手机 — Mobile payment is convenient. 移动支付很方便。
+- mobility - 机动性；流动性 — Social mobility increased. 社会流动性提高了。
+- mock - 嘲笑；模拟的 — Don’t mock beginners. 别嘲笑初学者。
+- mode - 模式；方式 — Switch to night mode. 切换到夜间模式。
+- model - 模型；模特 — The model explains results. 模型解释结果。
+- moderate - 适度的；温和的 — Take a moderate pace. 保持适度的节奏。
+- modern - 现代的 — Modern art is diverse. 现代艺术很多样。
+- modest - 谦虚的；适度的 — Be modest about success. 对成功要谦虚。
+- modify - 修改 — Modify the settings. 修改设置。
+- module - 模块 — Load the math module. 加载数学模块。
+- moist - 潮湿的 — The air is moist today. 今天空气潮湿。
+- moisture - 水分；潮气 — Remove excess moisture. 去除多余水分。
+- mold - 霉菌；模具 — Mold grows in damp rooms. 潮湿房间会长霉。
+- molecule - 分子 — Water is made of molecules. 水由分子组成。
+- mom - 妈妈 — His mom called him. 他妈妈给他打电话。
+- moment - 片刻；时刻 — Wait a moment, please. 请稍等片刻。
+- momentum - 动量；势头 — Maintain momentum in study. 保持学习的势头。
+- money - 钱 — Save money for books. 为买书存钱。
+- monitor - 监视器；监控 — Monitor the progress weekly. 每周监控进度。
+- monkey - 猴子 — The monkey climbed the tree. 猴子爬上了树。
+- month - 月份 — The plan takes a month. 计划需要一个月。
+- monthly - 每月的 — We hold monthly meetings. 我们每月开会。
+- monument - 纪念碑 — The monument stands tall. 纪念碑高高矗立。
+- mood - 心情 — Improve your mood with music. 用音乐改善心情。
+- moon - 月亮 — The moon is bright. 月亮很亮。
+- moral - 道德的；寓意 — The moral of the story is clear. 故事的寓意很清楚。
+- morale - 士气 — High morale helps performance. 高士气有助表现。
+- more - 更多的 — Learn more every day. 每天学更多。
+- moreover - 此外 — Moreover, the data is solid. 此外，数据很扎实。
+- morning - 早晨 — Morning classes start at eight. 早课八点开始。
+- mortgage - 抵押贷款 — They paid the mortgage monthly. 他们每月还房贷。
+- mortal - 会死的；凡人 — Humans are mortal. 人类是凡人。
+- most - 最；多数 — The most important thing is health. 最重要的是健康。
+- mostly - 主要地；大多 — The class is mostly freshmen. 这班级大多是一年级学生。
+- mother - 母亲 — His mother is kind. 他的母亲很善良。
+- motion - 运动；提议 — The motion passed unanimously. 提议全票通过。
+- motivate - 激励 — Motivate yourself with goals. 用目标激励自己。
+- motivation - 动机；动力 — Motivation drives progress. 动力推动进步。
+- motor - 马达；机动车 — The motor stopped suddenly. 马达突然停了。
+- mount - 登上；安装；山 — Mount the camera on the tripod. 把相机装到三脚架上。
+- mountain - 山 — The mountain is high. 山很高。
+- mourn - 哀悼 — They mourned the loss. 他们为失去而哀悼。
+- mouse - 老鼠；鼠标 — The mouse ran quickly. 老鼠跑得很快。
+- mouth - 嘴 — Close your mouth when chewing. 咀嚼时闭上嘴。
+- move - 移动；搬家 — Move the table to the corner. 把桌子移到角落。
+- movement - 运动；移动 — The movement grew fast. 运动发展很快。
+- movie - 电影 — The movie was fun. 电影很有趣。
+- mow - 割草 — Mow the lawn weekly. 每周割草。
+- much - 很多 — Thank you very much. 非常感谢你。
+- mud - 泥 — The shoes are covered in mud. 鞋子沾满泥。
+- multiple - 多重的；倍数的 — Choose multiple answers. 选择多个答案。
+- multiply - 乘；繁殖 — Multiply 5 by 4. 5乘以4。
+- mum/mom - 妈妈 — His mum called him home. 他妈妈叫他回家。
+- muscle - 肌肉 — Muscle grows with training. 肌肉随着训练增长。
+- museum - 博物馆 — Visit the museum today. 今天去参观博物馆。
+- mushroom - 蘑菇 — The mushroom is edible. 这蘑菇可食。
+- music - 音乐 — Music heals the mind. 音乐治愈心灵。
+- musical - 音乐的；音乐剧 — The musical was fantastic. 音乐剧很棒。
+- musician - 音乐家 — She is a talented musician. 她是有才的音乐家。
+- must - 必须 — You must attend the class. 你必须上课。
+- mutual - 互相的 — Mutual respect builds trust. 相互尊重建立信任。
+- my - 我的 — This is my seat. 这是我的座位。
+- myself - 我自己 — I did it myself. 我自己做的。
+- mysterious - 神秘的 — The forest feels mysterious. 森林很神秘。
+- mystery - 神秘；谜 — Solve the mystery with clues. 用线索破解谜题.
+
+（未完待续）
