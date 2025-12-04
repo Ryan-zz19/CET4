@@ -1,0 +1,248 @@
+# CET-4 核心词汇（第7批，含例句）
+
+说明：
+- 结构：英文单词 - 中文释义 — 例句（中英对照）
+
+- ice - 冰 — The lake is covered with ice. 湖面覆盖着冰。
+- ideal - 理想的；理想 — This is the ideal plan. 这是理想的计划。
+- identical - 相同的 — The two results are identical. 两个结果完全相同。
+- identify - 识别；认出 — Identify the main idea. 识别中心思想。
+- identity - 身份 — Check your identity at the gate. 在门口核验身份。
+- idiom - 成语；习语 — Learn common idioms for exams. 学习考试常见习语。
+- idle - 空闲的；懒散的 — Don’t stay idle, start working. 别闲着，开始工作。
+- idol - 偶像 — She met her idol at the show. 她在演出上见到了偶像。
+- if - 如果 — If it rains, we’ll cancel. 如果下雨我们就取消。
+- ignore - 忽视 — Don’t ignore instructions. 别忽视说明。
+- illegal - 非法的 — Illegal actions have consequences. 非法行为有后果。
+- illness - 疾病 — Illness kept him at home. 疾病让他待在家里。
+- illustrate - 说明；插图 — Illustrate your point with examples. 用例子说明你的观点。
+- illustration - 插图；说明 — The book has clear illustrations. 这书有清晰的插图。
+- image - 图像；形象 — The image is blurry. 图像模糊。
+- imagination - 想象力 — Imagination drives creativity. 想象力推动创造力。
+- imagine - 想象 — Imagine a better future. 想象更好的未来。
+- immediate - 立即的；直接的 — Take immediate action. 立即采取行动。
+- immediately - 立刻 — Reply immediately if possible. 可能的话立刻回复。
+- immense - 巨大的 — The task needs immense effort. 这任务需要巨大努力。
+- immigrant - 移民 — Immigrants enrich culture. 移民丰富文化。
+- immigration - 移民（入境） — Go through immigration first. 先通过入境检查。
+- impact - 影响；冲击 — The new rule has a big impact. 新规则影响很大。
+- impatient - 不耐烦的 — Don’t be impatient with beginners. 对初学者别不耐烦。
+- imperative - 必要的；祈使的 — It’s imperative to act now. 现在采取行动很有必要。
+- implement - 实施；执行 — Implement the plan step by step. 逐步实施计划。
+- implication - 含义；影响 — Consider the implication of the change. 考虑变化的影响。
+- imply - 暗示 — His words imply doubt. 他的话暗示了怀疑。
+- import - 进口 — The company imports parts. 公司进口零件。
+- importance - 重要性 — Understand the importance of practice. 理解练习的重要性。
+- important - 重要的 — Time management is important. 时间管理很重要。
+- impose - 强加；征收 — Don’t impose your ideas on others. 不要强加你的想法给别人。
+- impossible - 不可能的 — It’s impossible to finish in one hour. 一小时内完成是不可能的。
+- impress - 使印象深刻 — The speech impressed the audience. 演讲让观众印象深刻。
+- impression - 印象 — First impression matters. 第一印象很重要。
+- impressive - 令人印象深刻的 — The results are impressive. 结果令人印象深刻。
+- improve - 改善 — Improve your writing skills. 改善写作技能。
+- improvement - 改进 — There was visible improvement. 有明显改进。
+- impulse - 冲动；推动力 — Resist the impulse to quit. 抵抗放弃的冲动。
+- in - 在；在…之内 — Stay in the room. 待在房间里。
+- incident - 事件；事故 — The incident was reported. 事件被报告了。
+- incline - 倾斜；倾向 — The road inclines gently. 道路缓慢倾斜。
+- include - 包含 — The price includes tax. 价格含税。
+- inclusive - 包括的；包容的 — Use inclusive language. 使用包容性语言。
+- income - 收入 — His income increased this year. 他今年收入增加了。
+- incoming - 进来的；即将到来的 — Check incoming mail. 检查进来的邮件。
+- incorporate - 合并；纳入 — Incorporate feedback into the plan. 将反馈纳入计划。
+- increase - 增加 — Increase practice time. 增加练习时间。
+- increasingly - 日益；越来越 — It is increasingly popular. 它越来越受欢迎。
+- incredible - 难以置信的 — The speed is incredible. 速度令人难以置信。
+- indeed - 的确；确实 — Indeed, you are right. 的确，你是对的。
+- independence - 独立 — Independence gives freedom. 独立带来自由。
+- independent - 独立的 — Be independent in thinking. 思考要独立。
+- index - 索引；指数 — Create an index for the book. 为书建立索引。
+- indicate - 表明；指示 — The data indicates success. 数据表明成功。
+- indication - 指示；迹象 — There is no indication of failure. 没有失败的迹象。
+- indifferent - 漠不关心的 — Don’t be indifferent to problems. 别对问题漠不关心。
+- indigenous - 本土的 — Indigenous plants grow here. 本土植物在这里生长。
+- indirect - 间接的 — Use indirect speech in reports. 报告中使用间接引语。
+- individual - 个人；个体的 — Respect individual differences. 尊重个体差异。
+- induce - 引起；诱导 — Stress may induce headaches. 压力可能引发头痛。
+- industrial - 工业的 — Industrial growth continues. 工业增长持续。
+- industry - 行业；工业 — The tech industry moves fast. 科技行业发展迅速。
+- inefficiency - 低效 — Inefficiency wastes time. 低效浪费时间。
+- inevitable - 不可避免的 — Change is inevitable. 变化不可避免。
+- infant - 婴儿 — The infant slept quietly. 婴儿安静地睡着。
+- infect - 感染 — The virus infects cells quickly. 病毒迅速感染细胞。
+- infection - 感染 — The infection spread fast. 感染传播很快。
+- infer - 推断 — Infer the meaning from context. 从上下文推断含义。
+- inferior - 次等的；较差的 — Don’t feel inferior to others. 别觉得不如别人。
+- infinite - 无限的 — The possibilities seem infinite. 可能性看似无限。
+- inflame - 点燃；使愤怒 — Don’t inflame the conflict. 不要激化冲突。
+- inflate - 膨胀；充气 — Inflate the tire. 给轮胎充气。
+- inflation - 通货膨胀 — Inflation reduces purchasing power. 通胀降低购买力。
+- influence - 影响 — Teachers influence students deeply. 老师深深影响学生。
+- influential - 有影响力的 — She is an influential leader. 她是有影响力的领导者。
+- inform - 通知 — Please inform us in advance. 请提前通知我们。
+- information - 信息 — Information is power. 信息就是力量。
+- informative - 信息量大的；有启发的 — The lecture was informative. 讲座信息量大。
+- ingredient - 成分；配料 — Read the ingredient list. 阅读配料表。
+- inhabit - 居住 — Many birds inhabit the forest. 许多鸟类居住在森林里。
+- inhabitant - 居民 — The city’s inhabitants are friendly. 城市居民很友好。
+- inhale - 吸入 — Inhale slowly and relax. 缓慢吸气放松。
+- inherent - 固有的 — Risk is inherent in business. 风险是商业的固有属性。
+- inherit - 继承 — He inherited the house. 他继承了房子。
+- initial - 最初的；首字母 — The initial plan changed. 最初的计划改变了。
+- initially - 起初 — Initially, we disagreed. 起初我们不同意。
+- initiative - 倡议；主动性 — Take initiative at work. 在工作中主动。
+- inject - 注射 — The nurse injected the medicine. 护士打了针。
+- injure - 伤害 — He injured his leg. 他伤了腿。
+- injury - 伤害；损伤 — The injury is minor. 伤势很轻。
+- injustice - 不公正 — Injustice must be corrected. 不公正必须纠正。
+- inner - 内部的 — Inner peace matters. 内心的平静很重要。
+- innocent - 无辜的；天真的 — He is innocent of the charge. 他对指控无辜。
+- innovation - 创新 — Innovation drives growth. 创新推动增长。
+- innovative - 创新的 — Innovative ideas change markets. 创新理念改变市场。
+- input - 输入；意见 — Your input is valuable. 你的意见很重要。
+- inquire - 询问 — Inquire at the desk. 在服务台询问。
+- inquiry - 询问；调查 — The inquiry continues. 调查仍在进行。
+- insane - 疯狂的；精神错乱的 — The idea is insane. 这个想法疯狂。
+- insert - 插入 — Insert the card gently. 轻轻插入卡片。
+- inside - 里面；内部 — Stay inside during the storm. 暴风雨期间待在室内。
+- insight - 洞察力 — He offered deep insight. 他提出了深刻见解。
+- insist - 坚持 — Insist on quality. 坚持质量。
+- inspect - 检查 — Inspect the equipment daily. 每日检查设备。
+- inspection - 检查；视察 — The inspection passed. 检查通过了。
+- inspire - 激励；启发 — Teachers inspire students. 老师激励学生。
+- inspiration - 灵感 — Nature gives inspiration. 自然给予灵感。
+- install - 安装 — Install the software now. 现在安装软件。
+- installation - 安装；装置 — The installation took an hour. 安装花了一小时。
+- instance - 实例；情况 — For instance, take this case. 例如，以此为例。
+- instant - 立即的；瞬间 — Instant noodles are popular. 方便面很受欢迎。
+- instantly - 立刻 — The app opens instantly. 应用立刻打开。
+- instead - 代替 — Use notes instead of phones. 用笔记代替手机。
+- instinct - 本能 — Trust your instinct. 相信你的本能。
+- institute - 研究所；学院 — He works at an institute. 他在研究所工作。
+- institution - 机构；制度 — Institutions shape society. 机构塑造社会。
+- instruct - 指导 — Instruct students clearly. 清晰指导学生。
+- instruction - 指令；说明 — Follow the instruction carefully. 仔细遵循说明。
+- instructor - 教练；讲师 — The instructor helped me. 讲师帮助了我。
+- instrument - 乐器；仪器 — The instrument is delicate. 这仪器很精密。
+- insufficient - 不足的 — The data is insufficient. 数据不足。
+- insult - 侮辱 — Don’t insult others. 别侮辱别人。
+- insurance - 保险 — Buy medical insurance. 买医疗保险。
+- insure - 投保；保证 — Insure your bike against theft. 给你的自行车投保防盗。
+- integrate - 整合；融合 — Integrate theory with practice. 将理论与实践融合。
+- integration - 整合；一体化 — Integration needs time. 整合需要时间。
+- integrity - 诚实；正直 — Integrity builds reputation. 诚实建立声誉。
+- intellectual - 智力的；知识分子 — Intellectual growth matters. 智力成长很重要。
+- intelligence - 智力；情报 — Intelligence helps problem-solving. 智力有助解决问题。
+- intelligent - 聪明的 — He is intelligent and diligent. 他聪明又勤奋。
+- intend - 打算 — We intend to finish this week. 我们打算本周完成。
+- intense - 强烈的；紧张的 — The heat was intense. 炎热很强烈。
+- intensity - 强度 — Increase the training intensity. 增加训练强度。
+- intensive - 密集的；强化的 — Take an intensive course. 参加强化课程。
+- intent - 意图；专心的 — His intent was clear. 他的意图很清楚。
+- intention - 打算；意图 — She announced her intention to quit. 她宣布了想辞职。
+- interact - 互动 — Students interact in class. 学生在课堂上互动。
+- interaction - 互动；相互作用 — Social interaction helps learning. 社交互动有助于学习。
+- interest - 兴趣；利息 — Show interest in reading. 对阅读保持兴趣。
+- interesting - 有趣的 — The story is very interesting. 故事很有趣。
+- interfere - 干涉 — Don’t interfere with others’ work. 不要干涉别人工作。
+- interference - 干扰 — Signal interference is strong. 信号干扰很强。
+- interim - 暂时的；过渡期的 — He is the interim manager. 他是临时经理。
+- interior - 内部；室内的 — The interior is bright. 室内很明亮。
+- intermediate - 中级的；中间的 — Take an intermediate course next term. 下学期上中级课程。
+- internal - 内部的 — Internal changes were made. 做了内部调整。
+- international - 国际的 — International students are welcome. 欢迎国际学生。
+- internet - 互联网 — The internet connects us. 互联网把我们连接起来。
+- interpret - 解释；口译 — Interpret the chart carefully. 仔细解释图表。
+- interpretation - 解释；演绎 — Your interpretation is convincing. 你的解读很有说服力。
+- interrupt - 打断 — Don’t interrupt the speaker. 不要打断演讲者。
+- intersection - 十字路口；交点 — Stop at the intersection. 在路口停下。
+- intervene - 干预 — The teacher intervened to help. 老师介入提供帮助。
+- intervention - 干预；介入 — Early intervention works. 早期干预有效。
+- interview - 面试；采访 — He has an interview tomorrow. 他明天有面试。
+- intimate - 亲密的；暗示 — They are intimate friends. 他们是亲密朋友。
+- intimidate - 恐吓 — Don’t intimidate classmates. 别恐吓同学。
+- into - 进入；成为 — She went into the room. 她进入房间。
+- introduce - 介绍 — Introduce yourself briefly. 简要介绍你自己。
+- introduction - 介绍；引言 — Read the introduction first. 先读引言。
+- invade - 入侵；侵扰 — Mosquitoes invade the room at night. 晚上蚊子侵扰房间。
+- invasion - 入侵 — The invasion shocked the world. 入侵震惊世界。
+- invent - 发明 — He invented a new tool. 他发明了新工具。
+- invention - 发明；创造 — The invention saved time. 这项发明节省了时间。
+- inventory - 库存；清单 — Check the inventory monthly. 每月检查库存。
+- invest - 投资 — Invest in your education. 投资你的教育。
+- investigate - 调查 — Investigate the cause of failure. 调查失败原因。
+- investigation - 调查 — The investigation found the truth. 调查发现了真相。
+- investor - 投资者 — Investors trusted the company. 投资者信任公司。
+- invite - 邀请 — Invite your friends to join. 邀请你的朋友参加。
+- invoice - 发票 — The invoice was sent by email. 发票通过邮件发送。
+- involve - 涉及；包含 — The job involves travel. 这份工作涉及出差。
+- involvement - 参与；卷入 — His involvement was limited. 他的参与有限。
+- inward - 向内的；内心的 — Take a deep inward breath. 做一次深深的内吸。
+- iron - 铁；熨烫 — Iron the shirt before the event. 活动前把衬衫熨好。
+- irregular - 不规则的；不合常规的 — The heartbeat is irregular. 心跳不规则。
+- irrelevant - 不相关的 — Remove irrelevant details. 删除不相关细节。
+- irrigate - 灌溉 — Irrigate the field weekly. 每周灌溉田地。
+- irritation - 刺激；恼怒 — Dust causes eye irritation. 灰尘导致眼睛刺激。
+- island - 岛屿 — The island is beautiful. 岛很美。
+- isolate - 隔离；孤立 — Isolate the patient for safety. 为安全起见隔离病人。
+- issue - 问题；期刊；发布 — Address the issue quickly. 快速解决问题。
+- it - 它；这 — It is raining. 在下雨。
+- item - 条目；物品 — Add a new item to the list. 列表添加新条目。
+- ivory - 象牙；乳白色 — Ivory is banned in trade. 象牙交易被禁止。
+- jacket - 夹克 — Wear a jacket in winter. 冬天穿夹克。
+- jail - 监狱；监禁 — He spent a year in jail. 他在监狱待了一年。
+- jam - 果酱；堵塞 — Traffic jam is common in rush hour. 高峰期堵车很常见。
+- January - 一月 — School starts in January. 学校一月开学。
+- jealous - 嫉妒的 — Don’t be jealous of others. 别嫉妒别人。
+- jeans - 牛仔裤 — He wore jeans today. 他今天穿牛仔裤。
+- jelly - 果冻 — The jelly is sweet. 果冻很甜。
+- jewel - 宝石 — The jewel is rare. 宝石很罕见。
+- jewelry - 珠宝 — Jewelry is expensive. 珠宝很贵。
+- job - 工作 — He found a new job. 他找到新工作。
+- jog - 慢跑 — Jog for thirty minutes daily. 每天慢跑三十分钟。
+- join - 加入 — Join the club now. 现在加入俱乐部。
+- joint - 关节；联合的 — Joint efforts lead to success. 联合努力带来成功。
+- joke - 玩笑 — He made a joke to relax. 他开个玩笑放松一下。
+- journal - 日志；期刊 — Keep a learning journal. 保持学习日志。
+- journey - 旅程 — The journey took five hours. 旅程花了五小时。
+- joy - 欢乐 — Share joy with friends. 与朋友分享欢乐。
+- judge - 法官；判断 — Don’t judge too quickly. 别太快下判断。
+- judgement/judgment - 判断；裁决 — Use good judgment in exams. 考试中要善于判断。
+- juice - 果汁 — Drink orange juice for vitamin C. 喝橙汁补维C。
+- July - 七月 — July is hot. 七月很热。
+- jump - 跳 — He jumped over the fence. 他跳过了栅栏。
+- junction - 交汇处；接合 — Meet at the junction. 在交汇处见。
+- June - 六月 — The event is in June. 活动在六月。
+- junior - 初级的；年少的 — Junior students need guidance. 低年级学生需要指导。
+- jury - 陪审团 — The jury reached a verdict. 陪审团作出裁决。
+- just - 只是；公正的；刚刚 — It’s just a joke. 这只是个玩笑。
+- justice - 正义；司法 — Justice must be served. 必须伸张正义。
+- justify - 辩解；证明合理 — Justify your answer. 证明你的答案合理。
+- keen - 渴望的；敏锐的 — He is keen to learn. 他渴望学习。
+- keep - 保持；保留 — Keep calm and carry on. 保持冷静继续前进。
+- keeper - 看管人；守门员 — The zoo keeper is careful. 动物园管理员很细心。
+- key - 关键；钥匙 — Time is the key to success. 时间是成功的关键。
+- keyboard - 键盘 — Clean the keyboard regularly. 定期清洁键盘。
+- kick - 踢 — Don’t kick the door. 别踢门。
+- kid - 小孩 — The kid is clever. 小孩很聪明。
+- kidney - 肾 — The kidney filters blood. 肾脏过滤血液。
+- kill - 杀 — Don’t kill animals. 不要杀动物。
+- kilogram - 千克 — The bag weighs five kilograms. 包重五公斤。
+- kilometer - 千米 — The school is two kilometers away. 学校两公里远。
+- kind - 种类；友好的 — Be kind to newcomers. 对新来者友好。
+- kindness - 善良 — Kindness makes people happy. 善良让人快乐。
+- kingdom - 王国 — The kingdom fell in war. 王国在战争中灭亡。
+- kiss - 吻 — He kissed her hand. 他吻了她的手。
+- kit - 成套工具；装备 — The first-aid kit is ready. 急救包准备好了。
+- kitchen - 厨房 — The kitchen is small. 厨房很小。
+- kite - 风筝 — Fly a kite on the lawn. 在草地上放风筝。
+- knee - 膝盖 — His knee hurts. 他的膝盖疼。
+- knit - 编织 — She knits scarves. 她编织围巾。
+- knife - 刀 — The knife is sharp. 刀很锋利。
+- knock - 敲 — Knock on the door gently. 轻轻敲门。
+- knot - 结 — Tie a knot in the rope. 在绳子上打个结。
+- know - 知道；认识 — Know your strengths. 了解你的优势。
+- knowledge - 知识 — Knowledge grows with reading. 知识随阅读增长。
+- known - 已知的 — It’s a known issue. 这是个已知问题。
+
+（未完待续）
